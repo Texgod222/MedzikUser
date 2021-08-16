@@ -23,14 +23,13 @@
   <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" /></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/gatsby/gatsby.png" alt="gatsby" width="40" height="40" /></code>
   <code><img src="/icons/mongodb/mongodb.svg" alt="mongodb" width="40" height="40" /></code>
-  
 </p>
 
 ## IDEs
 
 <p align="center">
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40" /></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/gitpod/gitpod.png" alt="gitpod" width="40" height="40" /></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40" /></code>
 </p>
 
 ## 🔥 Streak Stats
@@ -49,8 +48,18 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="MedzikUser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MedzikUser&show_icons=true&theme=radical&line_height=27&include_all_commits=true&count_private=true" />
   </a>
 </p>
+
+## ✨ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
