@@ -59,11 +59,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MedzikUser/api/pull/2) in [MedzikUser/api](https://github.com/MedzikUser/api)
-2. 🎉 Merged PR [#1](https://github.com/MedzikUser/api/pull/1) in [MedzikUser/api](https://github.com/MedzikUser/api)
-3. ❌ Closed PR [#11](https://github.com/MedzikUser/go-pingbot/pull/11) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-4. 🗣 Commented on [#11](https://github.com/MedzikUser/go-pingbot/issues/11) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-5. 🗣 Commented on [#7308](https://github.com/termux/termux-packages/issues/7308) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🎉 Merged PR [#5](https://github.com/MedzikUser/go-cdn/pull/5) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
+2. 🎉 Merged PR [#7](https://github.com/MedzikUser/go-cdn/pull/7) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
+3. 🎉 Merged PR [#8](https://github.com/MedzikUser/go-cdn/pull/8) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
+4. 🎉 Merged PR [#2](https://github.com/MedzikUser/api/pull/2) in [MedzikUser/api](https://github.com/MedzikUser/api)
+5. 🎉 Merged PR [#1](https://github.com/MedzikUser/api/pull/1) in [MedzikUser/api](https://github.com/MedzikUser/api)
 <!--END_SECTION:activity-->
 
 ---
