@@ -14,8 +14,8 @@
 <p align="center">
   <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40" /></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript" width="40" height="40" /></code>
-  <code><img src="https://golang.org/doc/gopher/favicon.svg" alt="golang" width="40" height="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="gatsby" width="40" height="40" /></code>
+  <code><img src="https://golang.org/doc/gopher/favicon.svg" alt="go" width="40" height="40" /></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40" /></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="40" height="40" /></code>
 </p>
 
@@ -25,7 +25,7 @@
   <code><img src="/icons/mongodb/mongodb.svg" alt="mongodb" width="40" height="40" /></code>
 </p>
 
-## IDEs
+## 📝 IDEs
 
 <p align="center">
   <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/gitpod/gitpod.png" alt="gitpod" width="40" height="40" /></code>
@@ -56,7 +56,7 @@
   </a>
 </p>
 
-## ✨ Recent Activity
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/MedzikUser/api/pull/2) in [MedzikUser/api](https://github.com/MedzikUser/api)
