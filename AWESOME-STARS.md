@@ -6,6 +6,8 @@
 ## Contents
 
   - [C](#c)
+  - [C++](#c++)
+  - [CSS](#css)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -20,6 +22,14 @@
 
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+## C++ 
+
+- [GaZaTu/x11-emoji-picker](https://github.com/GaZaTu/x11-emoji-picker) - Linux XServer emoji picker
+
+## CSS 
+
+- [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot) - 
 
 ## Go 
 
@@ -47,6 +57,7 @@
 
 ## Java 
 
+- [baumblatt/capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## JavaScript 
@@ -61,7 +72,7 @@
 
 ## Others 
 
-- [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser) - 
+- [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser) - This is a special repository
 - [addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
 
 ## Python 
@@ -77,6 +88,8 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [MedzikUser/api](https://github.com/MedzikUser/api) - My API
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
