@@ -1,4 +1,4 @@
-name: Update awesome-stars
+name: Update Awesome Stars
 
 on:
   schedule:
@@ -11,12 +11,12 @@ on:
     #        │ │ │ │ │
     #        │ │ │ │ │
     #        * * * * *
-    - cron: '0 18 * * *'
+    - cron: '0 8/4 * * *'
   workflow_dispatch:
 
 jobs:
   awesome-stars:
-    name: update awesome-stars
+    name: Update Awesome Stars
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -26,7 +26,8 @@ jobs:
         with:
           python-version: 3.8
 
-      - run: pip install starred
+      - name: Install dependencies
+        run: pip install starred
 
       - name: Update star list
         run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.GITHUB_TOKEN }} > AWESOME-STARS.md
