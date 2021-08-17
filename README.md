@@ -59,11 +59,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MedzikUser/ionic-react-screenshot/pull/2) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-2. 🎉 Merged PR [#3](https://github.com/MedzikUser/ionic-react-screenshot/pull/3) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-3. 🎉 Merged PR [#4](https://github.com/MedzikUser/ionic-react-screenshot/pull/4) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-4. 🎉 Merged PR [#1](https://github.com/MedzikUser/ionic-react-screenshot/pull/1) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-5. 🎉 Merged PR [#5](https://github.com/MedzikUser/go-cdn/pull/5) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
+1. 🎉 Merged PR [#15](https://github.com/MedzikUser/ionic-react-screenshot/pull/15) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+2. 🎉 Merged PR [#12](https://github.com/MedzikUser/ionic-react-screenshot/pull/12) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+3. 🎉 Merged PR [#10](https://github.com/MedzikUser/ionic-react-screenshot/pull/10) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+4. 🎉 Merged PR [#13](https://github.com/MedzikUser/ionic-react-screenshot/pull/13) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+5. 🎉 Merged PR [#14](https://github.com/MedzikUser/ionic-react-screenshot/pull/14) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
 <!--END_SECTION:activity-->
 
 ---
