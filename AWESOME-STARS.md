@@ -12,7 +12,9 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Others](#others)
+  - [PHP](#php)
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -26,6 +28,7 @@
 
 ## C++ 
 
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [GaZaTu/x11-emoji-picker](https://github.com/GaZaTu/x11-emoji-picker) - Linux XServer emoji picker
 
 ## CSS 
@@ -34,6 +37,7 @@
 
 ## Go 
 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives
 - [golang/time](https://github.com/golang/time) - [mirror] Go supplementary time packages
 - [golang/mod](https://github.com/golang/mod) - [mirror] Go module mechanics libraries
@@ -49,7 +53,7 @@
 - [MedzikUser/go-github-selfupdate](https://github.com/MedzikUser/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils) - Utils for golang
 - [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) - 📦🚀 semantic-release written in go
-- [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot) - [mirror] Backend for https://www.pingbot.cf/
+- [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot) - Backend for https://www.pingbot.cf/
 - [jpillora/opts](https://github.com/jpillora/opts) - A Go (golang) package for building frictionless command-line interfaces
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -71,6 +75,7 @@
 
 ## JavaScript 
 
+- [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
@@ -81,10 +86,18 @@
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
+## Kotlin 
+
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
 ## Others 
 
 - [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser) - This is a special repository
 - [addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
+
+## PHP 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## Python 
 
@@ -101,12 +114,14 @@
 
 ## Shell 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 
 ## TypeScript 
 
+- [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [gitpod-io/vscode](https://github.com/gitpod-io/vscode) - Gitpod fork of vscode
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
