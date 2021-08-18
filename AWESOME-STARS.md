@@ -62,6 +62,7 @@
 
 ## JavaScript 
 
+- [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio) - Frontend for https://www.magicuser.cf
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
