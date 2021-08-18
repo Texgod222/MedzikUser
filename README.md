@@ -59,11 +59,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/MedzikUser/ionic-react-screenshot/pull/20) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-2. 🎉 Merged PR [#21](https://github.com/MedzikUser/ionic-react-screenshot/pull/21) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-3. 🎉 Merged PR [#19](https://github.com/MedzikUser/ionic-react-screenshot/pull/19) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-4. 🎉 Merged PR [#15](https://github.com/MedzikUser/ionic-react-screenshot/pull/15) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-5. 🎉 Merged PR [#12](https://github.com/MedzikUser/ionic-react-screenshot/pull/12) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+1. 💪 Opened PR [#7345](https://github.com/termux/termux-packages/pull/7345) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 💪 Opened PR [#476](https://github.com/gitpod-io/workspace-images/pull/476) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+3. 🎉 Merged PR [#20](https://github.com/MedzikUser/ionic-react-screenshot/pull/20) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+4. 🎉 Merged PR [#21](https://github.com/MedzikUser/ionic-react-screenshot/pull/21) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+5. 🎉 Merged PR [#19](https://github.com/MedzikUser/ionic-react-screenshot/pull/19) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
 <!--END_SECTION:activity-->
 
 ---
