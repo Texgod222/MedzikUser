@@ -34,6 +34,13 @@
 
 ## Go 
 
+- [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives
+- [golang/time](https://github.com/golang/time) - [mirror] Go supplementary time packages
+- [golang/mod](https://github.com/golang/mod) - [mirror] Go module mechanics libraries
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system
+- [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
+- [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [struCoder/pidusage](https://github.com/struCoder/pidusage) - Cross-platform process cpu % and memory usage of a PID for golang
@@ -64,6 +71,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio) - Frontend for https://www.magicuser.cf
@@ -99,6 +107,11 @@
 
 ## TypeScript 
 
+- [gitpod-io/vscode](https://github.com/gitpod-io/vscode) - Gitpod fork of vscode
+- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for VS Code
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
