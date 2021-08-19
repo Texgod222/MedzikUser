@@ -59,11 +59,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/1) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-2. 🎉 Merged PR [#25](https://github.com/MedzikUser/ionic-react-screenshot/pull/25) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
-3. 💪 Opened PR [#7345](https://github.com/termux/termux-packages/pull/7345) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 💪 Opened PR [#476](https://github.com/gitpod-io/workspace-images/pull/476) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-5. 🎉 Merged PR [#20](https://github.com/MedzikUser/ionic-react-screenshot/pull/20) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+1. ❌ Closed PR [#4](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/4) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
+2. ❌ Closed PR [#1](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/1) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
+3. 🎉 Merged PR [#25](https://github.com/MedzikUser/ionic-react-screenshot/pull/25) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+4. 💪 Opened PR [#7345](https://github.com/termux/termux-packages/pull/7345) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 💪 Opened PR [#476](https://github.com/gitpod-io/workspace-images/pull/476) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
 <!--END_SECTION:activity-->
 
 ---
