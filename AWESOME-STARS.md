@@ -39,6 +39,7 @@
 
 ## Go 
 
+- [mongodb/mongocli](https://github.com/mongodb/mongocli) - MongoDB CLI enables you to manage your MongoDB in the Cloud
 - [go-semantic-release/commit-analyzer-cz](https://github.com/go-semantic-release/commit-analyzer-cz) - :bulb: Conventional Commits Analyzer
 - [go-semantic-release/condition-github](https://github.com/go-semantic-release/condition-github) - ✅ GitHub Actions Condition
 - [go-semantic-release/condition-gitlab](https://github.com/go-semantic-release/condition-gitlab) - ✅ GitLab CI Condition
@@ -74,6 +75,7 @@
 
 ## HTML 
 
+- [fireship-io/wavy-curvey-blobby-website](https://github.com/fireship-io/wavy-curvey-blobby-website) - A website design with lots of waves, curves, a blobs
 - [fireship-io/230-animated-form-password-meter](https://github.com/fireship-io/230-animated-form-password-meter) - Animated Form w/ Password Strength Meter
 
 ## Java 
