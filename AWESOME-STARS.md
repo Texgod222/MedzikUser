@@ -7,7 +7,6 @@
 
   - [C](#c)
   - [C++](#c++)
-  - [CSS](#css)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -18,6 +17,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -31,12 +31,14 @@
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [GaZaTu/x11-emoji-picker](https://github.com/GaZaTu/x11-emoji-picker) - Linux XServer emoji picker
 
-## CSS 
-
-- [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot) - 
-
 ## Go 
 
+- [go-semantic-release/commit-analyzer-cz](https://github.com/go-semantic-release/commit-analyzer-cz) - :bulb: Conventional Commits Analyzer
+- [go-semantic-release/condition-github](https://github.com/go-semantic-release/condition-github) - ✅ GitHub Actions Condition
+- [go-semantic-release/condition-gitlab](https://github.com/go-semantic-release/condition-gitlab) - ✅ GitLab CI Condition
+- [go-semantic-release/provider-gitlab](https://github.com/go-semantic-release/provider-gitlab) - :fox_face: GitLab Provider
+- [go-semantic-release/provider-github](https://github.com/go-semantic-release/provider-github) - :octocat: GitHub Provider
+- [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives
 - [golang/time](https://github.com/golang/time) - [mirror] Go supplementary time packages
@@ -75,6 +77,7 @@
 
 ## JavaScript 
 
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
@@ -118,6 +121,10 @@
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
+
+## Swift 
+
+- [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot) - 
 
 ## TypeScript 
 
