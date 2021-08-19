@@ -7,6 +7,7 @@
 
   - [C](#c)
   - [C++](#c++)
+  - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -28,8 +29,13 @@
 
 ## C++ 
 
+- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [GaZaTu/x11-emoji-picker](https://github.com/GaZaTu/x11-emoji-picker) - Linux XServer emoji picker
+
+## Dart 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Go 
 
@@ -72,12 +78,15 @@
 
 ## Java 
 
-- [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots) - 
+- [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots) - [WIP] A mobile application that contains screenshots that have been made with a special program
 - [baumblatt/capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## JavaScript 
 
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+- [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -92,6 +101,7 @@
 
 ## Kotlin 
 
+- [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## Others 
