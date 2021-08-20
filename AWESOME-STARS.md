@@ -69,7 +69,7 @@
 - [MedzikUser/go-github-selfupdate](https://github.com/MedzikUser/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils) - Utils for golang
 - [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) - 📦🚀 semantic-release written in go
-- [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot) - Backend for https://www.pingbot.cf/
+- [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot) - This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
 - [jpillora/opts](https://github.com/jpillora/opts) - A Go (golang) package for building frictionless command-line interfaces
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -108,7 +108,7 @@
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio) - Frontend for https://www.magicuser.cf
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot) - Frontend for https://www.pingbot.cf/
+- [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot) - Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
