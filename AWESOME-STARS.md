@@ -7,6 +7,7 @@
 
   - [C](#c)
   - [C++](#c++)
+  - [CSS](#css)
   - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
@@ -34,6 +35,10 @@
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [GaZaTu/x11-emoji-picker](https://github.com/GaZaTu/x11-emoji-picker) - Linux XServer emoji picker
+
+## CSS 
+
+- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 
 ## Dart 
 
@@ -90,6 +95,8 @@
 
 ## JavaScript 
 
+- [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [SimCoderYoutube/InstagramClone](https://github.com/SimCoderYoutube/InstagramClone) - 
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
