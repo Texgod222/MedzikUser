@@ -99,11 +99,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/MedzikUser/go-pingbot/pull/14) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-2. 🎉 Merged PR [#8](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/8) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-3. 🎉 Merged PR [#7](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/7) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-4. ❌ Closed PR [#4](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/4) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-5. ❌ Closed PR [#1](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/1) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
+1. ❌ Closed PR [#4](https://github.com/MedzikUser/action-setup-git/pull/4) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
+2. 🗣 Commented on [#4](https://github.com/MedzikUser/action-setup-git/issues/4) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
+3. 🎉 Merged PR [#8](https://github.com/MedzikUser/action-setup-git/pull/8) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
+4. 🎉 Merged PR [#5](https://github.com/MedzikUser/action-setup-git/pull/5) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
+5. 🎉 Merged PR [#6](https://github.com/MedzikUser/action-setup-git/pull/6) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
 <!--END_SECTION:activity-->
 
 ---
