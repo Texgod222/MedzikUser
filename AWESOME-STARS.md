@@ -24,11 +24,13 @@
 
 ## C 
 
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## C++ 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [GaZaTu/x11-emoji-picker](https://github.com/GaZaTu/x11-emoji-picker) - Linux XServer emoji picker
@@ -80,12 +82,15 @@
 
 ## Java 
 
+- [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots) - [WIP] A mobile application that contains screenshots that have been made with a special program
 - [baumblatt/capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## JavaScript 
 
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -103,6 +108,7 @@
 
 ## Kotlin 
 
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
