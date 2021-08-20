@@ -12,24 +12,66 @@
 </p>
 
 <p align="center">
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript" width="40" height="40" /></code>
-  <code><img src="https://golang.org/doc/gopher/favicon.svg" alt="go" width="40" height="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="40" height="40" /></code>
+  <code>
+    <a href="https://developer.mozilla.org/en/JavaScript">
+       <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://golang.org/">
+      <img src="https://golang.org/doc/gopher/favicon.svg" alt="go" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://developer.mozilla.org/en/HTML">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.docker.com/">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="40" height="40" />
+    </a>
+  </code>
 </p>
 
 <p align="center">
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/gatsby/gatsby.png" alt="gatsby" width="40" height="40" /></code>
-  <code><img src="icons/mongodb/mongodb.svg" alt="mongodb" width="40" height="40" /></code>
+  <code>
+    <a href="https://nodejs.org/">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.gatsbyjs.com/">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/gatsby/gatsby.png" alt="gatsby" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://www.mongodb.com/">
+      <img src="icons/mongodb/mongodb.svg" alt="mongodb" width="40" height="40" />
+    </a>
+  </code>
 </p>
 
 ## 📝 IDEs
 
 <p align="center">
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/gitpod/gitpod.png" alt="gitpod" width="40" height="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40" /></code>
+  <code>
+    <a href="https://www.gitpod.io/">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/gitpod/gitpod.png" alt="gitpod" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://code.visualstudio.com/">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40" />
+    </a>
+  </code>
+  <code></code>
+  <code></code>
 </p>
 
 ## 🔥 Streak Stats
