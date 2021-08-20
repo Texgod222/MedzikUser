@@ -101,11 +101,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/8) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-2. 🎉 Merged PR [#7](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/7) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-3. ❌ Closed PR [#4](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/4) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-4. ❌ Closed PR [#1](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/1) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
-5. 🎉 Merged PR [#25](https://github.com/MedzikUser/ionic-react-screenshot/pull/25) in [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot)
+1. 🎉 Merged PR [#14](https://github.com/MedzikUser/go-pingbot/pull/14) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+2. 🎉 Merged PR [#8](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/8) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
+3. 🎉 Merged PR [#7](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/7) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
+4. ❌ Closed PR [#4](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/4) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
+5. ❌ Closed PR [#1](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/1) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
 <!--END_SECTION:activity-->
 
 ---
