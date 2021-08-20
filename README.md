@@ -70,8 +70,6 @@
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40" />
     </a>
   </code>
-  <code></code>
-  <code></code>
 </p>
 
 ## 🔥 Streak Stats
