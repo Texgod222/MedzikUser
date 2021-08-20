@@ -46,6 +46,7 @@
 
 ## Go 
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [mongodb/mongocli](https://github.com/mongodb/mongocli) - MongoDB CLI enables you to manage your MongoDB in the Cloud
 - [go-semantic-release/commit-analyzer-cz](https://github.com/go-semantic-release/commit-analyzer-cz) - :bulb: Conventional Commits Analyzer
 - [go-semantic-release/condition-github](https://github.com/go-semantic-release/condition-github) - ✅ GitHub Actions Condition
@@ -95,6 +96,7 @@
 
 ## JavaScript 
 
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [SimCoderYoutube/InstagramClone](https://github.com/SimCoderYoutube/InstagramClone) - 
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
