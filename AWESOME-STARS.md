@@ -19,12 +19,13 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
-  - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -46,6 +47,8 @@
 
 ## Go 
 
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+- [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [mongodb/mongocli](https://github.com/mongodb/mongocli) - MongoDB CLI enables you to manage your MongoDB in the Cloud
 - [go-semantic-release/commit-analyzer-cz](https://github.com/go-semantic-release/commit-analyzer-cz) - :bulb: Conventional Commits Analyzer
@@ -96,6 +99,9 @@
 
 ## JavaScript 
 
+- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+- [kaimallea/node-imgur](https://github.com/kaimallea/node-imgur) - Upload images to imgur.com
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [SimCoderYoutube/InstagramClone](https://github.com/SimCoderYoutube/InstagramClone) - 
@@ -132,6 +138,7 @@
 
 ## Python 
 
+- [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -150,12 +157,9 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 
-## Swift 
-
-- [MedzikUser/ionic-react-screenshot](https://github.com/MedzikUser/ionic-react-screenshot) - 
-
 ## TypeScript 
 
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [gitpod-io/vscode](https://github.com/gitpod-io/vscode) - Gitpod fork of vscode
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
@@ -168,6 +172,12 @@
 - [MedzikUser/api](https://github.com/MedzikUser/api) - My API
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
+
+## Vim script 
+
+- [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
 
