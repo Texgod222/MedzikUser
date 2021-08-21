@@ -25,6 +25,8 @@
 
 ## C 
 
+- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -48,6 +50,7 @@
 
 ## Go 
 
+- [gin-contrib/cors](https://github.com/gin-contrib/cors) - Official CORS gin's middleware
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [uudashr/gopkgs](https://github.com/uudashr/gopkgs) - gopkgs - Tool to get list available Go packages
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -157,6 +160,7 @@
 
 ## Shell 
 
+- [MedzikUser/dotfies](https://github.com/MedzikUser/dotfies) - My config files, tools and programs
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
