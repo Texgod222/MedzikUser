@@ -99,11 +99,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7373](https://github.com/termux/termux-packages/issues/7373) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 💪 Opened PR [#7373](https://github.com/termux/termux-packages/pull/7373) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. ❌ Closed PR [#4](https://github.com/MedzikUser/action-setup-git/pull/4) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
-4. 🗣 Commented on [#4](https://github.com/MedzikUser/action-setup-git/issues/4) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
-5. 🎉 Merged PR [#8](https://github.com/MedzikUser/action-setup-git/pull/8) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
+1. 💪 Opened PR [#479](https://github.com/gitpod-io/workspace-images/pull/479) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+2. 🗣 Commented on [#7373](https://github.com/termux/termux-packages/issues/7373) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 💪 Opened PR [#7373](https://github.com/termux/termux-packages/pull/7373) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. ❌ Closed PR [#4](https://github.com/MedzikUser/action-setup-git/pull/4) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
+5. 🗣 Commented on [#4](https://github.com/MedzikUser/action-setup-git/issues/4) in [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git)
 <!--END_SECTION:activity-->
 
 ---
