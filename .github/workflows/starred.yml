@@ -33,7 +33,7 @@ jobs:
         run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.GITHUB_TOKEN }} > AWESOME-STARS.md
 
       - name: Setup Git
-        uses: MedzikUser/action-setup-git@v0
+        uses: MedzikUser/action-setup-git@v0.1.0
         with:
           user: "awesome-stars"
 
