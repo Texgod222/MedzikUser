@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
