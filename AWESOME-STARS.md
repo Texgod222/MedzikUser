@@ -161,6 +161,7 @@
 
 ## Rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
