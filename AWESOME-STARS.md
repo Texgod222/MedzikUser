@@ -25,6 +25,7 @@
 
 ## C 
 
+- [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
 - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -51,6 +52,7 @@
 
 ## Go 
 
+- [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
 - [gin-contrib/cors](https://github.com/gin-contrib/cors) - Official CORS gin's middleware
@@ -177,6 +179,7 @@
 
 ## TypeScript 
 
+- [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
 - [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git) - GitHub Action for Git setup
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
