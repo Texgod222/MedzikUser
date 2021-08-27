@@ -9,6 +9,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Dart](#dart)
+  - [Fortran](#fortran)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -49,6 +50,11 @@
 ## Dart 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
+## Fortran 
+
+- [fortran-lang/fpm](https://github.com/fortran-lang/fpm) - Fortran Package Manager (fpm)
+- [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) - Fortran Standard Library
 
 ## Go 
 
@@ -164,6 +170,7 @@
 
 ## Rust 
 
+- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your cloudflare workers
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
