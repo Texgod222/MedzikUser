@@ -99,11 +99,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MedzikUser/wrangler-cdn/pull/4) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-2. 🎉 Merged PR [#3](https://github.com/MedzikUser/wrangler-cdn/pull/3) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-3. 🎉 Merged PR [#2](https://github.com/MedzikUser/wrangler-cdn/pull/2) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-4. 🎉 Merged PR [#1](https://github.com/MedzikUser/wrangler-cdn/pull/1) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-5. ❗️ Opened issue [#636](https://github.com/fkhadra/react-toastify/issues/636) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+1. 🎉 Merged PR [#11](https://github.com/MedzikUser/wrangler-cdn/pull/11) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+2. 🎉 Merged PR [#5](https://github.com/MedzikUser/wrangler-cdn/pull/5) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+3. 🎉 Merged PR [#4](https://github.com/MedzikUser/wrangler-cdn/pull/4) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+4. 🎉 Merged PR [#3](https://github.com/MedzikUser/wrangler-cdn/pull/3) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+5. 🎉 Merged PR [#2](https://github.com/MedzikUser/wrangler-cdn/pull/2) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
 <!--END_SECTION:activity-->
 
 ---
