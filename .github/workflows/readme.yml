@@ -21,11 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Setup Git
-        run: |
-          git config --global user.email "nivua1fn@duck.com"
-          git config --global user.name "activity-readme"
-
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
