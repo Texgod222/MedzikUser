@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
 - [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
@@ -90,9 +91,9 @@
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [MedzikUser/go-github-selfupdate](https://github.com/MedzikUser/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
-- [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils) - Golang Utils for Faster Code Writing
+- [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils) - :rocket: Golang Utils for Faster Code Writing
 - [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) - 📦🚀 semantic-release written in go
-- [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot) - This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
+- [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot) - ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
 - [jpillora/opts](https://github.com/jpillora/opts) - A Go (golang) package for building frictionless command-line interfaces
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
