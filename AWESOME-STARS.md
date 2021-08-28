@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [Nathan13888/VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded) - A Visitor Badge made with Golang that prioritizes performance and customizability. README for more details.
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
 - [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
