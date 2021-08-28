@@ -38,8 +38,7 @@
 ## C++ 
 
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [GaZaTu/x11-emoji-picker](https://github.com/GaZaTu/x11-emoji-picker) - Linux XServer emoji picker
 
