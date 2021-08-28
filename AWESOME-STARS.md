@@ -118,6 +118,7 @@
 
 ## JavaScript 
 
+- [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
@@ -186,6 +187,7 @@
 
 ## TypeScript 
 
+- [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn) - Cloudflare worker to proxy imgur and other platform
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
 - [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git) - GitHub Action for Git setup
