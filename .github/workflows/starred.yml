@@ -38,6 +38,7 @@ jobs:
           git config --global user.name "awesome-stars"
           git add -A
           git diff-index --quiet HEAD || git commit -m "⭐ Update awesome stars"
+
       - name: Pull changes
         run: git pull -r
 
