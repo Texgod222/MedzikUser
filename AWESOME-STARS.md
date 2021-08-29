@@ -140,7 +140,7 @@
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio) - Frontend for https://www.magicuser.cf
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot) - Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
+- [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -181,6 +181,7 @@
 
 ## Shell 
 
+- [thawhakyi/VirtualMachine-GithubAction](https://github.com/thawhakyi/VirtualMachine-GithubAction) - 
 - [MedzikUser/dotfies](https://github.com/MedzikUser/dotfies) - My config files, tools and programs
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
