@@ -99,11 +99,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/MedzikUser/wrangler-cdn/pull/9) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-2. 🎉 Merged PR [#8](https://github.com/MedzikUser/wrangler-cdn/pull/8) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-3. 🎉 Merged PR [#10](https://github.com/MedzikUser/wrangler-cdn/pull/10) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-4. 🎉 Merged PR [#12](https://github.com/MedzikUser/wrangler-cdn/pull/12) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-5. ❌ Closed PR [#479](https://github.com/gitpod-io/workspace-images/pull/479) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+1. 🗣 Commented on [#7416](https://github.com/termux/termux-packages/issues/7416) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 🗣 Commented on [#7416](https://github.com/termux/termux-packages/issues/7416) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 🗣 Commented on [#7416](https://github.com/termux/termux-packages/issues/7416) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🎉 Merged PR [#9](https://github.com/MedzikUser/wrangler-cdn/pull/9) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+5. 🎉 Merged PR [#8](https://github.com/MedzikUser/wrangler-cdn/pull/8) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
 <!--END_SECTION:activity-->
 
 ---
