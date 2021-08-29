@@ -124,6 +124,7 @@
 
 ## JavaScript 
 
+- [itgalaxy/generate-robotstxt](https://github.com/itgalaxy/generate-robotstxt) - Generator robots.txt for node js
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
