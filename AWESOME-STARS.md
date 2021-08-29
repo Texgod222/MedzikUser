@@ -20,12 +20,14 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## C 
 
+- [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
 - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
@@ -112,6 +114,7 @@
 
 ## Java 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots) - [WIP] A mobile application that contains screenshots that have been made with a special program
@@ -188,8 +191,14 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 
+## Swift 
+
+- [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
+
 ## TypeScript 
 
+- [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn) - Cloudflare worker to proxy imgur and other platform
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
