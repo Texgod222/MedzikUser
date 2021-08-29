@@ -39,6 +39,7 @@
 
 ## C++ 
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -168,6 +169,7 @@
 
 ## Python 
 
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
