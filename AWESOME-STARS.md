@@ -165,6 +165,7 @@
 
 ## Others 
 
+- [MedzikUser/unix-mirrors](https://github.com/MedzikUser/unix-mirrors) - Here are mirrors for linux distributions and more
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser) - This is a special repository
 - [addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
