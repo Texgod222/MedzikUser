@@ -8,6 +8,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Dart](#dart)
   - [Fortran](#fortran)
   - [Go](#go)
@@ -49,6 +50,10 @@
 ## CSS 
 
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
+
+## Clojure 
+
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## Dart 
 
@@ -152,6 +157,7 @@
 
 ## Kotlin 
 
+- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn .
 - [BracketCove/GraphSudokuOpen](https://github.com/BracketCove/GraphSudokuOpen) - public repo
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
@@ -222,6 +228,7 @@
 
 ## Vim script 
 
+- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
