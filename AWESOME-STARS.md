@@ -41,6 +41,7 @@
 
 ## C++ 
 
+- [linuxdeepin/dde-file-manager](https://github.com/linuxdeepin/dde-file-manager) - File manager for deepin desktop environment.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -50,6 +51,7 @@
 
 ## CSS 
 
+- [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 
 ## Clojure 
@@ -195,6 +197,7 @@
 
 ## Shell 
 
+- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
 - [thawhakyi/VirtualMachine-GithubAction](https://github.com/thawhakyi/VirtualMachine-GithubAction) - 
 - [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - My config files, tools and programs
