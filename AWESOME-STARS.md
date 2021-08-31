@@ -28,6 +28,7 @@
 
 ## C 
 
+- [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
 - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
@@ -194,8 +195,9 @@
 
 ## Shell 
 
+- [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
 - [thawhakyi/VirtualMachine-GithubAction](https://github.com/thawhakyi/VirtualMachine-GithubAction) - 
-- [MedzikUser/dotfies](https://github.com/MedzikUser/dotfies) - My config files, tools and programs
+- [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - My config files, tools and programs
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
