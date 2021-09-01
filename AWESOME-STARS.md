@@ -42,6 +42,7 @@
 
 ## C++ 
 
+- [eepp/jome](https://github.com/eepp/jome) - An emoji picker desktop application
 - [linuxdeepin/dde-file-manager](https://github.com/linuxdeepin/dde-file-manager) - File manager for deepin desktop environment.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
@@ -218,6 +219,7 @@
 
 ## TypeScript 
 
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn) - Cloudflare worker to proxy imgur and other platform
