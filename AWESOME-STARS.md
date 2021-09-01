@@ -19,6 +19,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -132,6 +133,7 @@
 
 ## JavaScript 
 
+- [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Vytal
 - [itgalaxy/generate-robotstxt](https://github.com/itgalaxy/generate-robotstxt) - Generator robots.txt for node js
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
@@ -186,6 +188,10 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+
+## Ruby 
+
+- [jwt/ruby-jwt](https://github.com/jwt/ruby-jwt) - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
 
 ## Rust 
 
