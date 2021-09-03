@@ -108,4 +108,8 @@
 
 ---
 
-## ⭐ [Awesome Stars](AWESOME-STARS.md)
+## ⭐ Awesome Stars
+Click [here](AWESOME-STARS.md) to view my awesome stars
+
+## 👨‍💻 Contact
+Email: nivua1fn@duck.com
