@@ -111,5 +111,5 @@
 ## ⭐ Awesome Stars
 Click [here](AWESOME-STARS.md) to view my awesome stars
 
-## 👨‍💻 Contact
+## 💡 Contact
 Email: nivua1fn@duck.com
