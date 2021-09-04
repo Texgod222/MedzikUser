@@ -99,11 +99,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/MedzikUser/go-pingbot/pull/17) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-2. 🗣 Commented on [#32](https://github.com/MedzikUser/gatsby-pingbot/issues/32) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-3. 🎉 Merged PR [#15](https://github.com/MedzikUser/wrangler-cdn/pull/15) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-4. 💪 Opened PR [#15](https://github.com/MedzikUser/wrangler-cdn/pull/15) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-5. 🗣 Commented on [#636](https://github.com/fkhadra/react-toastify/issues/636) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+1. ❌ Closed PR [#10](https://github.com/MedzikUser/wrangler-cdn/pull/10) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+2. 🎉 Merged PR [#9](https://github.com/MedzikUser/wrangler-cdn/pull/9) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+3. 🎉 Merged PR [#13](https://github.com/MedzikUser/wrangler-cdn/pull/13) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+4. 🎉 Merged PR [#12](https://github.com/MedzikUser/wrangler-cdn/pull/12) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+5. 🎉 Merged PR [#8](https://github.com/MedzikUser/wrangler-cdn/pull/8) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
 <!--END_SECTION:activity-->
 
 ---
