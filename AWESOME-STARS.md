@@ -129,7 +129,6 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
-- [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots) - [WIP] A mobile application that contains screenshots that have been made with a special program
 - [baumblatt/capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
@@ -228,7 +227,6 @@
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [MedzikUser/wrangler-cdn0](https://github.com/MedzikUser/wrangler-cdn0) - Cloudflare worker to proxy imgur and other platform
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
 - [MedzikUser/action-setup-git](https://github.com/MedzikUser/action-setup-git) - GitHub Action for Git setup
