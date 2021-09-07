@@ -96,6 +96,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/MedzikUser/github-stats">
+    <img alt="MedzikUser's GitHub Stats 2" src="https://raw.githubusercontent.com/MedzikUser/github-stats/master/generated/overview.svg" />
+  </a>
+</p>
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
