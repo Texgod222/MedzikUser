@@ -135,7 +135,7 @@
 ## JavaScript 
 
 - [subdavis/Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
-- [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Vytal
+- [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Vytal Privacy Scan
 - [itgalaxy/generate-robotstxt](https://github.com/itgalaxy/generate-robotstxt) - Generator robots.txt for node js
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
