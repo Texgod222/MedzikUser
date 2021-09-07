@@ -28,6 +28,8 @@
 
 ## C 
 
+- [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
+- [lutris/wine](https://github.com/lutris/wine) - 
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
@@ -41,6 +43,10 @@
 
 ## C++ 
 
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [lutris/dxvk](https://github.com/lutris/dxvk) - Lutris' DXVK repository for providing custom DXVK versions
+- [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [eepp/jome](https://github.com/eepp/jome) - An emoji picker desktop application
 - [linuxdeepin/dde-file-manager](https://github.com/linuxdeepin/dde-file-manager) - File manager for deepin desktop environment.
@@ -184,6 +190,7 @@
 
 ## Python 
 
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -219,6 +226,7 @@
 
 ## TypeScript 
 
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GUI Epic Games Launcher for Linux, Windows and Mac.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn) - Cloudflare worker to proxy imgur and other platform
 - [cloudflare/worker-typescript-template](https://github.com/cloudflare/worker-typescript-template) - ʕ •́؈•̀) TypeScript template for Cloudflare Workers
