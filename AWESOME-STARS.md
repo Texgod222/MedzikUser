@@ -28,8 +28,6 @@
 
 ## C 
 
-- [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
-- [lutris/wine](https://github.com/lutris/wine) - 
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
@@ -190,6 +188,7 @@
 
 ## Python 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, no external server required
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
