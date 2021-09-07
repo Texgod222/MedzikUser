@@ -11,13 +11,15 @@ on:
     #        │ │ │ │ │
     #        │ │ │ │ │
     #        * * * * *
-    - cron: '0 8/4 * * *'
+    - cron: '0 7-23/2 * * *'
   workflow_dispatch:
 
 jobs:
   awesome-stars:
     name: Update Awesome Stars
     runs-on: ubuntu-latest
+    timeout-minutes: 2
+
     steps:
       - uses: actions/checkout@v2
 
