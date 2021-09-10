@@ -105,11 +105,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/MedzikUser/gatsby-portfolio/pull/31) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
-2. 🎉 Merged PR [#1](https://github.com/MedzikUser/github-stats/pull/1) in [MedzikUser/github-stats](https://github.com/MedzikUser/github-stats)
-3. 🎉 Merged PR [#35](https://github.com/MedzikUser/gatsby-pingbot/pull/35) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-4. 💪 Opened PR [#1291](https://github.com/anuraghazra/github-readme-stats/pull/1291) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. ❗️ Opened issue [#1290](https://github.com/anuraghazra/github-readme-stats/issues/1290) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 💪 Opened PR [#493](https://github.com/gitpod-io/workspace-images/pull/493) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+2. 🎉 Merged PR [#19](https://github.com/MedzikUser/wrangler-cdn/pull/19) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+3. 🎉 Merged PR [#31](https://github.com/MedzikUser/gatsby-portfolio/pull/31) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
+4. 🎉 Merged PR [#1](https://github.com/MedzikUser/github-stats/pull/1) in [MedzikUser/github-stats](https://github.com/MedzikUser/github-stats)
+5. 🎉 Merged PR [#35](https://github.com/MedzikUser/gatsby-pingbot/pull/35) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
 <!--END_SECTION:activity-->
 
 ---
