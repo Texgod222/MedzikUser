@@ -133,6 +133,7 @@
 
 ## Java 
 
+- [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
 - [redis/jedis](https://github.com/redis/jedis) - A blazingly small and sane redis java client
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
