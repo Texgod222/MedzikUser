@@ -78,6 +78,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
 - [Nathan13888/VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded) - A Visitor Badge made with Golang that prioritizes performance and customizability. README for more details.
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
