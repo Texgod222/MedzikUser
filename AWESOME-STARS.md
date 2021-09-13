@@ -28,6 +28,7 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
@@ -134,6 +135,7 @@
 
 ## Java 
 
+- [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots) - [WIP] All Screenshots from Computer in one mobile App
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
 - [redis/jedis](https://github.com/redis/jedis) - A blazingly small and sane redis java client
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -184,6 +186,7 @@
 
 ## Others 
 
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [MedzikUser/unix-mirrors](https://github.com/MedzikUser/unix-mirrors) - Here are mirrors for linux distributions and more
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser) - This is a special repository
