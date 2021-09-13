@@ -105,11 +105,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7416](https://github.com/termux/termux-packages/issues/7416) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 🎉 Merged PR [#1](https://github.com/MedzikUser/Tusk/pull/1) in [MedzikUser/Tusk](https://github.com/MedzikUser/Tusk)
-3. 💪 Opened PR [#493](https://github.com/gitpod-io/workspace-images/pull/493) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-4. 🎉 Merged PR [#19](https://github.com/MedzikUser/wrangler-cdn/pull/19) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-5. 🎉 Merged PR [#31](https://github.com/MedzikUser/gatsby-portfolio/pull/31) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
+1. 🎉 Merged PR [#13](https://github.com/MedzikUser/capacitor-react-screenshots/pull/13) in [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots)
+2. 🎉 Merged PR [#8](https://github.com/MedzikUser/capacitor-react-screenshots/pull/8) in [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots)
+3. 🎉 Merged PR [#5](https://github.com/MedzikUser/capacitor-react-screenshots/pull/5) in [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots)
+4. 🎉 Merged PR [#7](https://github.com/MedzikUser/capacitor-react-screenshots/pull/7) in [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots)
+5. 🎉 Merged PR [#9](https://github.com/MedzikUser/capacitor-react-screenshots/pull/9) in [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots)
 <!--END_SECTION:activity-->
 
 ---
