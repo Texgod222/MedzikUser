@@ -135,6 +135,7 @@
 
 ## Java 
 
+- [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 - [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots) - [WIP] All Screenshots from Computer in one mobile App
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
 - [redis/jedis](https://github.com/redis/jedis) - A blazingly small and sane redis java client
@@ -199,6 +200,7 @@
 
 ## Python 
 
+- [abchk1234/pdf2png](https://github.com/abchk1234/pdf2png) - Convert PDF files to images in various image formats.
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, no external server required
