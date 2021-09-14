@@ -14,22 +14,22 @@
 <p align="center">
   <code>
     <a href="https://developer.mozilla.org/en/JavaScript">
-       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40" height="40" />
+       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"fix />
     </a>
   </code>
   <code>
     <a href="https://www.typescriptlang.org/">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="40" height="40" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     </a>
   </code>
   <code>
     <a href="https://golang.org/">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
     </a>
   </code>
   <code>
     <a href="https://www.docker.com/">
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     </a>
   </code>
 </p>
@@ -37,22 +37,22 @@
 <p align="center">
   <code>
     <a href="https://nodejs.org/">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     </a>
   </code>
   <code>
     <a href="https://reactjs.org/">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="gatsby" width="40" height="40" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="gatsby" />
     </a>
   </code>
   <code>
     <a href="https://www.gatsbyjs.com/">
-      <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
     </a>
   </code>
   <code>
     <a href="https://www.mongodb.com/">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="40" height="40" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     </a>
   </code>
 </p>
