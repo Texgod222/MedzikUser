@@ -14,27 +14,22 @@
 <p align="center">
   <code>
     <a href="https://developer.mozilla.org/en/JavaScript">
-       <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40" />
+       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40" height="40" />
     </a>
   </code>
   <code>
     <a href="https://www.typescriptlang.org/">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript" width="40" height="40" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="40" height="40" />
     </a>
   </code>
   <code>
     <a href="https://golang.org/">
-      <img src="https://golang.org/doc/gopher/favicon.svg" alt="go" width="40" height="40" />
-    </a>
-  </code>
-  <code>
-    <a href="https://developer.mozilla.org/en/HTML">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="40" height="40" />
     </a>
   </code>
   <code>
     <a href="https://www.docker.com/">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="40" height="40" />
     </a>
   </code>
 </p>
@@ -42,17 +37,22 @@
 <p align="center">
   <code>
     <a href="https://nodejs.org/">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a href="https://reactjs.org/">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="gatsby" width="40" height="40" />
     </a>
   </code>
   <code>
     <a href="https://www.gatsbyjs.com/">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/gatsby/gatsby.png" alt="gatsby" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" width="40" height="40" />
     </a>
   </code>
   <code>
     <a href="https://www.mongodb.com/">
-      <img src="icons/mongodb.svg" alt="mongodb" width="40" height="40" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="40" height="40" />
     </a>
   </code>
 </p>
