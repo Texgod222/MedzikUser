@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [lutris/dxvk](https://github.com/lutris/dxvk) - Lutris' DXVK repository for providing custom DXVK versions
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
