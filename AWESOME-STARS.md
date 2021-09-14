@@ -253,7 +253,7 @@
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
-- [gitpod-io/vscode](https://github.com/gitpod-io/vscode) - Gitpod fork of vscode
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - OpenVSCode Server runs on a remote machine and allows access through a modern web browser.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
