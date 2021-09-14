@@ -39,8 +39,10 @@
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
+  <a href="https://eslint.org/">
+    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
+  </a>
 </p>
-
 
 ### 🧠 Learning
 
@@ -115,3 +117,12 @@ Click [here](AWESOME-STARS.md) to view my awesome stars
 
 ## 💡 Contact
 Email: nivua1fn@duck.com
+
+<p align="center">
+  <a href="https://github.com/MedzikUser">
+    <img alt="MedzikUser's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/Medzik">
+    <img alt="Medzik's GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+</p>
