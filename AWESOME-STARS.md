@@ -10,6 +10,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Fortran](#fortran)
   - [Go](#go)
   - [HTML](#html)
@@ -71,6 +72,10 @@
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos.
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
+## Dockerfile 
+
+- [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 
 ## Fortran 
 
@@ -187,6 +192,8 @@
 
 ## Others 
 
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [MedzikUser/unix-mirrors](https://github.com/MedzikUser/unix-mirrors) - Here are mirrors for linux distributions and more
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -241,6 +248,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/browser-extension](https://github.com/gitpod-io/browser-extension) - The browser extension for gitpod.io. Works with Chrome and Firefox.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GUI Epic Games Launcher for Linux, Windows and Mac.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn) - Cloudflare Worker to proxy Imgur :rocket:
