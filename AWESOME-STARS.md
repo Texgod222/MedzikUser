@@ -182,7 +182,7 @@
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio) - Frontend for https://www.magicuser.cf
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
+- [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot powered by Vercel &lt;3
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -231,6 +231,7 @@
 
 ## Rust 
 
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your cloudflare workers
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
