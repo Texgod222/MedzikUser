@@ -23,6 +23,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
@@ -251,6 +252,10 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 
+## Swift 
+
+- [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
+
 ## TypeScript 
 
 - [gitpod-io/browser-extension](https://github.com/gitpod-io/browser-extension) - The browser extension for gitpod.io. Works with Chrome and Firefox.
@@ -260,7 +265,6 @@
 - [cloudflare/worker-typescript-template](https://github.com/cloudflare/worker-typescript-template) - ʕ •́؈•̀) TypeScript template for Cloudflare Workers
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-- [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
