@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there!
+  Hi there, random stranger!
   <img src="https://cdn.magicuser.cf/Zw2ELB8.gif" width="28">
 </h1>
 
