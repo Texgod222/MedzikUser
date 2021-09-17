@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [iteufel/nwjs-ffmpeg-prebuilt](https://github.com/iteufel/nwjs-ffmpeg-prebuilt) - FFmpeg prebuilt binaries for NW.js / Chromium
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
