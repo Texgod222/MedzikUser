@@ -103,11 +103,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/MedzikUser/gatsby-pingbot/pull/45) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+1. 🗣 Commented on [#7549](https://github.com/termux/termux-packages/issues/7549) in [termux/termux-packages](https://github.com/termux/termux-packages)
 2. 🗣 Commented on [#7549](https://github.com/termux/termux-packages/issues/7549) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 💪 Opened PR [#7549](https://github.com/termux/termux-packages/pull/7549) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 🎉 Merged PR [#43](https://github.com/MedzikUser/gatsby-pingbot/pull/43) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-5. 🎉 Merged PR [#16](https://github.com/MedzikUser/capacitor-react-screenshots/pull/16) in [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots)
+3. 🎉 Merged PR [#45](https://github.com/MedzikUser/gatsby-pingbot/pull/45) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+4. 🗣 Commented on [#7549](https://github.com/termux/termux-packages/issues/7549) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 💪 Opened PR [#7549](https://github.com/termux/termux-packages/pull/7549) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
