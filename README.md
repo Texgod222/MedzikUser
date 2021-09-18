@@ -125,10 +125,10 @@ Email: nivua1fn@duck.com
   <a href="https://gitlab.com/Medzik">
     <img alt="Medzik's GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/Medzik">
+  <a href="https://gitlab.com/MedzikUser">
     <img alt="Medzik's GitLab Projects" src="https://img.shields.io/badge/GitLab%20Projects-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://discord.com/users/695958092130680923">
-    <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
