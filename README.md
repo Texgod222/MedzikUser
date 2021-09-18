@@ -58,16 +58,12 @@
 ## 📝 IDEs
 
 <p align="center">
-  <code>
-    <a href="https://www.gitpod.io/">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/gitpod/gitpod.png" alt="gitpod" width="40" height="40" />
-    </a>
-  </code>
-  <code>
-    <a href="https://code.visualstudio.com/">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40" />
-    </a>
-  </code>
+  <a href="https://www.gitpod.io/">
+    <img src="https://img.shields.io/badge/GitPod-12100C?style=for-the-badge&logo=gitpod" alt="gitpod" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code" />
+  </a>
 </p>
 
 ## 🔥 Streak Stats
