@@ -99,11 +99,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1291](https://github.com/anuraghazra/github-readme-stats/pull/1291) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🎉 Merged PR [#49](https://github.com/MedzikUser/gatsby-pingbot/pull/49) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-3. 🎉 Merged PR [#48](https://github.com/MedzikUser/gatsby-pingbot/pull/48) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-4. 💪 Opened PR [#7553](https://github.com/termux/termux-packages/pull/7553) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. ❌ Closed PR [#1](https://github.com/MedzikUser/termux-packages/pull/1) in [MedzikUser/termux-packages](https://github.com/MedzikUser/termux-packages)
+1. 🎉 Merged PR [#50](https://github.com/MedzikUser/gatsby-pingbot/pull/50) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+2. ❌ Closed PR [#1291](https://github.com/anuraghazra/github-readme-stats/pull/1291) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🎉 Merged PR [#49](https://github.com/MedzikUser/gatsby-pingbot/pull/49) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+4. 🎉 Merged PR [#48](https://github.com/MedzikUser/gatsby-pingbot/pull/48) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+5. 💪 Opened PR [#7553](https://github.com/termux/termux-packages/pull/7553) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
