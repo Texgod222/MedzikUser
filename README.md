@@ -115,7 +115,9 @@
 Click [here](AWESOME-STARS.md) to view my awesome stars
 
 ## 💡 Contact
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) nivua1fn@duck.com
+#### ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+nivua1fn@duck.com
 
 <p align="center">
   <a href="https://github.com/MedzikUser">
