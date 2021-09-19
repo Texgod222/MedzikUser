@@ -144,6 +144,7 @@
 
 ## Java 
 
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 - [MedzikUser/capacitor-react-screenshots](https://github.com/MedzikUser/capacitor-react-screenshots) - [WIP] All Screenshots from Computer in one mobile App
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
