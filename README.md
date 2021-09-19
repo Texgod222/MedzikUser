@@ -62,10 +62,10 @@
     <img src="https://img.shields.io/badge/GitPod-12100C?style=for-the-badge&logo=gitpod" alt="gitpod" />
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs-code" />
   </a>
   <a href="https://github.com/cdr/code-server">
-    <img src="https://img.shields.io/badge/Code_Server-0078D4?style=for-the-badge&logo=visual%20studio%20code" alt="code-server" />
+    <img src="https://img.shields.io/badge/Code_Server-0078D4?style=for-the-badge&logo=visual-studio-code" alt="code-server" />
   </a>
 </p>
 
@@ -126,7 +126,7 @@ Email: nivua1fn@duck.com
     <img alt="Medzik's GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://gitlab.com/MedzikUser">
-    <img alt="Medzik's GitLab Projects" src="https://img.shields.io/badge/GitLab%20Projects-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img alt="Medzik's GitLab Projects" src="https://img.shields.io/badge/GitLab_Projects-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://discord.com/users/695958092130680923">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
