@@ -80,6 +80,7 @@
 
 ## Dockerfile 
 
+- [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android) - Android SDK Docker Images
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 
 ## Fortran 
@@ -161,6 +162,7 @@
 
 ## JavaScript 
 
+- [r0adkll/sign-android-release](https://github.com/r0adkll/sign-android-release) - A GitHub action to sign an APK or AAB
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [iteufel/nwjs-ffmpeg-prebuilt](https://github.com/iteufel/nwjs-ffmpeg-prebuilt) - FFmpeg prebuilt binaries for NW.js / Chromium
@@ -210,6 +212,7 @@
 
 ## Others 
 
+- [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [droidian/porting-guide](https://github.com/droidian/porting-guide) - Droidian porting guide (work in progress)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
@@ -256,6 +259,7 @@
 
 ## Shell 
 
+- [docker-android-sdk/android-30](https://github.com/docker-android-sdk/android-30) - Docker for Android SDK 30 with preinstalled build tools and emulator image
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) - Golang hooks for pre-commit
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
