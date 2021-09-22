@@ -17,6 +17,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -160,6 +161,7 @@
 
 ## JavaScript 
 
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [iteufel/nwjs-ffmpeg-prebuilt](https://github.com/iteufel/nwjs-ffmpeg-prebuilt) - FFmpeg prebuilt binaries for NW.js / Chromium
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -201,6 +203,10 @@
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
+## Objective-C 
+
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## Others 
 
@@ -284,7 +290,7 @@
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
-- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - OpenVSCode Server runs on a remote machine and allows access through a modern web browser.
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
