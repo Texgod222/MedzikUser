@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MedzikUser/react-native-screenshots/pull/6) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-2. 🎉 Merged PR [#5](https://github.com/MedzikUser/react-native-screenshots/pull/5) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-3. 🎉 Merged PR [#3](https://github.com/MedzikUser/react-native-screenshots/pull/3) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-4. 🎉 Merged PR [#2](https://github.com/MedzikUser/react-native-screenshots/pull/2) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-5. 🎉 Merged PR [#27](https://github.com/MedzikUser/capacitor-gatsby-screenshots/pull/27) in [MedzikUser/capacitor-gatsby-screenshots](https://github.com/MedzikUser/capacitor-gatsby-screenshots)
+1. 🎉 Merged PR [#10](https://github.com/MedzikUser/react-native-screenshots/pull/10) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+2. 🎉 Merged PR [#9](https://github.com/MedzikUser/react-native-screenshots/pull/9) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+3. 🎉 Merged PR [#11](https://github.com/MedzikUser/react-native-screenshots/pull/11) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+4. 🎉 Merged PR [#8](https://github.com/MedzikUser/react-native-screenshots/pull/8) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+5. 🎉 Merged PR [#7](https://github.com/MedzikUser/react-native-screenshots/pull/7) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
 <!--END_SECTION:activity-->
 
 ---
