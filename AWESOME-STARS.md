@@ -231,6 +231,7 @@
 
 ## Python 
 
+- [thunil/TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [abchk1234/pdf2png](https://github.com/abchk1234/pdf2png) - Convert PDF files to images in various image formats.
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
