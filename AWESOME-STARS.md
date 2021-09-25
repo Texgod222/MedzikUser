@@ -165,6 +165,7 @@
 
 ## JavaScript 
 
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [r0adkll/sign-android-release](https://github.com/r0adkll/sign-android-release) - A GitHub action to sign an APK or AAB
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
