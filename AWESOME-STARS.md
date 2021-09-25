@@ -91,6 +91,8 @@
 
 ## Go 
 
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
+- [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
@@ -213,6 +215,7 @@
 
 ## Others 
 
+- [ikas-mc/fdroid-repo](https://github.com/ikas-mc/fdroid-repo) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [droidian/porting-guide](https://github.com/droidian/porting-guide) - Droidian porting guide (work in progress)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -231,6 +234,7 @@
 
 ## Python 
 
+- [miso-belica/jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
 - [thunil/TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [abchk1234/pdf2png](https://github.com/abchk1234/pdf2png) - Convert PDF files to images in various image formats.
