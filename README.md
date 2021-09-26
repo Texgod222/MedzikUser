@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/MedzikUser/react-native-screenshots/pull/10) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-2. 🎉 Merged PR [#9](https://github.com/MedzikUser/react-native-screenshots/pull/9) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-3. 🎉 Merged PR [#11](https://github.com/MedzikUser/react-native-screenshots/pull/11) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-4. 🎉 Merged PR [#8](https://github.com/MedzikUser/react-native-screenshots/pull/8) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-5. 🎉 Merged PR [#7](https://github.com/MedzikUser/react-native-screenshots/pull/7) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+1. ❗️ Opened issue [#2301](https://github.com/termux/termux-app/issues/2301) in [termux/termux-app](https://github.com/termux/termux-app)
+2. 🎉 Merged PR [#14](https://github.com/MedzikUser/react-native-screenshots/pull/14) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+3. 🎉 Merged PR [#10](https://github.com/MedzikUser/react-native-screenshots/pull/10) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+4. 🎉 Merged PR [#9](https://github.com/MedzikUser/react-native-screenshots/pull/9) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+5. 🎉 Merged PR [#11](https://github.com/MedzikUser/react-native-screenshots/pull/11) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
 <!--END_SECTION:activity-->
 
 ---
