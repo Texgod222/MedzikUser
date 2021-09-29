@@ -270,6 +270,7 @@
 
 ## Shell 
 
+- [joel16/android_device_sony_satsuki](https://github.com/joel16/android_device_sony_satsuki) - 
 - [docker-android-sdk/android-30](https://github.com/docker-android-sdk/android-30) - Docker for Android SDK 30 with preinstalled build tools and emulator image
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) - Golang hooks for pre-commit
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
