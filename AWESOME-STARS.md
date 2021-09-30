@@ -9,6 +9,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Crystal](#crystal)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Fortran](#fortran)
@@ -72,12 +73,16 @@
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
+## Crystal 
+
+- [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
+
 ## Dart 
 
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
-- [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos.
+- [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
@@ -152,6 +157,9 @@
 
 ## Java 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots) - Application for android where all your screenshots will be uploaded.
+- [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [topjohnwu/MagiskManager](https://github.com/topjohnwu/MagiskManager) - Companion Android application for Magisk
@@ -181,7 +189,6 @@
 - [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Vytal Privacy Scan
 - [itgalaxy/generate-robotstxt](https://github.com/itgalaxy/generate-robotstxt) - Generator robots.txt for node js
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
-- [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
@@ -238,6 +245,7 @@
 
 ## Python 
 
+- [MedzikUser/fdroid-repo](https://github.com/MedzikUser/fdroid-repo) - F-Droid Unofficial Repo
 - [miso-belica/jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
 - [thunil/TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -303,6 +311,7 @@
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
+- [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord web client made with :electron: Electron API.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
