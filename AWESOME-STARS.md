@@ -157,6 +157,7 @@
 
 ## Java 
 
+- [nicolaserlonghi/UninstallSystemApps](https://github.com/nicolaserlonghi/UninstallSystemApps) - Uninstall System Apps is a free app to remove system apps! You can join here!
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots) - Application for android where all your screenshots will be uploaded.
 - [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
@@ -329,7 +330,7 @@
 
 ## Vim script 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
