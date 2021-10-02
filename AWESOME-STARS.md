@@ -93,6 +93,7 @@
 
 ## Dockerfile 
 
+- [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk) - Android SDK in docker, can be used to build applications
 - [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android) - Android SDK Docker Images
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 
