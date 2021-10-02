@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/MedzikUser/react-native-screenshots/pull/17) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-2. 🎉 Merged PR [#15](https://github.com/MedzikUser/react-native-screenshots/pull/15) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-3. 🎉 Merged PR [#16](https://github.com/MedzikUser/react-native-screenshots/pull/16) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-4. 🎉 Merged PR [#1](https://github.com/MedzikUser/docker-android-sdk/pull/1) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
-5. 🎉 Merged PR [#1](https://github.com/MedzikUser/docker-fdroid/pull/1) in [MedzikUser/docker-fdroid](https://github.com/MedzikUser/docker-fdroid)
+1. 🎉 Merged PR [#19](https://github.com/MedzikUser/react-native-screenshots/pull/19) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+2. 🎉 Merged PR [#17](https://github.com/MedzikUser/react-native-screenshots/pull/17) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+3. 🎉 Merged PR [#15](https://github.com/MedzikUser/react-native-screenshots/pull/15) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+4. 🎉 Merged PR [#16](https://github.com/MedzikUser/react-native-screenshots/pull/16) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+5. 🎉 Merged PR [#1](https://github.com/MedzikUser/docker-android-sdk/pull/1) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
 <!--END_SECTION:activity-->
 
 ---
