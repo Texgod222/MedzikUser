@@ -97,6 +97,8 @@
 
 ## Dockerfile 
 
+- [react-native-community/docker-android](https://github.com/react-native-community/docker-android) - Android Docker Image for React Native and common android development.
+- [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver) - F-Droid Server which can be used in CI/CD to create a repository and publish it
 - [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk) - Android SDK in docker, can be used to build applications
 - [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android) - Android SDK Docker Images
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
@@ -326,6 +328,7 @@
 
 ## TypeScript 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [gitpod-io/browser-extension](https://github.com/gitpod-io/browser-extension) - The browser extension for gitpod.io. Works with Chrome and Firefox.
