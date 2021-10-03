@@ -190,6 +190,7 @@
 
 ## JavaScript 
 
+- [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [r0adkll/sign-android-release](https://github.com/r0adkll/sign-android-release) - A GitHub action to sign an APK or AAB
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -323,6 +324,7 @@
 
 ## TypeScript 
 
+- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [gitpod-io/browser-extension](https://github.com/gitpod-io/browser-extension) - The browser extension for gitpod.io. Works with Chrome and Firefox.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GUI Epic Games Launcher for Linux, Windows and Mac.
