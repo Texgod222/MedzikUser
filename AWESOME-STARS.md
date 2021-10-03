@@ -169,6 +169,8 @@
 
 ## Java 
 
+- [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+- [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript.
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [nicolaserlonghi/UninstallSystemApps](https://github.com/nicolaserlonghi/UninstallSystemApps) - Uninstall System Apps is a free app to remove system apps! You can join here!
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
