@@ -19,6 +19,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
+  - [Makefile](#makefile)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -33,6 +34,8 @@
 
 ## C 
 
+- [Sony-MSM8994-Dev/android_kernel_sony_msm8994_rework](https://github.com/Sony-MSM8994-Dev/android_kernel_sony_msm8994_rework) - 
+- [joel16/android_kernel_sony_msm8994](https://github.com/joel16/android_kernel_sony_msm8994) - 
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
@@ -55,6 +58,7 @@
 
 ## C++ 
 
+- [Sony-MSM8994-Dev/android_device_sony_kitakami-common](https://github.com/Sony-MSM8994-Dev/android_device_sony_kitakami-common) - 
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [lutris/dxvk](https://github.com/lutris/dxvk) - Lutris' DXVK repository for providing custom DXVK versions
@@ -229,12 +233,17 @@
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
+## Makefile 
+
+- [Sony-MSM8994-Dev/proprietary_vendor_sony](https://github.com/Sony-MSM8994-Dev/proprietary_vendor_sony) - 
+
 ## Objective-C 
 
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## Others 
 
+- [minimal-manifest-twrp/platform_manifest_twrp_omni](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni) - Minimal manifest for building TWRP for devices shipped with Android 5.1 through Android 10
 - [ikas-mc/fdroid-repo](https://github.com/ikas-mc/fdroid-repo) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [droidian/porting-guide](https://github.com/droidian/porting-guide) - Droidian porting guide (work in progress)
@@ -287,6 +296,7 @@
 
 ## Shell 
 
+- [Sony-MSM8994-Dev/android_device_sony_satsuki](https://github.com/Sony-MSM8994-Dev/android_device_sony_satsuki) - Xperia Z5 Premium
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [joel16/android_device_sony_satsuki](https://github.com/joel16/android_device_sony_satsuki) - 
 - [docker-android-sdk/android-30](https://github.com/docker-android-sdk/android-30) - Docker for Android SDK 30 with preinstalled build tools and emulator image
