@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/MedzikUser/react-native-screenshots/pull/20) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-2. 🎉 Merged PR [#19](https://github.com/MedzikUser/react-native-screenshots/pull/19) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-3. 🎉 Merged PR [#17](https://github.com/MedzikUser/react-native-screenshots/pull/17) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-4. 🎉 Merged PR [#15](https://github.com/MedzikUser/react-native-screenshots/pull/15) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-5. 🎉 Merged PR [#16](https://github.com/MedzikUser/react-native-screenshots/pull/16) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+1. 🗣 Commented on [#7647](https://github.com/termux/termux-packages/issues/7647) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 🗣 Commented on [#7647](https://github.com/termux/termux-packages/issues/7647) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 🗣 Commented on [#7647](https://github.com/termux/termux-packages/issues/7647) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🗣 Commented on [#7647](https://github.com/termux/termux-packages/issues/7647) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 🗣 Commented on [#7647](https://github.com/termux/termux-packages/issues/7647) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
