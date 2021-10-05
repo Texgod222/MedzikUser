@@ -34,6 +34,7 @@
 
 ## C 
 
+- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 - [Sony-MSM8994-Dev/android_kernel_sony_msm8994_rework](https://github.com/Sony-MSM8994-Dev/android_kernel_sony_msm8994_rework) - 
 - [joel16/android_kernel_sony_msm8994](https://github.com/joel16/android_kernel_sony_msm8994) - 
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -297,6 +298,7 @@
 
 ## Rust 
 
+- [termux/termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
 - [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
