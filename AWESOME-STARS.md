@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [rakshasa/libtorrent](https://github.com/rakshasa/libtorrent) - libTorrent BitTorrent library
 - [Sony-MSM8994-Dev/android_device_sony_kitakami-common](https://github.com/Sony-MSM8994-Dev/android_device_sony_kitakami-common) - 
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
@@ -319,7 +320,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments to all hooks, and the ability to invoke custom go tools.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
