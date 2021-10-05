@@ -310,6 +310,7 @@
 
 ## Shell 
 
+- [MedzikUser/android-satsuki-manifest](https://github.com/MedzikUser/android-satsuki-manifest) - 
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Sony-MSM8994-Dev/android_device_sony_satsuki](https://github.com/Sony-MSM8994-Dev/android_device_sony_satsuki) - Xperia Z5 Premium
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
