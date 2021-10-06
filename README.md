@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7670](https://github.com/termux/termux-packages/pull/7670) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 💪 Opened PR [#7669](https://github.com/termux/termux-packages/pull/7669) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. ❌ Closed PR [#7667](https://github.com/termux/termux-packages/pull/7667) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 💪 Opened PR [#7668](https://github.com/termux/termux-packages/pull/7668) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 💪 Opened PR [#7667](https://github.com/termux/termux-packages/pull/7667) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 💪 Opened PR [#7679](https://github.com/termux/termux-packages/pull/7679) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 💪 Opened PR [#7678](https://github.com/termux/termux-packages/pull/7678) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 💪 Opened PR [#7677](https://github.com/termux/termux-packages/pull/7677) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 💪 Opened PR [#7670](https://github.com/termux/termux-packages/pull/7670) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 💪 Opened PR [#7669](https://github.com/termux/termux-packages/pull/7669) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
