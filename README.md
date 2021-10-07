@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7690](https://github.com/termux/termux-packages/pull/7690) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 💪 Opened PR [#7689](https://github.com/termux/termux-packages/pull/7689) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 💪 Opened PR [#7688](https://github.com/termux/termux-packages/pull/7688) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 💪 Opened PR [#7687](https://github.com/termux/termux-packages/pull/7687) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 💪 Opened PR [#7686](https://github.com/termux/termux-packages/pull/7686) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. ❗️ Opened issue [#1810](https://github.com/PhilippC/keepass2android/issues/1810) in [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android)
+2. 💪 Opened PR [#7690](https://github.com/termux/termux-packages/pull/7690) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 💪 Opened PR [#7689](https://github.com/termux/termux-packages/pull/7689) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 💪 Opened PR [#7688](https://github.com/termux/termux-packages/pull/7688) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 💪 Opened PR [#7687](https://github.com/termux/termux-packages/pull/7687) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
