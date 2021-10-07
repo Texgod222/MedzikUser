@@ -99,6 +99,7 @@
 
 ## Dockerfile 
 
+- [MedzikUser/android-satsuki-manifest](https://github.com/MedzikUser/android-satsuki-manifest) - 
 - [react-native-community/docker-android](https://github.com/react-native-community/docker-android) - Android Docker Image for React Native and common android development.
 - [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver) - F-Droid Server which can be used in CI/CD to create a repository and publish it
 - [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk) - Android SDK in docker, can be used to build applications
@@ -312,7 +313,7 @@
 
 ## Shell 
 
-- [MedzikUser/android-satsuki-manifest](https://github.com/MedzikUser/android-satsuki-manifest) - 
+- [nathanchance/android-tools](https://github.com/nathanchance/android-tools) - Publicly available Android stuff
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Sony-MSM8994-Dev/android_device_sony_satsuki](https://github.com/Sony-MSM8994-Dev/android_device_sony_satsuki) - Xperia Z5 Premium
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
