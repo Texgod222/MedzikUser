@@ -258,6 +258,7 @@
 
 ## Others 
 
+- [MedzikUser/android-satsuki](https://github.com/MedzikUser/android-satsuki) - 
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [minimal-manifest-twrp/platform_manifest_twrp_omni](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni) - Minimal manifest for building TWRP for devices shipped with Android 5.1 through Android 10
 - [ikas-mc/fdroid-repo](https://github.com/ikas-mc/fdroid-repo) - 
