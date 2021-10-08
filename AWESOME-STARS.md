@@ -343,6 +343,7 @@
 
 ## TypeScript 
 
+- [cdr/vscode](https://github.com/cdr/vscode) - Fork of Visual Studio Code to aid code-server integration. Work in progress ⚠️
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
