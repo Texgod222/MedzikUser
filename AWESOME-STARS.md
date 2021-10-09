@@ -316,6 +316,7 @@
 
 ## Shell 
 
+- [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [shpkg/shpkg](https://github.com/shpkg/shpkg) - package manager written in bash
 - [nathanchance/android-tools](https://github.com/nathanchance/android-tools) - Publicly available Android stuff
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
