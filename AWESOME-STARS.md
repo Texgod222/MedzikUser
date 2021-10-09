@@ -99,6 +99,7 @@
 
 ## Dockerfile 
 
+- [MedzikUser/docker-arch](https://github.com/MedzikUser/docker-arch) - 
 - [MedzikUser/android-satsuki-manifest](https://github.com/MedzikUser/android-satsuki-manifest) - 
 - [react-native-community/docker-android](https://github.com/react-native-community/docker-android) - Android Docker Image for React Native and common android development.
 - [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver) - F-Droid Server which can be used in CI/CD to create a repository and publish it
@@ -282,6 +283,7 @@
 
 ## Python 
 
+- [MedzikUser/arch-repo](https://github.com/MedzikUser/arch-repo) - Arch Linux Custom Repo
 - [MedzikUser/fdroid-repo](https://github.com/MedzikUser/fdroid-repo) - F-Droid Unofficial Repo
 - [miso-belica/jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
 - [thunil/TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
