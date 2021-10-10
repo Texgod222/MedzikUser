@@ -34,6 +34,7 @@
 
 ## C 
 
+- [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 - [Sony-MSM8994-Dev/android_kernel_sony_msm8994_rework](https://github.com/Sony-MSM8994-Dev/android_kernel_sony_msm8994_rework) - 
 - [joel16/android_kernel_sony_msm8994](https://github.com/joel16/android_kernel_sony_msm8994) - 
@@ -114,6 +115,7 @@
 
 ## Go 
 
+- [ayntgl/discordo](https://github.com/ayntgl/discordo) - Discordo is a lightweight, secure, and feature-rich Discord terminal client.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -283,6 +285,8 @@
 
 ## Python 
 
+- [deepjyoti30/downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
+- [bluesabre/menulibre](https://github.com/bluesabre/menulibre) - MenuLibre is an advanced menu editor that provides modern features in a clean, easy-to-use interface.
 - [MedzikUser/fdroid-repo](https://github.com/MedzikUser/fdroid-repo) - F-Droid Unofficial Repo
 - [miso-belica/jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
 - [thunil/TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
@@ -317,6 +321,7 @@
 
 ## Shell 
 
+- [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [MedzikUser/arch-repo](https://github.com/MedzikUser/arch-repo) - Arch Linux Custom Repo
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [shpkg/shpkg](https://github.com/shpkg/shpkg) - package manager written in bash
