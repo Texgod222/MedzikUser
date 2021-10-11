@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [rakshasa/libtorrent](https://github.com/rakshasa/libtorrent) - libTorrent BitTorrent library
 - [Sony-MSM8994-Dev/android_device_sony_kitakami-common](https://github.com/Sony-MSM8994-Dev/android_device_sony_kitakami-common) - 
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -115,6 +116,8 @@
 
 ## Go 
 
+- [diamondburned/discordlogin](https://github.com/diamondburned/discordlogin) - An automated Discord token grabber, for use with gtkcord3
+- [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
 - [ayntgl/discordo](https://github.com/ayntgl/discordo) - Discordo is a lightweight, secure, and feature-rich Discord terminal client.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -310,6 +313,7 @@
 
 ## Rust 
 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [termux/termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
 - [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
