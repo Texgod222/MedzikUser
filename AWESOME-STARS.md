@@ -24,6 +24,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -63,6 +64,7 @@
 
 ## C++ 
 
+- [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [rakshasa/libtorrent](https://github.com/rakshasa/libtorrent) - libTorrent BitTorrent library
@@ -310,6 +312,10 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+
+## QML 
+
+- [MalditoBarbudo/solarized_sddm_theme](https://github.com/MalditoBarbudo/solarized_sddm_theme) - Solarized theme for sddm
 
 ## Ruby 
 
