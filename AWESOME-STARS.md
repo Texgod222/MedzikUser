@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [rakshasa/libtorrent](https://github.com/rakshasa/libtorrent) - libTorrent BitTorrent library
 - [Sony-MSM8994-Dev/android_device_sony_kitakami-common](https://github.com/Sony-MSM8994-Dev/android_device_sony_kitakami-common) - 
