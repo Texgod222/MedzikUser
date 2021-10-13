@@ -122,6 +122,8 @@
 
 ## Go 
 
+- [goplus/gox](https://github.com/goplus/gox) - Code generator for the Go language
+- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [diamondburned/discordlogin](https://github.com/diamondburned/discordlogin) - An automated Discord token grabber, for use with gtkcord3
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
 - [ayntgl/discordo](https://github.com/ayntgl/discordo) - Discordo is a lightweight, secure, and feature-rich Discord terminal client.
