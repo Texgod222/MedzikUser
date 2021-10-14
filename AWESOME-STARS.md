@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [miguelmota/go-proxy-server-example](https://github.com/miguelmota/go-proxy-server-example) - golang proxy server example with TLS client authentication
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
@@ -265,7 +266,7 @@
 
 ## Kotlin 
 
-- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn .
+- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [BracketCove/GraphSudokuOpen](https://github.com/BracketCove/GraphSudokuOpen) - public repo
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
