@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [miguelmota/go-proxy-server-example](https://github.com/miguelmota/go-proxy-server-example) - golang proxy server example with TLS client authentication
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [goplus/gox](https://github.com/goplus/gox) - Code generator for the Go language
