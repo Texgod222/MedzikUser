@@ -62,6 +62,7 @@
 
 ## C# # 
 
+- [Kyrodan/KeeAnywhere](https://github.com/Kyrodan/KeeAnywhere) - A cloud storage provider plugin for KeePass Password Safe
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net
 
@@ -126,6 +127,7 @@
 
 ## Go 
 
+- [google/skicka](https://github.com/google/skicka) - Command-line utility for working with Google Drive. Join the mailing list at https://groups.google.com/forum/#!forum/skicka-users.
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [miguelmota/go-proxy-server-example](https://github.com/miguelmota/go-proxy-server-example) - golang proxy server example with TLS client authentication
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -330,6 +332,7 @@
 
 ## Ruby 
 
+- [MStadlmeier/drivesync](https://github.com/MStadlmeier/drivesync) - Google Drive synchronization for Linux
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [jwt/ruby-jwt](https://github.com/jwt/ruby-jwt) - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
 
