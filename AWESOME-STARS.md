@@ -338,6 +338,7 @@
 
 ## Rust 
 
+- [sseemayer/keepass-rs](https://github.com/sseemayer/keepass-rs) - KeePass kdbx database file parser
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [termux/termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
