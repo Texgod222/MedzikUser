@@ -126,6 +126,8 @@
 
 ## Go 
 
+- [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
+- [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [goplus/gox](https://github.com/goplus/gox) - Code generator for the Go language
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [diamondburned/discordlogin](https://github.com/diamondburned/discordlogin) - An automated Discord token grabber, for use with gtkcord3
