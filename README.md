@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7730](https://github.com/termux/termux-packages/pull/7730) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. ❗️ Opened issue [#48](https://github.com/AriaLyy/KeepassA/issues/48) in [AriaLyy/KeepassA](https://github.com/AriaLyy/KeepassA)
-3. 🎉 Merged PR [#1](https://github.com/MedzikUser/docker-arch/pull/1) in [MedzikUser/docker-arch](https://github.com/MedzikUser/docker-arch)
+1. 🎉 Merged PR [#47](https://github.com/MedzikUser/wrangler-cdn/pull/47) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+2. 🎉 Merged PR [#48](https://github.com/MedzikUser/wrangler-cdn/pull/48) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+3. 💪 Opened PR [#7730](https://github.com/termux/termux-packages/pull/7730) in [termux/termux-packages](https://github.com/termux/termux-packages)
 4. 🎉 Merged PR [#1](https://github.com/MedzikUser/arch-repo/pull/1) in [MedzikUser/arch-repo](https://github.com/MedzikUser/arch-repo)
 5. 🗣 Commented on [#7708](https://github.com/termux/termux-packages/issues/7708) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
