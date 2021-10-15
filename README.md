@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MedzikUser/cf-workers-status-page/pull/1) in [MedzikUser/cf-workers-status-page](https://github.com/MedzikUser/cf-workers-status-page)
-2. 🎉 Merged PR [#47](https://github.com/MedzikUser/wrangler-cdn/pull/47) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-3. 🎉 Merged PR [#48](https://github.com/MedzikUser/wrangler-cdn/pull/48) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-4. 💪 Opened PR [#7730](https://github.com/termux/termux-packages/pull/7730) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 🗣 Commented on [#7708](https://github.com/termux/termux-packages/issues/7708) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🎉 Merged PR [#25](https://github.com/MedzikUser/react-native-screenshots/pull/25) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+2. 🎉 Merged PR [#1](https://github.com/MedzikUser/cf-workers-status-page/pull/1) in [MedzikUser/cf-workers-status-page](https://github.com/MedzikUser/cf-workers-status-page)
+3. 🎉 Merged PR [#47](https://github.com/MedzikUser/wrangler-cdn/pull/47) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+4. 🎉 Merged PR [#48](https://github.com/MedzikUser/wrangler-cdn/pull/48) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+5. 💪 Opened PR [#7730](https://github.com/termux/termux-packages/pull/7730) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
