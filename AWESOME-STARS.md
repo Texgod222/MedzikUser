@@ -112,6 +112,7 @@
 
 ## Dockerfile 
 
+- [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod) - Gitpod Workspace Image
 - [MedzikUser/docker-arch](https://github.com/MedzikUser/docker-arch) - 
 - [MedzikUser/android-satsuki-manifest](https://github.com/MedzikUser/android-satsuki-manifest) - 
 - [react-native-community/docker-android](https://github.com/react-native-community/docker-android) - Android Docker Image for React Native and common android development.
@@ -358,6 +359,7 @@
 
 ## Shell 
 
+- [artix-linux/packages](https://github.com/artix-linux/packages) - Artix Linux packages (mirror)
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
