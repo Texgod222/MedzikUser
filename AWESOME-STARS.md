@@ -311,6 +311,7 @@
 
 ## Python 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [deepjyoti30/downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
 - [bluesabre/menulibre](https://github.com/bluesabre/menulibre) - MenuLibre is an advanced menu editor that provides modern features in a clean, easy-to-use interface.
@@ -336,6 +337,7 @@
 
 ## Ruby 
 
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [MStadlmeier/drivesync](https://github.com/MStadlmeier/drivesync) - Google Drive synchronization for Linux
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [jwt/ruby-jwt](https://github.com/jwt/ruby-jwt) - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
