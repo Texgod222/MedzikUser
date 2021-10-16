@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MedzikUser/docker-gitpod/pull/1) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-2. 🎉 Merged PR [#25](https://github.com/MedzikUser/react-native-screenshots/pull/25) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-3. 🎉 Merged PR [#1](https://github.com/MedzikUser/cf-workers-status-page/pull/1) in [MedzikUser/cf-workers-status-page](https://github.com/MedzikUser/cf-workers-status-page)
-4. 🎉 Merged PR [#47](https://github.com/MedzikUser/wrangler-cdn/pull/47) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-5. 🎉 Merged PR [#48](https://github.com/MedzikUser/wrangler-cdn/pull/48) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+1. 🎉 Merged PR [#2](https://github.com/MedzikUser/docker-gitpod/pull/2) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+2. 💪 Opened PR [#2](https://github.com/MedzikUser/docker-gitpod/pull/2) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+3. ❌ Closed PR [#1](https://github.com/MedzikUser/docker-gitpod/pull/1) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+4. 🎉 Merged PR [#25](https://github.com/MedzikUser/react-native-screenshots/pull/25) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+5. 🎉 Merged PR [#1](https://github.com/MedzikUser/cf-workers-status-page/pull/1) in [MedzikUser/cf-workers-status-page](https://github.com/MedzikUser/cf-workers-status-page)
 <!--END_SECTION:activity-->
 
 ---
