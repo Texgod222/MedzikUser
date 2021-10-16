@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [google/skicka](https://github.com/google/skicka) - Command-line utility for working with Google Drive. Join the mailing list at https://groups.google.com/forum/#!forum/skicka-users.
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [miguelmota/go-proxy-server-example](https://github.com/miguelmota/go-proxy-server-example) - golang proxy server example with TLS client authentication
