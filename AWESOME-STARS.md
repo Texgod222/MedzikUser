@@ -130,6 +130,7 @@
 
 ## Go 
 
+- [rainforestapp/go-github-selfupdate](https://github.com/rainforestapp/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [gotk3/gotk3-examples](https://github.com/gotk3/gotk3-examples) - 
 - [gotk3/gotk3](https://github.com/gotk3/gotk3) - Go bindings for GTK3
 - [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
