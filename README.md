@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/MedzikUser/gatsby-pingbot/pull/73) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-2. 🎉 Merged PR [#72](https://github.com/MedzikUser/gatsby-pingbot/pull/72) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-3. 🎉 Merged PR [#47](https://github.com/MedzikUser/gatsby-portfolio/pull/47) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
-4. 💪 Opened PR [#1](https://github.com/MedzikUser/termux-packages/pull/1) in [MedzikUser/termux-packages](https://github.com/MedzikUser/termux-packages)
-5. 🎉 Merged PR [#2](https://github.com/MedzikUser/docker-gitpod/pull/2) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+1. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-status-page/pull/1) in [MedzikUser/nextjs-status-page](https://github.com/MedzikUser/nextjs-status-page)
+2. 🎉 Merged PR [#73](https://github.com/MedzikUser/gatsby-pingbot/pull/73) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+3. 🎉 Merged PR [#72](https://github.com/MedzikUser/gatsby-pingbot/pull/72) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+4. 🎉 Merged PR [#47](https://github.com/MedzikUser/gatsby-portfolio/pull/47) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
+5. 💪 Opened PR [#1](https://github.com/MedzikUser/termux-packages/pull/1) in [MedzikUser/termux-packages](https://github.com/MedzikUser/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
