@@ -371,7 +371,7 @@
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
-- [MedzikUser/arch-repo](https://github.com/MedzikUser/arch-repo) - Arch Linux Custom Repo
+- [MedzikUser/arch-repo](https://github.com/MedzikUser/arch-repo) - [Arch Linux] Custom Repo
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [shpkg/shpkg](https://github.com/shpkg/shpkg) - package manager written in bash
 - [nathanchance/android-tools](https://github.com/nathanchance/android-tools) - Publicly available Android stuff
@@ -402,6 +402,7 @@
 
 ## TypeScript 
 
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice)
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
