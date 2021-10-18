@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/MedzikUser/docker-gitpod/pull/4) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-2. 🎉 Merged PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-3. 💪 Opened PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-4. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-status-page/pull/1) in [MedzikUser/nextjs-status-page](https://github.com/MedzikUser/nextjs-status-page)
-5. 🎉 Merged PR [#73](https://github.com/MedzikUser/gatsby-pingbot/pull/73) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+1. 🎉 Merged PR [#4](https://github.com/MedzikUser/docker-gitpod/pull/4) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+2. 💪 Opened PR [#4](https://github.com/MedzikUser/docker-gitpod/pull/4) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+3. 🎉 Merged PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+4. 💪 Opened PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-status-page/pull/1) in [MedzikUser/nextjs-status-page](https://github.com/MedzikUser/nextjs-status-page)
 <!--END_SECTION:activity-->
 
 ---
