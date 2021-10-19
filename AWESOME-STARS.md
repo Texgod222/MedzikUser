@@ -35,6 +35,7 @@
 
 ## C 
 
+- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [cronie-crond/cronie](https://github.com/cronie-crond/cronie) - Cronie cron daemon project
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
@@ -392,7 +393,7 @@
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
 - [thawhakyi/VirtualMachine-GithubAction](https://github.com/thawhakyi/VirtualMachine-GithubAction) - 
-- [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - My config files, tools and programs
+- [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - My config files and tools
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
