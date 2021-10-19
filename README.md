@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MedzikUser/docker-gitpod/pull/4) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-2. 💪 Opened PR [#4](https://github.com/MedzikUser/docker-gitpod/pull/4) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-3. 🎉 Merged PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-4. 💪 Opened PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-status-page/pull/1) in [MedzikUser/nextjs-status-page](https://github.com/MedzikUser/nextjs-status-page)
+1. 💪 Opened PR [#7769](https://github.com/termux/termux-packages/pull/7769) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 🎉 Merged PR [#4](https://github.com/MedzikUser/docker-gitpod/pull/4) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+3. 💪 Opened PR [#4](https://github.com/MedzikUser/docker-gitpod/pull/4) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+4. 🎉 Merged PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+5. 💪 Opened PR [#3](https://github.com/MedzikUser/docker-gitpod/pull/3) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
 <!--END_SECTION:activity-->
 
 ---
