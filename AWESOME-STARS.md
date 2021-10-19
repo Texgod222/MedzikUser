@@ -216,6 +216,7 @@
 
 ## Java 
 
+- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) - ATLauncher is a Launcher for Minecraft which integrates multiple different ModPacks to allow you to download and install ModPacks easily and quickly.
 - [scoute-dich/browser](https://github.com/scoute-dich/browser) - A simple Android webbrowser based on webview.
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
