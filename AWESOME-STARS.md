@@ -35,6 +35,7 @@
 
 ## C 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [cronie-crond/cronie](https://github.com/cronie-crond/cronie) - Cronie cron daemon project
