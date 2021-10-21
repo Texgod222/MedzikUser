@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/MedzikUser/go-pingbot/pull/23) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-2. 💪 Opened PR [#23](https://github.com/MedzikUser/go-pingbot/pull/23) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-3. 🎉 Merged PR [#22](https://github.com/MedzikUser/go-pingbot/pull/22) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-4. 💪 Opened PR [#22](https://github.com/MedzikUser/go-pingbot/pull/22) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-5. 💪 Opened PR [#21](https://github.com/MedzikUser/go-pingbot/pull/21) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+1. 🎉 Merged PR [#81](https://github.com/MedzikUser/gatsby-pingbot/pull/81) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+2. ❗️ Closed issue [#2](https://github.com/MedzikUser/docker-android-sdk/issues/2) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
+3. 🎉 Merged PR [#24](https://github.com/MedzikUser/go-pingbot/pull/24) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+4. 🎉 Merged PR [#3](https://github.com/MedzikUser/go-utils/pull/3) in [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils)
+5. 💪 Opened PR [#3](https://github.com/MedzikUser/go-utils/pull/3) in [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils)
 <!--END_SECTION:activity-->
 
 ---
