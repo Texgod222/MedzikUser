@@ -111,6 +111,7 @@
 
 ## Dart 
 
+- [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
@@ -135,6 +136,8 @@
 
 ## Go 
 
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rainforestapp/go-github-selfupdate](https://github.com/rainforestapp/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [gotk3/gotk3-examples](https://github.com/gotk3/gotk3-examples) - 
 - [gotk3/gotk3](https://github.com/gotk3/gotk3) - Go bindings for GTK3
