@@ -307,6 +307,7 @@
 
 ## Others 
 
+- [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [MedzikUser/android-satsuki](https://github.com/MedzikUser/android-satsuki) - 
