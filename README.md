@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#648](https://github.com/cheat/cheat/pull/648) in [cheat/cheat](https://github.com/cheat/cheat)
-2. ❗️ Closed issue [#2](https://github.com/MedzikUser/docker-arch/issues/2) in [MedzikUser/docker-arch](https://github.com/MedzikUser/docker-arch)
-3. 🎉 Merged PR [#5](https://github.com/MedzikUser/docker-gitpod/pull/5) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-4. 💪 Opened PR [#5](https://github.com/MedzikUser/docker-gitpod/pull/5) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-5. 💪 Opened PR [#3](https://github.com/MedzikUser/docker-android-sdk/pull/3) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
+1. 💪 Opened PR [#7](https://github.com/MedzikUser/docker-gitpod/pull/7) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+2. 🎉 Merged PR [#6](https://github.com/MedzikUser/docker-gitpod/pull/6) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+3. 💪 Opened PR [#6](https://github.com/MedzikUser/docker-gitpod/pull/6) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+4. 💪 Opened PR [#648](https://github.com/cheat/cheat/pull/648) in [cheat/cheat](https://github.com/cheat/cheat)
+5. ❗️ Closed issue [#2](https://github.com/MedzikUser/docker-arch/issues/2) in [MedzikUser/docker-arch](https://github.com/MedzikUser/docker-arch)
 <!--END_SECTION:activity-->
 
 ---
