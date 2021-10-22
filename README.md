@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/MedzikUser/docker-gitpod/pull/7) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-2. 🎉 Merged PR [#6](https://github.com/MedzikUser/docker-gitpod/pull/6) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-3. 💪 Opened PR [#6](https://github.com/MedzikUser/docker-gitpod/pull/6) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-4. 💪 Opened PR [#648](https://github.com/cheat/cheat/pull/648) in [cheat/cheat](https://github.com/cheat/cheat)
-5. ❗️ Closed issue [#2](https://github.com/MedzikUser/docker-arch/issues/2) in [MedzikUser/docker-arch](https://github.com/MedzikUser/docker-arch)
+1. ❌ Closed PR [#21](https://github.com/MedzikUser/go-pingbot/pull/21) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+2. 💪 Opened PR [#4](https://github.com/MedzikUser/go-utils/pull/4) in [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils)
+3. 🎉 Merged PR [#7](https://github.com/MedzikUser/docker-gitpod/pull/7) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+4. 💪 Opened PR [#7](https://github.com/MedzikUser/docker-gitpod/pull/7) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+5. 🎉 Merged PR [#6](https://github.com/MedzikUser/docker-gitpod/pull/6) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
 <!--END_SECTION:activity-->
 
 ---
