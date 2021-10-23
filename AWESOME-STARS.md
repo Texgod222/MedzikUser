@@ -247,6 +247,7 @@
 
 ## JavaScript 
 
+- [discordjs/docgen](https://github.com/discordjs/docgen) - The docs.json generator for discord.js and its related projects
 - [MedzikUser/status-page](https://github.com/MedzikUser/status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
