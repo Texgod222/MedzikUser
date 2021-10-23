@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/MedzikUser/go-pingbot/pull/21) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-2. 💪 Opened PR [#4](https://github.com/MedzikUser/go-utils/pull/4) in [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils)
-3. 🎉 Merged PR [#7](https://github.com/MedzikUser/docker-gitpod/pull/7) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-4. 💪 Opened PR [#7](https://github.com/MedzikUser/docker-gitpod/pull/7) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-5. 🎉 Merged PR [#6](https://github.com/MedzikUser/docker-gitpod/pull/6) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+1. 🎉 Merged PR [#3](https://github.com/MedzikUser/nextjs-status-page/pull/3) in [MedzikUser/nextjs-status-page](https://github.com/MedzikUser/nextjs-status-page)
+2. 🎉 Merged PR [#4](https://github.com/MedzikUser/nextjs-status-page/pull/4) in [MedzikUser/nextjs-status-page](https://github.com/MedzikUser/nextjs-status-page)
+3. ❌ Closed PR [#21](https://github.com/MedzikUser/go-pingbot/pull/21) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+4. 💪 Opened PR [#4](https://github.com/MedzikUser/go-utils/pull/4) in [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils)
+5. 🎉 Merged PR [#7](https://github.com/MedzikUser/docker-gitpod/pull/7) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
 <!--END_SECTION:activity-->
 
 ---
