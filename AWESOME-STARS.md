@@ -222,6 +222,7 @@
 
 ## Java 
 
+- [mervick/aes-everywhere](https://github.com/mervick/aes-everywhere) - Aes Everywhere - Cross Language AES 256 Encryption Library (Bash, Powershell, C#, GoLang, Java, JavaScript, Lua, PHP, Python, Ruby, Swift)
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) - ATLauncher is a Launcher for Minecraft which integrates multiple different ModPacks to allow you to download and install ModPacks easily and quickly.
 - [scoute-dich/browser](https://github.com/scoute-dich/browser) - A simple Android webbrowser based on webview.
@@ -392,7 +393,6 @@
 - [artix-linux/packages](https://github.com/artix-linux/packages) - Artix Linux packages (mirror)
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
-- [MedzikUser/arch-repo](https://github.com/MedzikUser/arch-repo) - [Arch Linux] Custom Repo
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
 - [shpkg/shpkg](https://github.com/shpkg/shpkg) - package manager written in bash
 - [nathanchance/android-tools](https://github.com/nathanchance/android-tools) - Publicly available Android stuff
