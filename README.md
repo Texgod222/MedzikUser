@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MedzikUser/archlinux-repo/pull/2) in [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo)
-2. 💪 Opened PR [#2](https://github.com/MedzikUser/archlinux-repo/pull/2) in [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo)
-3. ❌ Closed PR [#1](https://github.com/MedzikUser/archlinux-repo/pull/1) in [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo)
-4. 💪 Opened PR [#5](https://github.com/MedzikUser/docker-android-sdk/pull/5) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
-5. 💪 Opened PR [#4](https://github.com/MedzikUser/docker-android-sdk/pull/4) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
+1. 🎉 Merged PR [#5](https://github.com/MedzikUser/docker-android-sdk/pull/5) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
+2. 🎉 Merged PR [#2](https://github.com/MedzikUser/archlinux-repo/pull/2) in [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo)
+3. 💪 Opened PR [#2](https://github.com/MedzikUser/archlinux-repo/pull/2) in [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo)
+4. ❌ Closed PR [#1](https://github.com/MedzikUser/archlinux-repo/pull/1) in [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo)
+5. 💪 Opened PR [#5](https://github.com/MedzikUser/docker-android-sdk/pull/5) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
 <!--END_SECTION:activity-->
 
 ---
