@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/MedzikUser/go-cdn/pull/10) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
-2. 🎉 Merged PR [#9](https://github.com/MedzikUser/go-cdn/pull/9) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
-3. ❗️ Opened issue [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-4. 🎉 Merged PR [#5](https://github.com/MedzikUser/docker-android-sdk/pull/5) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
-5. 🎉 Merged PR [#2](https://github.com/MedzikUser/archlinux-repo/pull/2) in [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo)
+1. 🗣 Commented on [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
+2. 🎉 Merged PR [#4](https://github.com/MedzikUser/go-utils/pull/4) in [MedzikUser/go-utils](https://github.com/MedzikUser/go-utils)
+3. 🎉 Merged PR [#10](https://github.com/MedzikUser/go-cdn/pull/10) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
+4. 🎉 Merged PR [#9](https://github.com/MedzikUser/go-cdn/pull/9) in [MedzikUser/go-cdn](https://github.com/MedzikUser/go-cdn)
+5. ❗️ Opened issue [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
 <!--END_SECTION:activity-->
 
 ---
