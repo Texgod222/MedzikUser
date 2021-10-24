@@ -36,6 +36,7 @@
 
 ## C 
 
+- [landfillbaby/png2webp](https://github.com/landfillbaby/png2webp) - Simple command-line batch PNG to WebP converter (and vice versa).
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
@@ -136,6 +137,7 @@
 
 ## Go 
 
+- [icza/gox](https://github.com/icza/gox) - Minimalistic extension to Go. It means to be a complement to the standard library.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
