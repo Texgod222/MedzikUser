@@ -389,6 +389,7 @@
 
 ## Shell 
 
+- [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo) - [Arch Linux] Custom Repo
 - [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
 - [artix-linux/packages](https://github.com/artix-linux/packages) - Artix Linux packages (mirror)
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
