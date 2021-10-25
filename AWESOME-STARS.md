@@ -321,8 +321,8 @@
 
 ## Others 
 
-- [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [MedzikUser/android-satsuki](https://github.com/MedzikUser/android-satsuki) - 
 - [LineageOS/android](https://github.com/LineageOS/android) - 
@@ -385,6 +385,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
