@@ -37,6 +37,7 @@
 
 ## C 
 
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -144,6 +145,9 @@
 
 ## Go 
 
+- [h2non/baloo](https://github.com/h2non/baloo) - Expressive end-to-end HTTP API testing made easy in Go
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [tcnksm/go-httpstat](https://github.com/tcnksm/go-httpstat) - Tracing golang HTTP request latency
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
 - [icza/gox](https://github.com/icza/gox) - Minimalistic extension to Go. It means to be a complement to the standard library.
@@ -385,6 +389,8 @@
 
 ## Rust 
 
+- [ajmwagar/lor-axe](https://github.com/ajmwagar/lor-axe) - 🪓 a multi-threaded, low-bandwidth HTTP DOS tool
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
