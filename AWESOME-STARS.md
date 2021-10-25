@@ -28,6 +28,7 @@
   - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -397,6 +398,10 @@
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## Scala 
+
+- [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 
 ## Shell 
 
