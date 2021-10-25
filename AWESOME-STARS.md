@@ -37,6 +37,7 @@
 
 ## C 
 
+- [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
