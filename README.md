@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7841](https://github.com/termux/termux-packages/issues/7841) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. ❗️ Closed issue [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-3. 🗣 Commented on [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-4. 💪 Opened PR [#7841](https://github.com/termux/termux-packages/pull/7841) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. ❌ Closed PR [#4](https://github.com/MedzikUser/docker-android-sdk/pull/4) in [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk)
+1. 💪 Opened PR [#33743](https://github.com/void-linux/void-packages/pull/33743) in [void-linux/void-packages](https://github.com/void-linux/void-packages)
+2. 🗣 Commented on [#7841](https://github.com/termux/termux-packages/issues/7841) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 🗣 Commented on [#7841](https://github.com/termux/termux-packages/issues/7841) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. ❗️ Closed issue [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
+5. 🗣 Commented on [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
 <!--END_SECTION:activity-->
 
 ---
