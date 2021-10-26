@@ -350,6 +350,7 @@
 
 ## Perl 
 
+- [openSUSE/obs-build](https://github.com/openSUSE/obs-build) - OBS build script, can be used with OBS or stand alone
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Python 
@@ -383,6 +384,7 @@
 
 ## Ruby 
 
+- [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [MStadlmeier/drivesync](https://github.com/MStadlmeier/drivesync) - Google Drive synchronization for Linux
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
