@@ -116,11 +116,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7862](https://github.com/termux/termux-packages/pull/7862) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 💪 Opened PR [#33743](https://github.com/void-linux/void-packages/pull/33743) in [void-linux/void-packages](https://github.com/void-linux/void-packages)
-3. 🗣 Commented on [#7841](https://github.com/termux/termux-packages/issues/7841) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 🗣 Commented on [#7841](https://github.com/termux/termux-packages/issues/7841) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. ❗️ Closed issue [#625](https://github.com/svenstaro/miniserve/issues/625) in [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
+1. 🗣 Commented on [#7867](https://github.com/termux/termux-packages/issues/7867) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 💪 Opened PR [#7867](https://github.com/termux/termux-packages/pull/7867) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 💪 Opened PR [#7862](https://github.com/termux/termux-packages/pull/7862) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 💪 Opened PR [#33743](https://github.com/void-linux/void-packages/pull/33743) in [void-linux/void-packages](https://github.com/void-linux/void-packages)
+5. 🗣 Commented on [#7841](https://github.com/termux/termux-packages/issues/7841) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
