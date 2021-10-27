@@ -130,7 +130,7 @@
 
 - [cirruslabs/docker-images-flutter](https://github.com/cirruslabs/docker-images-flutter) - Docker Images for Flutter
 - [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod) - Gitpod Workspace Image
-- [MedzikUser/docker-arch](https://github.com/MedzikUser/docker-arch) - 
+- [MedzikUser/docker-archlinux](https://github.com/MedzikUser/docker-archlinux) - 
 - [MedzikUser/android-satsuki-manifest](https://github.com/MedzikUser/android-satsuki-manifest) - 
 - [react-native-community/docker-android](https://github.com/react-native-community/docker-android) - Android Docker Image for React Native and common android development.
 - [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver) - F-Droid Server which can be used in CI/CD to create a repository and publish it
