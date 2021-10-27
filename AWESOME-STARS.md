@@ -37,6 +37,7 @@
 
 ## C 
 
+- [libtom/libtomcrypt](https://github.com/libtom/libtomcrypt) - LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -145,6 +146,7 @@
 
 ## Go 
 
+- [creativeprojects/go-selfupdate](https://github.com/creativeprojects/go-selfupdate) - self update your applications in go
 - [h2non/baloo](https://github.com/h2non/baloo) - Expressive end-to-end HTTP API testing made easy in Go
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
