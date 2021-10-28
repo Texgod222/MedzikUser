@@ -11,34 +11,36 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://golang.org/">
-        <img src="assets/icons/go-flat.svg" alt="go" width="48" height="48" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en/JavaScript">
-        <img src="assets/icons/javascript.svg" alt="javascript" width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="assets/icons/typescript.svg" alt="typescript" width="48" height="48" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="assets/icons/docker.svg" alt="docker" width="48" height="48" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://golang.org/">
+          <img src="assets/icons/go-flat.svg" alt="go" width="48" height="48" />
+        </a>
+        <br>Go
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en/JavaScript">
+          <img src="assets/icons/javascript.svg" alt="javascript" width="48" height="48" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/">
+          <img src="assets/icons/typescript.svg" alt="typescript" width="48" height="48" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.docker.com/">
+          <img src="assets/icons/docker.svg" alt="docker" width="48" height="48" />
+        </a>
+        <br>Docker
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
   <a href="https://nodejs.org/">
