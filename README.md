@@ -116,11 +116,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7871](https://github.com/termux/termux-packages/pull/7871) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 🗣 Commented on [#7835](https://github.com/termux/termux-packages/issues/7835) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 🗣 Commented on [#7867](https://github.com/termux/termux-packages/issues/7867) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 💪 Opened PR [#7867](https://github.com/termux/termux-packages/pull/7867) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 💪 Opened PR [#7862](https://github.com/termux/termux-packages/pull/7862) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 💪 Opened PR [#7878](https://github.com/termux/termux-packages/pull/7878) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. ❌ Closed PR [#1](https://github.com/MedzikUser/MedzikUser/pull/1) in [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser)
+3. 💪 Opened PR [#7871](https://github.com/termux/termux-packages/pull/7871) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🗣 Commented on [#7835](https://github.com/termux/termux-packages/issues/7835) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 🗣 Commented on [#7867](https://github.com/termux/termux-packages/issues/7867) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
