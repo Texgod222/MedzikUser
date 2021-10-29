@@ -116,11 +116,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MedzikUser/docker-gitpod/pull/8) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-2. 💪 Opened PR [#8](https://github.com/MedzikUser/docker-gitpod/pull/8) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
-3. 💪 Opened PR [#7878](https://github.com/termux/termux-packages/pull/7878) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. ❌ Closed PR [#1](https://github.com/MedzikUser/MedzikUser/pull/1) in [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser)
-5. 💪 Opened PR [#7871](https://github.com/termux/termux-packages/pull/7871) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🗣 Commented on [#7835](https://github.com/termux/termux-packages/issues/7835) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 🎉 Merged PR [#8](https://github.com/MedzikUser/docker-gitpod/pull/8) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+3. 💪 Opened PR [#8](https://github.com/MedzikUser/docker-gitpod/pull/8) in [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod)
+4. 💪 Opened PR [#7878](https://github.com/termux/termux-packages/pull/7878) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. ❌ Closed PR [#1](https://github.com/MedzikUser/MedzikUser/pull/1) in [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser)
 <!--END_SECTION:activity-->
 
 ---
