@@ -491,6 +491,7 @@
 
 ## Vim script 
 
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
