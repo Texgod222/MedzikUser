@@ -106,6 +106,10 @@
 
 ## CSS 
 
+- [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+- [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
+- [L4ki/Red-Dot-Black-Plasma-Themes](https://github.com/L4ki/Red-Dot-Black-Plasma-Themes) - Red Dot Black Themes For Plasma Desktop
+- [L4ki/Vortex-Plasma-Themes](https://github.com/L4ki/Vortex-Plasma-Themes) - Vortex Themes For Plasma Desktop
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
@@ -422,6 +426,7 @@
 
 ## Shell 
 
+- [anoopmsivadas/Cyberpunk-GRUB-Theme](https://github.com/anoopmsivadas/Cyberpunk-GRUB-Theme) - [MIRROR] Cyberpunk 2077 inspired GRUB/GRUB2 Theme
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os
 - [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo) - [Arch Linux] Custom Repo
