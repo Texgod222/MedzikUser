@@ -116,7 +116,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. ❌ Closed PR [#33743](https://github.com/void-linux/void-packages/pull/33743) in [void-linux/void-packages](https://github.com/void-linux/void-packages)
 2. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
 3. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
 4. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
