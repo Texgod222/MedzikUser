@@ -150,6 +150,7 @@
 
 ## Go 
 
+- [diamondburned/6cord](https://github.com/diamondburned/6cord) - Mirrored from GitLab
 - [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 
 - [craiggwilson/goke](https://github.com/craiggwilson/goke) - 
 - [creativeprojects/go-selfupdate](https://github.com/creativeprojects/go-selfupdate) - self update your applications in go
