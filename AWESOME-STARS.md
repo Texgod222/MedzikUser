@@ -422,6 +422,8 @@
 
 ## Shell 
 
+- [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
+- [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os
 - [MedzikUser/archlinux-repo](https://github.com/MedzikUser/archlinux-repo) - [Arch Linux] Custom Repo
 - [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
 - [artix-linux/packages](https://github.com/artix-linux/packages) - Artix Linux packages (mirror)
