@@ -274,6 +274,7 @@
 
 ## JavaScript 
 
+- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [discordjs/docgen](https://github.com/discordjs/docgen) - The docs.json generator for discord.js and its related projects
