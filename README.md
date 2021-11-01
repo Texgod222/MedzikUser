@@ -119,8 +119,8 @@
 1. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
 2. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
 3. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. ❌ Closed PR [#7871](https://github.com/termux/termux-packages/pull/7871) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 🎉 Merged PR [#7](https://github.com/MedzikUser/nextjs-status-page/pull/7) in [MedzikUser/nextjs-status-page](https://github.com/MedzikUser/nextjs-status-page)
+4. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
