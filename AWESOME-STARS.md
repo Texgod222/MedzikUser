@@ -410,6 +410,10 @@
 
 ## Rust 
 
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ajmwagar/lor-axe](https://github.com/ajmwagar/lor-axe) - 🪓 a multi-threaded, low-bandwidth HTTP DOS tool
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
