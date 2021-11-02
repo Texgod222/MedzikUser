@@ -435,6 +435,7 @@
 
 ## Shell 
 
+- [MedzikUser/termux-packages](https://github.com/MedzikUser/termux-packages) - A build system and primary set of packages for Termux.
 - [anoopmsivadas/Cyberpunk-GRUB-Theme](https://github.com/anoopmsivadas/Cyberpunk-GRUB-Theme) - [MIRROR] Cyberpunk 2077 inspired GRUB/GRUB2 Theme
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [bikass/kora](https://github.com/bikass/kora) - Kora icon theme for GNU/Linux os
