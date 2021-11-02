@@ -347,7 +347,7 @@
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [MedzikUser/android-satsuki](https://github.com/MedzikUser/android-satsuki) - 
 - [LineageOS/android](https://github.com/LineageOS/android) - 
-- [minimal-manifest-twrp/platform_manifest_twrp_omni](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni) - Minimal manifest for building TWRP for devices shipped with Android 5.1 through Android 10
+- [minimal-manifest-twrp/platform_manifest_twrp_omni](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni) - Minimal manifest for building TWRP for devices shipped with Android 5.1 through Android 9.0
 - [ikas-mc/fdroid-repo](https://github.com/ikas-mc/fdroid-repo) - This is a repository of my apps
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [droidian/porting-guide](https://github.com/droidian/porting-guide) - Droidian porting guide (work in progress)
