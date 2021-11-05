@@ -116,10 +116,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7928](https://github.com/termux/termux-packages/pull/7928) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 🎉 Merged PR [#25](https://github.com/MedzikUser/go-pingbot/pull/25) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-3. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🗣 Commented on [#7931](https://github.com/termux/termux-packages/issues/7931) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 💪 Opened PR [#7931](https://github.com/termux/termux-packages/pull/7931) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 💪 Opened PR [#7928](https://github.com/termux/termux-packages/pull/7928) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🎉 Merged PR [#25](https://github.com/MedzikUser/go-pingbot/pull/25) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
 5. 🗣 Commented on [#7885](https://github.com/termux/termux-packages/issues/7885) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
