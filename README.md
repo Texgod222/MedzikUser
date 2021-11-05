@@ -116,11 +116,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. ❗️ Closed issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. ❗️ Opened issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 🗣 Commented on [#7931](https://github.com/termux/termux-packages/issues/7931) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 💪 Opened PR [#7931](https://github.com/termux/termux-packages/pull/7931) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🎉 Merged PR [#52](https://github.com/MedzikUser/react-native-screenshots/pull/52) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+2. 🗣 Commented on [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. ❗️ Closed issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. ❗️ Opened issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. 🗣 Commented on [#7931](https://github.com/termux/termux-packages/issues/7931) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
