@@ -374,6 +374,7 @@
 
 ## Python 
 
+- [leovoel/BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
