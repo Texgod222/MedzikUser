@@ -116,11 +116,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#900](https://github.com/VSCodium/vscodium/pull/900) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-2. 🎉 Merged PR [#52](https://github.com/MedzikUser/react-native-screenshots/pull/52) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
-3. 🗣 Commented on [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. ❗️ Closed issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. ❗️ Opened issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. ❌ Closed PR [#900](https://github.com/VSCodium/vscodium/pull/900) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+2. 💪 Opened PR [#900](https://github.com/VSCodium/vscodium/pull/900) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+3. 🎉 Merged PR [#52](https://github.com/MedzikUser/react-native-screenshots/pull/52) in [MedzikUser/react-native-screenshots](https://github.com/MedzikUser/react-native-screenshots)
+4. 🗣 Commented on [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. ❗️ Closed issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
