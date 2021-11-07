@@ -114,7 +114,7 @@
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
 - [L4ki/Red-Dot-Black-Plasma-Themes](https://github.com/L4ki/Red-Dot-Black-Plasma-Themes) - Red Dot Black Themes For Plasma Desktop
 - [L4ki/Vortex-Plasma-Themes](https://github.com/L4ki/Vortex-Plasma-Themes) - Vortex Themes For Plasma Desktop
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Joyful Desktop v4 // Renaissance [W.I.P]
 - [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 
@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - [DEPRECATED] Download Go binaries as fast and easily as possible.
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [i582/cfmt](https://github.com/i582/cfmt) - Small library for simple and convenient formatted stylized output to the console.
@@ -450,6 +451,7 @@
 
 ## Shell 
 
+- [Cr3wm8/dotfiles](https://github.com/Cr3wm8/dotfiles) - my dotfiles
 - [thawhakyi/VirtualMachine-GithubAction](https://github.com/thawhakyi/VirtualMachine-GithubAction) - 
 - [MedzikUser/termux-packages](https://github.com/MedzikUser/termux-packages) - A build system and primary set of packages for Termux.
 - [anoopmsivadas/Cyberpunk-GRUB-Theme](https://github.com/anoopmsivadas/Cyberpunk-GRUB-Theme) - [MIRROR] Cyberpunk 2077 inspired GRUB/GRUB2 Theme
