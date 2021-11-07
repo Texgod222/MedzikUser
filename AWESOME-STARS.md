@@ -376,6 +376,7 @@
 
 ## Python 
 
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [vandalsoul/darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👨‍🔬💙
 - [leovoel/BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
