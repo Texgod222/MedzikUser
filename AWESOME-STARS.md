@@ -114,7 +114,7 @@
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
 - [L4ki/Red-Dot-Black-Plasma-Themes](https://github.com/L4ki/Red-Dot-Black-Plasma-Themes) - Red Dot Black Themes For Plasma Desktop
 - [L4ki/Vortex-Plasma-Themes](https://github.com/L4ki/Vortex-Plasma-Themes) - Vortex Themes For Plasma Desktop
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Joyful Desktop v4 // Renaissance [W.I.P]
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Preparing Joyful Desktop v4
 - [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 
