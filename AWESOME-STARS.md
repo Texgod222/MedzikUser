@@ -332,6 +332,7 @@
 
 ## Kotlin 
 
+- [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOTE:   BEING REWRITTEN,  SO  STAY TUNED.
 - [BracketCove/GraphSudokuOpen](https://github.com/BracketCove/GraphSudokuOpen) - public repo
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
