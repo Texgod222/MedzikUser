@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
