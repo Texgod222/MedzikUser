@@ -89,6 +89,7 @@
 
 ## C++ 
 
+- [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
