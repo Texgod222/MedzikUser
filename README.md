@@ -11,34 +11,20 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://golang.org/">
-        <img src="assets/icons/go-flat.svg" alt="go" width="48" height="48" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en/JavaScript">
-        <img src="assets/icons/javascript.svg" alt="javascript" width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="assets/icons/typescript.svg" alt="typescript" width="48" height="48" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="assets/icons/docker.svg" alt="docker" width="48" height="48" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://developer.mozilla.org/en/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  </a>
+  <a href="https://golang.org/">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://nodejs.org/">
