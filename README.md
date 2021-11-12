@@ -102,10 +102,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#556](https://github.com/gitpod-io/workspace-images/issues/556) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-2. 💪 Opened PR [#557](https://github.com/gitpod-io/workspace-images/pull/557) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-3. 💪 Opened PR [#900](https://github.com/VSCodium/vscodium/pull/900) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-4. 🗣 Commented on [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. ❗️ Closed issue [#48](https://github.com/AriaLyy/KeepassA/issues/48) in [AriaLyy/KeepassA](https://github.com/AriaLyy/KeepassA)
+2. ❗️ Closed issue [#1810](https://github.com/PhilippC/keepass2android/issues/1810) in [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android)
+3. 🗣 Commented on [#556](https://github.com/gitpod-io/workspace-images/issues/556) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+4. 💪 Opened PR [#557](https://github.com/gitpod-io/workspace-images/pull/557) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
 5. ❗️ Closed issue [#7933](https://github.com/termux/termux-packages/issues/7933) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
