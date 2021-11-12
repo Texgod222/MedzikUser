@@ -359,6 +359,7 @@
 
 ## Others 
 
+- [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [eakhadov/eakhadov](https://github.com/eakhadov/eakhadov) - 🌲 Custom GitHub Readme file
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
