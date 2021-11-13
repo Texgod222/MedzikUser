@@ -163,6 +163,7 @@
 
 ## Go 
 
+- [derekpedersen/imgur-go](https://github.com/derekpedersen/imgur-go) - The imgur api consumed via golang
 - [89z/googleplay](https://github.com/89z/googleplay) - Download APK or send API requests
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - [DEPRECATED] Download Go binaries as fast and easily as possible.
