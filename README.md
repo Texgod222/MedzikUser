@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7974](https://github.com/termux/termux-packages/pull/7974) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. ❗️ Closed issue [#48](https://github.com/AriaLyy/KeepassA/issues/48) in [AriaLyy/KeepassA](https://github.com/AriaLyy/KeepassA)
-3. ❗️ Closed issue [#1810](https://github.com/PhilippC/keepass2android/issues/1810) in [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android)
-4. 🗣 Commented on [#556](https://github.com/gitpod-io/workspace-images/issues/556) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-5. 💪 Opened PR [#557](https://github.com/gitpod-io/workspace-images/pull/557) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+1. 💪 Opened PR [#7978](https://github.com/termux/termux-packages/pull/7978) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 🗣 Commented on [#7457](https://github.com/termux/termux-packages/issues/7457) in [termux/termux-packages](https://github.com/termux/termux-packages)
+3. 💪 Opened PR [#7974](https://github.com/termux/termux-packages/pull/7974) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. ❗️ Closed issue [#48](https://github.com/AriaLyy/KeepassA/issues/48) in [AriaLyy/KeepassA](https://github.com/AriaLyy/KeepassA)
+5. ❗️ Closed issue [#1810](https://github.com/PhilippC/keepass2android/issues/1810) in [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android)
 <!--END_SECTION:activity-->
 
 ---
