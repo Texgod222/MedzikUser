@@ -476,7 +476,7 @@
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [MedzikUser/docker-archlinux](https://github.com/MedzikUser/docker-archlinux) - 
 - [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux) - Arch Linux packaging for ungoogled-chromium
-- [shpkg/shpkg](https://github.com/shpkg/shpkg) - package manager written in bash
+- [WMCB-Tech/shpkg](https://github.com/WMCB-Tech/shpkg) - package manager written in bash
 - [nathanchance/android-tools](https://github.com/nathanchance/android-tools) - Publicly available Android stuff
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Sony-MSM8994-Dev/android_device_sony_satsuki](https://github.com/Sony-MSM8994-Dev/android_device_sony_satsuki) - Xperia Z5 Premium
