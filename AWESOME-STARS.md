@@ -164,6 +164,7 @@
 
 ## Go 
 
+- [DisgoOrg/disgo](https://github.com/DisgoOrg/disgo) - Golang Discord API Wrapper
 - [derekpedersen/imgur-go](https://github.com/derekpedersen/imgur-go) - The imgur api consumed via golang
 - [89z/googleplay](https://github.com/89z/googleplay) - Download APK or send API requests
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
