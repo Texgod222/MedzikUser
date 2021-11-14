@@ -37,6 +37,7 @@
 
 ## C 
 
+- [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -164,6 +165,7 @@
 
 ## Go 
 
+- [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur) - Take screenshot and upload to Imgur
 - [DisgoOrg/disgo](https://github.com/DisgoOrg/disgo) - Golang Discord API Wrapper
 - [derekpedersen/imgur-go](https://github.com/derekpedersen/imgur-go) - The imgur api consumed via golang
 - [89z/googleplay](https://github.com/89z/googleplay) - Download APK or send API requests
@@ -362,7 +364,6 @@
 
 ## Others 
 
-- [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur) - Take a Screenshot and upload to Imgur
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [eakhadov/eakhadov](https://github.com/eakhadov/eakhadov) - 🌲 Custom GitHub Readme file
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
