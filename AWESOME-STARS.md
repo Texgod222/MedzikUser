@@ -165,6 +165,7 @@
 
 ## Go 
 
+- [hegedustibor/htgo-tts](https://github.com/hegedustibor/htgo-tts) - Text to speech package for Golang.
 - [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur) - Imgur API for Golang
 - [gtuk/discordwebhook](https://github.com/gtuk/discordwebhook) - Super simple interface to send discord messages through webhooks in golang
 - [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur) - Take screenshot and upload to Imgur
@@ -474,6 +475,8 @@
 
 ## Shell 
 
+- [yeyushengfan258/McMuse-circle](https://github.com/yeyushengfan258/McMuse-circle) - A colorful Design icon theme for linux desktops
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [Cr3wm8/dotfiles](https://github.com/Cr3wm8/dotfiles) - my dotfiles
 - [thawhakyi/VirtualMachine-GithubAction](https://github.com/thawhakyi/VirtualMachine-GithubAction) - 
 - [MedzikUser/termux-packages](https://github.com/MedzikUser/termux-packages) - A build system and primary set of packages for Termux.
