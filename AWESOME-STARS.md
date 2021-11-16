@@ -291,7 +291,7 @@
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
-- [redis/jedis](https://github.com/redis/jedis) - Jedis is a Java client for Redis designed for performance and ease of use
+- [redis/jedis](https://github.com/redis/jedis) - Jedis is a Java client for Redis designed for performance and ease of use.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
