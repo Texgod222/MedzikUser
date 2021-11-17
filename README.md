@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7980](https://github.com/termux/termux-packages/issues/7980) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-screenshot-imgur/pull/1) in [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur)
+1. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-imgur/pull/1) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
+2. 🗣 Commented on [#7980](https://github.com/termux/termux-packages/issues/7980) in [termux/termux-packages](https://github.com/termux/termux-packages)
 3. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-screenshot-imgur/pull/1) in [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur)
-4. 💪 Opened PR [#7978](https://github.com/termux/termux-packages/pull/7978) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 🗣 Commented on [#7457](https://github.com/termux/termux-packages/issues/7457) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-screenshot-imgur/pull/1) in [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur)
+5. 💪 Opened PR [#7978](https://github.com/termux/termux-packages/pull/7978) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
