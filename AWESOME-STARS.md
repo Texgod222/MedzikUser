@@ -166,7 +166,6 @@
 ## Go 
 
 - [hegedustibor/htgo-tts](https://github.com/hegedustibor/htgo-tts) - Text to speech package for Golang.
-- [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur) - Imgur API for Golang
 - [gtuk/discordwebhook](https://github.com/gtuk/discordwebhook) - Super simple interface to send discord messages through webhooks in golang
 - [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur) - Take screenshot and upload to Imgur
 - [DisgoOrg/disgo](https://github.com/DisgoOrg/disgo) - Golang Discord API Wrapper
