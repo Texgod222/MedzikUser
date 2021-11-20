@@ -102,8 +102,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7974](https://github.com/termux/termux-packages/pull/7974) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 🎉 Merged PR [#2](https://github.com/MedzikUser/go-imgur/pull/2) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
+1. ❌ Closed PR [#1](https://github.com/MedzikUser/android-gitpod/pull/1) in [MedzikUser/android-gitpod](https://github.com/MedzikUser/android-gitpod)
+2. ❌ Closed PR [#7974](https://github.com/termux/termux-packages/pull/7974) in [termux/termux-packages](https://github.com/termux/termux-packages)
 3. 🎉 Merged PR [#3](https://github.com/MedzikUser/go-screenshot-imgur/pull/3) in [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur)
 4. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-imgur/pull/1) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
 5. 🗣 Commented on [#7980](https://github.com/termux/termux-packages/issues/7980) in [termux/termux-packages](https://github.com/termux/termux-packages)
