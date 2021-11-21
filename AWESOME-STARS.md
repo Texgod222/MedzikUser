@@ -37,6 +37,7 @@
 
 ## C 
 
+- [freedesktop/mesa-demos](https://github.com/freedesktop/mesa-demos) - A collection of OpenGL / Mesa demos and test programs.
 - [xanmod/linux](https://github.com/xanmod/linux) - XanMod: Linux kernel source code tree
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
@@ -379,7 +380,7 @@
 - [MedzikUser/android-gitpod](https://github.com/MedzikUser/android-gitpod) - 
 - [MedzikUser/android-satsuki](https://github.com/MedzikUser/android-satsuki) - 
 - [LineageOS/android](https://github.com/LineageOS/android) - 
-- [minimal-manifest-twrp/platform_manifest_twrp_omni](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni) - Minimal manifest for building TWRP for devices shipped with Android 6.0 through Android 9.0
+- [minimal-manifest-twrp/platform_manifest_twrp_omni](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni) - Minimal manifest for building TWRP for devices shipped with Android 5.1 through Android 9.0
 - [ikas-mc/fdroid-repo](https://github.com/ikas-mc/fdroid-repo) - This is a repository of my apps
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [droidian/porting-guide](https://github.com/droidian/porting-guide) - Droidian porting guide (work in progress)
