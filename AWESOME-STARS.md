@@ -37,6 +37,7 @@
 
 ## C 
 
+- [xanmod/linux](https://github.com/xanmod/linux) - XanMod: Linux kernel source code tree
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
