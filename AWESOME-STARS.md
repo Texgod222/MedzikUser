@@ -484,6 +484,8 @@
 
 ## Shell 
 
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
+- [makedeb/makepkg](https://github.com/makedeb/makepkg) - Arch Linux build utility, modified for use with makedeb
 - [yeyushengfan258/McMuse-circle](https://github.com/yeyushengfan258/McMuse-circle) - A colorful Design icon theme for linux desktops
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [Cr3wm8/dotfiles](https://github.com/Cr3wm8/dotfiles) - my dotfiles
