@@ -277,6 +277,7 @@
 
 ## Java 
 
+- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
@@ -484,6 +485,7 @@
 
 ## Shell 
 
+- [archlinux-pkg/create-next-app](https://github.com/archlinux-pkg/create-next-app) - Create Next.js-powered React apps with one command
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [makedeb/makepkg](https://github.com/makedeb/makepkg) - Arch Linux build utility, modified for use with makedeb
 - [yeyushengfan258/McMuse-circle](https://github.com/yeyushengfan258/McMuse-circle) - A colorful Design icon theme for linux desktops
