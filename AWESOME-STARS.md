@@ -485,7 +485,6 @@
 
 ## Shell 
 
-- [archlinux-pkg/create-next-app](https://github.com/archlinux-pkg/create-next-app) - Create Next.js-powered React apps with one command
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [makedeb/makepkg](https://github.com/makedeb/makepkg) - Arch Linux build utility, modified for use with makedeb
 - [yeyushengfan258/McMuse-circle](https://github.com/yeyushengfan258/McMuse-circle) - A colorful Design icon theme for linux desktops
