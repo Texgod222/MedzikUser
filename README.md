@@ -102,10 +102,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MedzikUser/create-next-app/pull/1) in [MedzikUser/create-next-app](https://github.com/MedzikUser/create-next-app)
-2. ❌ Closed PR [#1](https://github.com/MedzikUser/gatsby-cli/pull/1) in [MedzikUser/gatsby-cli](https://github.com/MedzikUser/gatsby-cli)
-3. ❌ Closed PR [#1](https://github.com/MedzikUser/create-react-app/pull/1) in [MedzikUser/create-react-app](https://github.com/MedzikUser/create-react-app)
-4. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-imgur/pull/1) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
+1. ❌ Closed PR [#1](https://github.com/archlinux-pkg/react-native/pull/1) in [archlinux-pkg/react-native](https://github.com/archlinux-pkg/react-native)
+2. ❌ Closed PR [#1](https://github.com/MedzikUser/create-next-app/pull/1) in [MedzikUser/create-next-app](https://github.com/MedzikUser/create-next-app)
+3. ❌ Closed PR [#1](https://github.com/MedzikUser/gatsby-cli/pull/1) in [MedzikUser/gatsby-cli](https://github.com/MedzikUser/gatsby-cli)
+4. ❌ Closed PR [#1](https://github.com/MedzikUser/create-react-app/pull/1) in [MedzikUser/create-react-app](https://github.com/MedzikUser/create-react-app)
 5. 🗣 Commented on [#7980](https://github.com/termux/termux-packages/issues/7980) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
