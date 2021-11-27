@@ -102,7 +102,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/archlinux-pkg/abaddon/pull/1) in [archlinux-pkg/abaddon](https://github.com/archlinux-pkg/abaddon)
+1. ❌ Closed PR [#1](https://github.com/archlinux-pkg/dive/pull/1) in [archlinux-pkg/dive](https://github.com/archlinux-pkg/dive)
 2. ❌ Closed PR [#1](https://github.com/archlinux-pkg/react-native/pull/1) in [archlinux-pkg/react-native](https://github.com/archlinux-pkg/react-native)
 3. ❌ Closed PR [#1](https://github.com/MedzikUser/create-next-app/pull/1) in [MedzikUser/create-next-app](https://github.com/MedzikUser/create-next-app)
 4. ❌ Closed PR [#1](https://github.com/MedzikUser/gatsby-cli/pull/1) in [MedzikUser/gatsby-cli](https://github.com/MedzikUser/gatsby-cli)
