@@ -492,6 +492,7 @@
 
 ## Shell 
 
+- [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools
 - [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - 
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
 - [makedeb/makepkg](https://github.com/makedeb/makepkg) - Arch Linux build utility, modified for use with makedeb
