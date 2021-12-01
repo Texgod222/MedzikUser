@@ -129,6 +129,8 @@
 
 ## CSS 
 
+- [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
+- [i-mint/sunrise](https://github.com/i-mint/sunrise) - 
 - [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
 - [L4ki/Red-Dot-Black-Plasma-Themes](https://github.com/L4ki/Red-Dot-Black-Plasma-Themes) - Red Dot Black Themes For Plasma Desktop
@@ -502,6 +504,7 @@
 
 ## Shell 
 
+- [stuarthayhurst/argon-grub-theme](https://github.com/stuarthayhurst/argon-grub-theme) - Configurable, modern theme for the grub bootloader, containing backgrounds, icons, fonts and styling
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools
 - [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - 
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
