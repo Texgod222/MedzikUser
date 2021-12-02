@@ -470,6 +470,9 @@
 
 ## Rust 
 
+- [terminal-discord/weechat-discord](https://github.com/terminal-discord/weechat-discord) - Weechat plugin for Discord support - https://weechat.org/ https://discord.com/
+- [serenity-rs/songbird](https://github.com/serenity-rs/songbird) - An async Rust library for the Discord voice API
+- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [Polluktus/rsfetch](https://github.com/Polluktus/rsfetch) - 
