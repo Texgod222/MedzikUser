@@ -286,6 +286,7 @@
 
 ## Java 
 
+- [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers.
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
@@ -408,6 +409,7 @@
 
 ## PHP 
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - A server software for Minecraft: Bedrock Edition in PHP
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
