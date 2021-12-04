@@ -38,6 +38,7 @@
 
 ## C 
 
+- [sass/sassc](https://github.com/sass/sassc) - libsass command line driver
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [freedesktop/mesa-demos](https://github.com/freedesktop/mesa-demos) - A collection of OpenGL / Mesa demos and test programs.
@@ -562,6 +563,7 @@
 
 ## TypeScript 
 
+- [ScerIO/phar.scer.io](https://github.com/ScerIO/phar.scer.io) - 🗜️ Online PHAR converter based on JS
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
