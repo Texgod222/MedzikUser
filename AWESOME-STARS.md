@@ -286,6 +286,8 @@
 
 ## Java 
 
+- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The essential plugin suite for Minecraft servers.
+- [PryPurity/WorldBorder](https://github.com/PryPurity/WorldBorder) - Bukkit plugin for maintaining borders for your worlds to limit their sizes, as well as generating missing chunks or trimming excess chunks.
 - [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers.
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
