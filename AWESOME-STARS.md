@@ -174,6 +174,7 @@
 
 ## Go 
 
+- [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -287,6 +288,7 @@
 
 ## Java 
 
+- [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - Allows the connection of older clients to newer server versions for Minecraft servers.
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The essential plugin suite for Minecraft servers.
 - [PryPurity/WorldBorder](https://github.com/PryPurity/WorldBorder) - Bukkit plugin for maintaining borders for your worlds to limit their sizes, as well as generating missing chunks or trimming excess chunks.
@@ -521,7 +523,6 @@
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools
 - [hamadmarri/TT-CPU-Scheduler](https://github.com/hamadmarri/TT-CPU-Scheduler) - 
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - The modern packaging tool for Debian archives.
-- [makedeb/makepkg](https://github.com/makedeb/makepkg) - Arch Linux build utility, modified for use with makedeb
 - [yeyushengfan258/McMuse-circle](https://github.com/yeyushengfan258/McMuse-circle) - A colorful Design icon theme for linux desktops
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [Cr3wm8/dotfiles](https://github.com/Cr3wm8/dotfiles) - my dotfiles
