@@ -287,6 +287,7 @@
 
 ## Java 
 
+- [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The essential plugin suite for Minecraft servers.
 - [PryPurity/WorldBorder](https://github.com/PryPurity/WorldBorder) - Bukkit plugin for maintaining borders for your worlds to limit their sizes, as well as generating missing chunks or trimming excess chunks.
 - [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers.
@@ -412,6 +413,7 @@
 
 ## PHP 
 
+- [vecnavium-pm-pl/Slapper](https://github.com/vecnavium-pm-pl/Slapper) - The new home of Slapper, the NPC plugin for PocketMine.
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - A server software for Minecraft: Bedrock Edition in PHP
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
