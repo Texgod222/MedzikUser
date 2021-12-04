@@ -288,6 +288,7 @@
 
 ## Java 
 
+- [games647/LambdaAttack](https://github.com/games647/LambdaAttack) - Minecraft bot for servers. Currently supports stress testing. More features are planned
 - [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - Allows the connection of older clients to newer server versions for Minecraft servers.
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The essential plugin suite for Minecraft servers.
@@ -325,6 +326,7 @@
 
 ## JavaScript 
 
+- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
