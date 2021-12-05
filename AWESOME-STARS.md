@@ -175,6 +175,7 @@
 
 ## Go 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
