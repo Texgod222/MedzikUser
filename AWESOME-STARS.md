@@ -20,6 +20,7 @@
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
+  - [Nim](#nim)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -388,6 +389,10 @@
 
 - [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux (read-only mirror)
 - [Sony-MSM8994-Dev/proprietary_vendor_sony](https://github.com/Sony-MSM8994-Dev/proprietary_vendor_sony) - 
+
+## Nim 
+
+- [froehlichA/pax](https://github.com/froehlichA/pax) - 📦 The MC modpack manager for professionals.
 
 ## Objective-C 
 
