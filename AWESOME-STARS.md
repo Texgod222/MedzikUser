@@ -327,6 +327,7 @@
 
 ## JavaScript 
 
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -401,6 +402,8 @@
 
 ## Others 
 
+- [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+- [0Zinc/easylists-for-pihole](https://github.com/0Zinc/easylists-for-pihole) - Easylists for your Pi-Hole
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [eakhadov/eakhadov](https://github.com/eakhadov/eakhadov) - 🌲 Custom GitHub Readme file
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
