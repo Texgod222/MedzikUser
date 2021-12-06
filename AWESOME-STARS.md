@@ -290,6 +290,7 @@
 
 ## Java 
 
+- [cominixo/BetterF3](https://github.com/cominixo/BetterF3) - A Fabric mod for Minecraft that provides a highly customizable, more human-readable Debug HUD.
 - [games647/LambdaAttack](https://github.com/games647/LambdaAttack) - Minecraft bot for servers. Currently supports stress testing. More features are planned
 - [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - Allows the connection of older clients to newer server versions for Minecraft servers.
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
@@ -443,6 +444,7 @@
 
 ## Python 
 
+- [ONLYOFFICE/build_tools](https://github.com/ONLYOFFICE/build_tools) - Used to build ONLYOFFICE DocumentServer-related products
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)
