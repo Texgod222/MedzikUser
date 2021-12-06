@@ -175,6 +175,8 @@
 
 ## Go 
 
+- [sqs/goreturns](https://github.com/sqs/goreturns) - A gofmt/goimports-like tool for Go programmers that fills in Go return statements with zero values to match the func return types
+- [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [diamondburned/cchat-gtk](https://github.com/diamondburned/cchat-gtk) - Gtk frontend for cchat.
 - [diamondburned/aqours](https://github.com/diamondburned/aqours) - A Gtk music player
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
