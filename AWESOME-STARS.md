@@ -175,6 +175,7 @@
 
 ## Go 
 
+- [diamondburned/cchat-gtk](https://github.com/diamondburned/cchat-gtk) - Gtk frontend for cchat.
 - [diamondburned/aqours](https://github.com/diamondburned/aqours) - A Gtk music player
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Go libraries of everything in Minecraft
