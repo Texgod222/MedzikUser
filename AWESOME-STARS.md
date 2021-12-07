@@ -448,6 +448,7 @@
 
 ## Python 
 
+- [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [ONLYOFFICE/build_tools](https://github.com/ONLYOFFICE/build_tools) - Used to build ONLYOFFICE DocumentServer-related products
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
