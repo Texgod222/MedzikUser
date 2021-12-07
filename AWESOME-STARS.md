@@ -409,6 +409,7 @@
 
 ## Others 
 
+- [diamondburned/discord-emoji-dl](https://github.com/diamondburned/discord-emoji-dl) - Discord Emoji Downloader
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [0Zinc/easylists-for-pihole](https://github.com/0Zinc/easylists-for-pihole) - Easylists for your Pi-Hole
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
