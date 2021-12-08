@@ -20,6 +20,7 @@
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Nim](#nim)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -175,6 +176,10 @@
 
 ## Go 
 
+- [hen6003/golaunch](https://github.com/hen6003/golaunch) - a simple .desktop file launcher
+- [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
+- [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [sqs/goreturns](https://github.com/sqs/goreturns) - A gofmt/goimports-like tool for Go programmers that fills in Go return statements with zero values to match the func return types
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [diamondburned/cchat-gtk](https://github.com/diamondburned/cchat-gtk) - Gtk frontend for cchat.
@@ -399,6 +404,10 @@
 - [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux (read-only mirror)
 - [Sony-MSM8994-Dev/proprietary_vendor_sony](https://github.com/Sony-MSM8994-Dev/proprietary_vendor_sony) - 
 
+## Markdown 
+
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
+
 ## Nim 
 
 - [froehlichA/pax](https://github.com/froehlichA/pax) - 📦 The MC modpack manager for professionals.
@@ -425,7 +434,6 @@
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [droidian/porting-guide](https://github.com/droidian/porting-guide) - Droidian porting guide (work in progress)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
