@@ -339,6 +339,8 @@
 
 ## JavaScript 
 
+- [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
@@ -597,6 +599,7 @@
 
 ## TypeScript 
 
+- [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [ScerIO/phar.scer.io](https://github.com/ScerIO/phar.scer.io) - 🗜️ Online PHAR converter based on JS
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
