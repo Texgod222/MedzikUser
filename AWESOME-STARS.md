@@ -176,6 +176,7 @@
 
 ## Go 
 
+- [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
 - [hen6003/golaunch](https://github.com/hen6003/golaunch) - a simple .desktop file launcher
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
 - [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
