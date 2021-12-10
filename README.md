@@ -102,8 +102,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MedzikUser/mineflayer-bot/pull/2) in [MedzikUser/mineflayer-bot](https://github.com/MedzikUser/mineflayer-bot)
-2. 🎉 Merged PR [#1](https://github.com/MedzikUser/mineflayer-bot/pull/1) in [MedzikUser/mineflayer-bot](https://github.com/MedzikUser/mineflayer-bot)
+1. 💪 Opened PR [#583](https://github.com/gitpod-io/workspace-images/pull/583) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+2. 💪 Opened PR [#8195](https://github.com/termux/termux-packages/pull/8195) in [termux/termux-packages](https://github.com/termux/termux-packages)
 3. ❌ Closed PR [#1](https://github.com/MedzikUser/create-next-app/pull/1) in [MedzikUser/create-next-app](https://github.com/MedzikUser/create-next-app)
 4. ❌ Closed PR [#1](https://github.com/MedzikUser/gatsby-cli/pull/1) in [MedzikUser/gatsby-cli](https://github.com/MedzikUser/gatsby-cli)
 5. ❌ Closed PR [#1](https://github.com/MedzikUser/create-react-app/pull/1) in [MedzikUser/create-react-app](https://github.com/MedzikUser/create-react-app)
