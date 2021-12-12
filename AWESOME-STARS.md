@@ -553,6 +553,7 @@
 
 ## Shell 
 
+- [raven2cz/polybar-config](https://github.com/raven2cz/polybar-config) - Advanced Polybar Modules Configuration
 - [lxqt/lxqt](https://github.com/lxqt/lxqt) - Checkout all LXQt components at once by using git submodule.
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
 - [ayamir/bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles) - My Arch+Bspwm dotfiles
