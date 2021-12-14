@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#583](https://github.com/gitpod-io/workspace-images/pull/583) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-2. 💪 Opened PR [#8195](https://github.com/termux/termux-packages/pull/8195) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. ❌ Closed PR [#1](https://github.com/MedzikUser/create-next-app/pull/1) in [MedzikUser/create-next-app](https://github.com/MedzikUser/create-next-app)
+1. 💪 Opened PR [#8242](https://github.com/termux/termux-packages/pull/8242) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 💪 Opened PR [#583](https://github.com/gitpod-io/workspace-images/pull/583) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+3. 💪 Opened PR [#8195](https://github.com/termux/termux-packages/pull/8195) in [termux/termux-packages](https://github.com/termux/termux-packages)
 4. ❌ Closed PR [#1](https://github.com/MedzikUser/gatsby-cli/pull/1) in [MedzikUser/gatsby-cli](https://github.com/MedzikUser/gatsby-cli)
 5. ❌ Closed PR [#1](https://github.com/MedzikUser/create-react-app/pull/1) in [MedzikUser/create-react-app](https://github.com/MedzikUser/create-react-app)
 <!--END_SECTION:activity-->
