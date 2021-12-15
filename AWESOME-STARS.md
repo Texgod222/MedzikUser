@@ -516,6 +516,7 @@
 
 ## Rust 
 
+- [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [terminal-discord/weechat-discord](https://github.com/terminal-discord/weechat-discord) - Weechat plugin for Discord support - https://weechat.org/ https://discord.com/
 - [serenity-rs/songbird](https://github.com/serenity-rs/songbird) - An async Rust library for the Discord voice API
