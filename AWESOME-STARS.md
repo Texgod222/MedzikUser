@@ -633,7 +633,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for VS Code
