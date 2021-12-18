@@ -102,8 +102,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8242](https://github.com/termux/termux-packages/pull/8242) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 💪 Opened PR [#583](https://github.com/gitpod-io/workspace-images/pull/583) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+1. 🎉 Merged PR [#1](https://github.com/MedzikUser/flutter-cdn/pull/1) in [MedzikUser/flutter-cdn](https://github.com/MedzikUser/flutter-cdn)
+2. 💪 Opened PR [#8242](https://github.com/termux/termux-packages/pull/8242) in [termux/termux-packages](https://github.com/termux/termux-packages)
 3. 💪 Opened PR [#8195](https://github.com/termux/termux-packages/pull/8195) in [termux/termux-packages](https://github.com/termux/termux-packages)
 4. ❌ Closed PR [#1](https://github.com/MedzikUser/gatsby-cli/pull/1) in [MedzikUser/gatsby-cli](https://github.com/MedzikUser/gatsby-cli)
 5. ❌ Closed PR [#1](https://github.com/MedzikUser/create-react-app/pull/1) in [MedzikUser/create-react-app](https://github.com/MedzikUser/create-react-app)
