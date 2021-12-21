@@ -40,6 +40,7 @@
 
 ## C 
 
+- [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [sass/sassc](https://github.com/sass/sassc) - libsass command line driver
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
@@ -471,6 +472,7 @@
 
 ## Python 
 
+- [Dummerle/Rare](https://github.com/Dummerle/Rare) - GUI for legendary. An Epic Games Launcher open source alternative
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
