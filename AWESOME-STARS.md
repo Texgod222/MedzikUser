@@ -564,6 +564,7 @@
 
 ## Shell 
 
+- [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
 - [raven2cz/polybar-config](https://github.com/raven2cz/polybar-config) - Advanced Polybar Modules Configuration
 - [lxqt/lxqt](https://github.com/lxqt/lxqt) - Checkout all LXQt components at once by using git submodule.
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
