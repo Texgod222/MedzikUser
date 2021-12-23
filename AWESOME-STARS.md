@@ -626,7 +626,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice)
+- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord Server (selfhostable open source IM server that speaks Discord protocol) (contains api + cdn + gateway + dashboard + voice)
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
 - [coder/vscode](https://github.com/coder/vscode) - Fork of Visual Studio Code to aid code-server integration. Work in progress ⚠️
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
