@@ -102,10 +102,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MedzikUser/flutter-cdn/pull/1) in [MedzikUser/flutter-cdn](https://github.com/MedzikUser/flutter-cdn)
-2. 💪 Opened PR [#8242](https://github.com/termux/termux-packages/pull/8242) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 💪 Opened PR [#8195](https://github.com/termux/termux-packages/pull/8195) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. ❌ Closed PR [#1](https://github.com/MedzikUser/gatsby-cli/pull/1) in [MedzikUser/gatsby-cli](https://github.com/MedzikUser/gatsby-cli)
+1. 🎉 Merged PR [#3](https://github.com/MedzikUser/nextjs-portfolio/pull/3) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+2. 🎉 Merged PR [#2](https://github.com/MedzikUser/nextjs-portfolio/pull/2) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+3. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+4. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
 5. ❌ Closed PR [#1](https://github.com/MedzikUser/create-react-app/pull/1) in [MedzikUser/create-react-app](https://github.com/MedzikUser/create-react-app)
 <!--END_SECTION:activity-->
 
