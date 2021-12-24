@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MedzikUser/nextjs-portfolio/pull/3) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
-2. 🎉 Merged PR [#2](https://github.com/MedzikUser/nextjs-portfolio/pull/2) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
-3. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
-4. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
-5. ❌ Closed PR [#1](https://github.com/MedzikUser/create-react-app/pull/1) in [MedzikUser/create-react-app](https://github.com/MedzikUser/create-react-app)
+1. 🎉 Merged PR [#6](https://github.com/MedzikUser/nextjs-portfolio/pull/6) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+2. 🎉 Merged PR [#5](https://github.com/MedzikUser/nextjs-portfolio/pull/5) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+3. 🎉 Merged PR [#3](https://github.com/MedzikUser/nextjs-portfolio/pull/3) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+4. 🎉 Merged PR [#2](https://github.com/MedzikUser/nextjs-portfolio/pull/2) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
 <!--END_SECTION:activity-->
 
 ---
