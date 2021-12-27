@@ -314,6 +314,7 @@
 
 ## Java 
 
+- [Puremin0rez/WorldBorder](https://github.com/Puremin0rez/WorldBorder) - Efficient, feature-rich plugin for limiting and generating your worlds. Continuation of the original plugin.
 - [cominixo/BetterF3](https://github.com/cominixo/BetterF3) - A Fabric mod for Minecraft that provides a highly customizable, more human-readable Debug HUD.
 - [games647/LambdaAttack](https://github.com/games647/LambdaAttack) - Minecraft bot for servers. Currently supports stress testing. More features are planned
 - [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - Allows the connection of older clients to newer server versions for Minecraft servers.
@@ -530,6 +531,7 @@
 
 ## Rust 
 
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [terminal-discord/weechat-discord](https://github.com/terminal-discord/weechat-discord) - Weechat plugin for Discord support - https://weechat.org/ https://discord.com/
