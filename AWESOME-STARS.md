@@ -139,7 +139,7 @@
 ## CSS 
 
 - [redve123/dotfiles](https://github.com/redve123/dotfiles) - 
-- [sshcracker/bspwm-dotfiles](https://github.com/sshcracker/bspwm-dotfiles) - My archlinux bspwm dotfiles
+- [skalpasi/bspwm-dotfiles](https://github.com/skalpasi/bspwm-dotfiles) - My archlinux bspwm dotfiles
 - [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 - [i-mint/sunrise](https://github.com/i-mint/sunrise) - 
 - [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
