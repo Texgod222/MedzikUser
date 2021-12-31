@@ -103,6 +103,7 @@
 
 ## C++ 
 
+- [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [ebertolazzi/embedFiglet](https://github.com/ebertolazzi/embedFiglet) - C++ embeddable subset of Figlet
