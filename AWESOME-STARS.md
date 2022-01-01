@@ -315,6 +315,8 @@
 
 ## Java 
 
+- [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+- [SpigotMC/BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
 - [Puremin0rez/WorldBorder](https://github.com/Puremin0rez/WorldBorder) - Efficient, feature-rich plugin for limiting and generating your worlds. Continuation of the original plugin.
 - [cominixo/BetterF3](https://github.com/cominixo/BetterF3) - A Fabric mod for Minecraft that provides a highly customizable, more human-readable Debug HUD.
 - [games647/LambdaAttack](https://github.com/games647/LambdaAttack) - Minecraft bot for servers. Currently supports stress testing. More features are planned
@@ -635,7 +637,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord Server (selfhostable open source IM server that speaks Discord protocol) (contains api + cdn + gateway + dashboard + voice)
+- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
 - [coder/vscode](https://github.com/coder/vscode) - Fork of Visual Studio Code to aid code-server integration. Work in progress ⚠️
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
