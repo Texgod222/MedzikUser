@@ -399,7 +399,7 @@
 - [kaimallea/node-imgur](https://github.com/kaimallea/node-imgur) - Upload images to imgur.com
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [SimCoderYoutube/InstagramClone](https://github.com/SimCoderYoutube/InstagramClone) - 
+- [SimCoderYoutube/InstagramClone](https://github.com/SimCoderYoutube/InstagramClone) - Instagram Clone React Native Tutorial 2021 👨‍💻  I'll show you how you can do this in the simplest way and terms possible.  By the end of this series you'll have learned how the big companies do it and will be able to do the same, you not only will be able to do this app, but you'll be able to put what you learn into your very own projects!  In this series, we use React Native with Expo to quickly deploy the project. We use firebase for all our microservice needs like the auth system, database, storage, amongst others.   firebase, redux, react native, javascript, expo. In this series, we'll use all of them and you'll learn them by doing an iconic app.  Welcome to this Simcoder project and make an Instagram Clone!
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
