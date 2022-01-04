@@ -633,6 +633,7 @@
 
 ## TypeScript 
 
+- [LeonardSSH/vscord](https://github.com/LeonardSSH/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio) - My portfolio page created in Next.js hosted on vercel.app
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [ScerIO/phar.scer.io](https://github.com/ScerIO/phar.scer.io) - 🗜️ Online PHAR converter based on JS
