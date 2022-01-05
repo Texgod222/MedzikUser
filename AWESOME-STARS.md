@@ -580,6 +580,7 @@
 
 ## Shell 
 
+- [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages) - 
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
 - [raven2cz/polybar-config](https://github.com/raven2cz/polybar-config) - Advanced Polybar Modules Configuration
