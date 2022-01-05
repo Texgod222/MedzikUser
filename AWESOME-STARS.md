@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [discordjs/RPC](https://github.com/discordjs/RPC) - A simple RPC client for Discord
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
