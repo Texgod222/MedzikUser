@@ -545,6 +545,7 @@
 
 ## Rust 
 
+- [pop-os/cosmic-settings](https://github.com/pop-os/cosmic-settings) - WIP - the Settings app for COSMIC
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
