@@ -487,6 +487,8 @@
 
 ## Python 
 
+- [ValvePython/vdf](https://github.com/ValvePython/vdf) - 📜 Package for working with Valve's text and binary KeyValue format
+- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [Dummerle/Rare](https://github.com/Dummerle/Rare) - GUI for legendary. An Epic Games Launcher open source alternative
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
@@ -582,6 +584,7 @@
 
 ## Shell 
 
+- [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine - Bugtracker and Patches: https://bugs.winehq.org/ Website:
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages) - 
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
