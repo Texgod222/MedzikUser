@@ -487,6 +487,7 @@
 
 ## Python 
 
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [ValvePython/vdf](https://github.com/ValvePython/vdf) - 📜 Package for working with Valve's text and binary KeyValue format
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
