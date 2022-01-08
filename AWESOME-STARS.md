@@ -188,6 +188,7 @@
 
 ## Go 
 
+- [gin-contrib/static](https://github.com/gin-contrib/static) - Static middleware
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
 - [0xAX/notificator](https://github.com/0xAX/notificator) - Desktop notifications with golang
