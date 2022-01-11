@@ -363,6 +363,7 @@
 
 ## JavaScript 
 
+- [stuarthayhurst/alphabetical-grid-extension](https://github.com/stuarthayhurst/alphabetical-grid-extension) - Restore the alphabetical ordering of the app grid, removed in GNOME 3.38
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [discordjs/RPC](https://github.com/discordjs/RPC) - A simple RPC client for Discord
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
