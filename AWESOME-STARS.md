@@ -364,6 +364,7 @@
 
 ## JavaScript 
 
+- [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 - [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
 - [stuarthayhurst/alphabetical-grid-extension](https://github.com/stuarthayhurst/alphabetical-grid-extension) - Restore the alphabetical ordering of the app grid, removed in GNOME 3.38
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -560,7 +561,7 @@
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [Polluktus/rsfetch](https://github.com/Polluktus/rsfetch) - 
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
