@@ -314,6 +314,7 @@
 
 ## HTML 
 
+- [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [PhilippC/kp2a_accservice_autofill](https://github.com/PhilippC/kp2a_accservice_autofill) - Accessibility service based AutoFill plugin for Keepass2Android
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [fireship-io/wavy-curvey-blobby-website](https://github.com/fireship-io/wavy-curvey-blobby-website) - A website design with lots of waves, curves, a blobs
@@ -363,6 +364,7 @@
 
 ## JavaScript 
 
+- [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
 - [stuarthayhurst/alphabetical-grid-extension](https://github.com/stuarthayhurst/alphabetical-grid-extension) - Restore the alphabetical ordering of the app grid, removed in GNOME 3.38
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [discordjs/RPC](https://github.com/discordjs/RPC) - A simple RPC client for Discord
@@ -370,6 +372,7 @@
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
@@ -693,7 +696,6 @@
 
 ## Vue 
 
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
