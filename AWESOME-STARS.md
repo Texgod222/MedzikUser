@@ -164,6 +164,7 @@
 
 ## Dart 
 
+- [RivaanRanawat/instagram-flutter-clone](https://github.com/RivaanRanawat/instagram-flutter-clone) - Instagram Clone developed with Flutter & Firebase
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
@@ -551,6 +552,7 @@
 
 ## Rust 
 
+- [Fierthraix/rmatrix](https://github.com/Fierthraix/rmatrix) - rust port of cmatrix
 - [pop-os/cosmic-settings](https://github.com/pop-os/cosmic-settings) - WIP - the Settings app for COSMIC
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
