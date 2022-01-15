@@ -595,6 +595,7 @@
 
 ## Shell 
 
+- [clearlinux-pkgs/linux](https://github.com/clearlinux-pkgs/linux) - 
 - [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine - Bugtracker and Patches: https://bugs.winehq.org/ Website:
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages) - Buildsystem and packages files for MedzikUser AUR Prebuild
