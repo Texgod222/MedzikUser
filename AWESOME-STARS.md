@@ -455,6 +455,7 @@
 
 ## Others 
 
+- [kgoettler/ursamajor-rEFInd](https://github.com/kgoettler/ursamajor-rEFInd) - Ursa Major theme for rEFInd Bootloader
 - [diamondburned/discord-emoji-dl](https://github.com/diamondburned/discord-emoji-dl) - Discord Emoji Downloader
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [0Zinc/easylists-for-pihole](https://github.com/0Zinc/easylists-for-pihole) - Easylists for your Pi-Hole
