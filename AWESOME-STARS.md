@@ -165,7 +165,7 @@
 
 ## Dart 
 
-- [RivaanRanawat/instagram-flutter-clone](https://github.com/RivaanRanawat/instagram-flutter-clone) - Instagram Clone developed with Flutter & Firebase
+- [RivaanRanawat/instagram-flutter-clone](https://github.com/RivaanRanawat/instagram-flutter-clone) - Responsive Instagram Clone developed with Flutter & Firebase
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
