@@ -455,6 +455,7 @@
 
 ## Others 
 
+- [MedzikUser/rust-imgur](https://github.com/MedzikUser/rust-imgur) - 
 - [kgoettler/ursamajor-rEFInd](https://github.com/kgoettler/ursamajor-rEFInd) - Ursa Major theme for rEFInd Bootloader
 - [diamondburned/discord-emoji-dl](https://github.com/diamondburned/discord-emoji-dl) - Discord Emoji Downloader
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
@@ -554,6 +555,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
 - [Fierthraix/rmatrix](https://github.com/Fierthraix/rmatrix) - rust port of cmatrix
@@ -598,6 +600,8 @@
 
 ## Shell 
 
+- [changs/slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [clearlinux-pkgs/linux](https://github.com/clearlinux-pkgs/linux) - 
 - [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine - Bugtracker and Patches: https://bugs.winehq.org/ Website:
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
