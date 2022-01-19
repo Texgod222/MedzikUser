@@ -191,6 +191,7 @@
 
 ## Go 
 
+- [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [gin-contrib/static](https://github.com/gin-contrib/static) - Static middleware
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
