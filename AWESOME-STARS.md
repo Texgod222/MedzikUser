@@ -40,6 +40,7 @@
 
 ## C 
 
+- [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [sioodmy/dwm](https://github.com/sioodmy/dwm) - 
 - [intel/media-driver](https://github.com/intel/media-driver) - 
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
