@@ -688,7 +688,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A privacy-focused Discord web client made with :electron: framework.
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the :electron:.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
