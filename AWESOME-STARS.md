@@ -40,6 +40,10 @@
 
 ## C 
 
+- [freedesktop/drm-intel](https://github.com/freedesktop/drm-intel) - Linux driver for Intel graphics
+- [freedesktop/mesa](https://github.com/freedesktop/mesa) - Mesa 3D graphics library (mirror; no pull requests here please)
+- [freedesktop/xorg-xserver](https://github.com/freedesktop/xorg-xserver) - X server
+- [freedesktop/xorg-xf86-video-intel](https://github.com/freedesktop/xorg-xf86-video-intel) - Intel video driver
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [sioodmy/dwm](https://github.com/sioodmy/dwm) - 
 - [intel/media-driver](https://github.com/intel/media-driver) - 
