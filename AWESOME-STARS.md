@@ -373,6 +373,7 @@
 
 ## JavaScript 
 
+- [F-i-f/soft-brightness](https://github.com/F-i-f/soft-brightness) - Gnome-shell extension to manage your display brightness via an alpha overlay (instead of the backlight).
 - [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 - [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
 - [stuarthayhurst/alphabetical-grid-extension](https://github.com/stuarthayhurst/alphabetical-grid-extension) - Restore the alphabetical ordering of the app grid, removed in GNOME 3.38
@@ -562,6 +563,8 @@
 
 ## Rust 
 
+- [borntyping/rust-simple_logger](https://github.com/borntyping/rust-simple_logger) - A rust logger that prints all messages with a readable output format.
+- [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple note taking application written in Rust and GTK4
