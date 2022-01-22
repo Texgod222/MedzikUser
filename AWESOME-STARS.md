@@ -463,7 +463,6 @@
 
 ## Others 
 
-- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - 
 - [kgoettler/ursamajor-rEFInd](https://github.com/kgoettler/ursamajor-rEFInd) - Ursa Major theme for rEFInd Bootloader
 - [diamondburned/discord-emoji-dl](https://github.com/diamondburned/discord-emoji-dl) - Discord Emoji Downloader
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
@@ -572,6 +571,7 @@
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
+- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
