@@ -374,6 +374,7 @@
 
 ## JavaScript 
 
+- [svenstaro/upx-action](https://github.com/svenstaro/upx-action) - Strips and runs upx on binaries
 - [F-i-f/soft-brightness](https://github.com/F-i-f/soft-brightness) - Gnome-shell extension to manage your display brightness via an alpha overlay (instead of the backlight).
 - [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 - [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
@@ -563,6 +564,8 @@
 
 ## Rust 
 
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
 - [magiclen/qrcode-generator](https://github.com/magiclen/qrcode-generator) - Generate QR Code matrices and images in RAW, PNG and SVG formats.
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
