@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
 - [discord/discord-rpc](https://github.com/discord/discord-rpc) - 
 - [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
