@@ -318,7 +318,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [andersfylling/disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -566,6 +565,7 @@
 
 ## Rust 
 
+- [thoo0224/webhook-rs](https://github.com/thoo0224/webhook-rs) - Discord Webhook API Wrapper for Rust.
 - [aweinstock314/rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
@@ -583,7 +583,7 @@
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - 
+- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - API and CLI for Imgur
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
@@ -688,6 +688,7 @@
 
 ## TypeScript 
 
+- [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [LeonardSSH/vscord](https://github.com/LeonardSSH/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio) - My portfolio page created in Next.js hosted on vercel.app
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
@@ -725,6 +726,7 @@
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [MedzikUser/api](https://github.com/MedzikUser/api) - My API
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 
 ## Vim script 
 
