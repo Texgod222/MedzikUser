@@ -40,6 +40,7 @@
 
 ## C 
 
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [freedesktop/drm-intel](https://github.com/freedesktop/drm-intel) - Linux driver for Intel graphics
 - [freedesktop/mesa](https://github.com/freedesktop/mesa) - Mesa 3D graphics library (mirror; no pull requests here please)
 - [freedesktop/xorg-xserver](https://github.com/freedesktop/xorg-xserver) - X server
