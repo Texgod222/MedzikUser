@@ -565,6 +565,7 @@
 
 ## Rust 
 
+- [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 - [thoo0224/webhook-rs](https://github.com/thoo0224/webhook-rs) - Discord Webhook API Wrapper for Rust.
 - [aweinstock314/rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
