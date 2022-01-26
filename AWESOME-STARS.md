@@ -158,7 +158,7 @@
 - [daniruiz/skeuos-gtk](https://github.com/daniruiz/skeuos-gtk) - 
 - [L4ki/Red-Dot-Black-Plasma-Themes](https://github.com/L4ki/Red-Dot-Black-Plasma-Themes) - Red Dot Black Themes For Plasma Desktop
 - [L4ki/Vortex-Plasma-Themes](https://github.com/L4ki/Vortex-Plasma-Themes) - Vortex Themes For Plasma Desktop
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment. Deprecated, preparing Joyful Desktop v4. Consider installing!
 - [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 
@@ -611,6 +611,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [sseemayer/keepass-rs](https://github.com/sseemayer/keepass-rs) - KeePass kdbx database file parser
 - [sseemayer/keepass-rs](https://github.com/sseemayer/keepass-rs) - KeePass kdbx database file parser
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
