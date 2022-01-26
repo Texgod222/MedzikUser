@@ -466,6 +466,7 @@
 
 ## Others 
 
+- [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [kgoettler/ursamajor-rEFInd](https://github.com/kgoettler/ursamajor-rEFInd) - Ursa Major theme for rEFInd Bootloader
 - [diamondburned/discord-emoji-dl](https://github.com/diamondburned/discord-emoji-dl) - Discord Emoji Downloader
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
@@ -565,6 +566,11 @@
 
 ## Rust 
 
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp) - FTP client for Rust
+- [FGRibreau/spinners](https://github.com/FGRibreau/spinners) - 🛎 60+ Elegant terminal spinners for Rust
+- [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
+- [a8m/pb](https://github.com/a8m/pb) - Console progress bar for Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 - [thoo0224/webhook-rs](https://github.com/thoo0224/webhook-rs) - Discord Webhook API Wrapper for Rust.
