@@ -565,6 +565,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 - [thoo0224/webhook-rs](https://github.com/thoo0224/webhook-rs) - Discord Webhook API Wrapper for Rust.
 - [aweinstock314/rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
@@ -611,7 +612,6 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [sseemayer/keepass-rs](https://github.com/sseemayer/keepass-rs) - KeePass kdbx database file parser
 - [sseemayer/keepass-rs](https://github.com/sseemayer/keepass-rs) - KeePass kdbx database file parser
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
