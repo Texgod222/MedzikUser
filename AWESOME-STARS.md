@@ -40,6 +40,7 @@
 
 ## C 
 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [freedesktop/drm-intel](https://github.com/freedesktop/drm-intel) - Linux driver for Intel graphics
 - [freedesktop/mesa](https://github.com/freedesktop/mesa) - Mesa 3D graphics library (mirror; no pull requests here please)
@@ -566,6 +567,7 @@
 
 ## Rust 
 
+- [mitsuhiko/better-panic](https://github.com/mitsuhiko/better-panic) - A python inspired panic handler for rust
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp) - FTP client for Rust
 - [FGRibreau/spinners](https://github.com/FGRibreau/spinners) - 🛎 60+ Elegant terminal spinners for Rust
