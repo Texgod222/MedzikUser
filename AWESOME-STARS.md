@@ -40,6 +40,7 @@
 
 ## C 
 
+- [KhronosGroup/Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [freedesktop/drm-intel](https://github.com/freedesktop/drm-intel) - Linux driver for Intel graphics
@@ -567,6 +568,7 @@
 
 ## Rust 
 
+- [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [mitsuhiko/better-panic](https://github.com/mitsuhiko/better-panic) - A python inspired panic handler for rust
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -594,7 +596,7 @@
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - API and CLI for Imgur
+- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - Lib and CLI for Imgur
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
