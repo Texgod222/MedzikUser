@@ -39,6 +39,7 @@
 
 ## C 
 
+- [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [KhronosGroup/Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
@@ -275,7 +276,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
-- [Nathan13888/VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded) - A Visitor Badge made with Golang that prioritizes performance and customizability. README for more details.
+- [Nathan13888/VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded) - An extensible and modular visitor counter with a focus on performance and reliability. Written in Golang. README for more details.
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
 - [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
