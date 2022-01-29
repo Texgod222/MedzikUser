@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#816](https://github.com/KhronosGroup/Vulkan-Loader/issues/816) in [KhronosGroup/Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader)
-2. 💪 Opened PR [#1](https://github.com/archlinux-pkg/packages/pull/1) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-3. 🎉 Merged PR [#3](https://github.com/MedzikUser/nextjs-portfolio/pull/3) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+1. 💪 Opened PR [#165](https://github.com/ungoogled-software/ungoogled-chromium-archlinux/pull/165) in [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux)
+2. ❗️ Opened issue [#816](https://github.com/KhronosGroup/Vulkan-Loader/issues/816) in [KhronosGroup/Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader)
+3. 💪 Opened PR [#1](https://github.com/archlinux-pkg/packages/pull/1) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 4. 🎉 Merged PR [#2](https://github.com/MedzikUser/nextjs-portfolio/pull/2) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
 5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
 <!--END_SECTION:activity-->
