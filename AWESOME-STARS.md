@@ -113,6 +113,7 @@
 
 ## C++ 
 
+- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
 - [discord/discord-rpc](https://github.com/discord/discord-rpc) - 
@@ -568,6 +569,7 @@
 
 ## Rust 
 
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [mitsuhiko/better-panic](https://github.com/mitsuhiko/better-panic) - A python inspired panic handler for rust
