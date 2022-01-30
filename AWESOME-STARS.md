@@ -598,7 +598,7 @@
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - Lib and CLI for Imgur
+- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - CLI and Library for Imgur API
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
@@ -699,6 +699,7 @@
 
 ## TypeScript 
 
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [LeonardSSH/vscord](https://github.com/LeonardSSH/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
 - [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio) - My portfolio page created in Next.js hosted on vercel.app
