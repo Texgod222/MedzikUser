@@ -569,6 +569,8 @@
 
 ## Rust 
 
+- [quodlibetor/git-fixup](https://github.com/quodlibetor/git-fixup) - Amend old git commits with a simple UI.
+- [sjb3d/caldera](https://github.com/sjb3d/caldera) - Vulkan and rust experiments, including a spectral path tracer using Vulkan ray tracing extensions
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
