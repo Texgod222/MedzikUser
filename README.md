@@ -102,10 +102,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/archlinux-pkg/packages/pull/2) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-2. 💪 Opened PR [#2](https://github.com/archlinux-pkg/packages/pull/2) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-3. 💪 Opened PR [#165](https://github.com/ungoogled-software/ungoogled-chromium-archlinux/pull/165) in [ungoogled-software/ungoogled-chromium-archlinux](https://github.com/ungoogled-software/ungoogled-chromium-archlinux)
-4. 🎉 Merged PR [#2](https://github.com/MedzikUser/nextjs-portfolio/pull/2) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+1. 🎉 Merged PR [#3](https://github.com/archlinux-pkg/packages/pull/3) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+2. 💪 Opened PR [#3](https://github.com/archlinux-pkg/packages/pull/3) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+3. 🎉 Merged PR [#2](https://github.com/archlinux-pkg/packages/pull/2) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+4. 💪 Opened PR [#2](https://github.com/archlinux-pkg/packages/pull/2) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
 <!--END_SECTION:activity-->
 
