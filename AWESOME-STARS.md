@@ -377,6 +377,7 @@
 
 ## JavaScript 
 
+- [cheton/github-release-cli](https://github.com/cheton/github-release-cli) - A command-line tool for managing release assets on a GitHub repository.
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) - Strips and runs upx on binaries
 - [F-i-f/soft-brightness](https://github.com/F-i-f/soft-brightness) - Gnome-shell extension to manage your display brightness via an alpha overlay (instead of the backlight).
 - [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
