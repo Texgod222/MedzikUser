@@ -153,6 +153,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [redve123/dotfiles](https://github.com/redve123/dotfiles) - 
 - [skalpasi/bspwm-dotfiles](https://github.com/skalpasi/bspwm-dotfiles) - My archlinux bspwm dotfiles
 - [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
