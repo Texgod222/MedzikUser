@@ -510,6 +510,7 @@
 
 ## Python 
 
+- [FichteFoll/discordrp-mpris](https://github.com/FichteFoll/discordrp-mpris) - Discord Rich Presence through media players providing the mpris2 dbus interface
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [ValvePython/vdf](https://github.com/ValvePython/vdf) - 📜 Package for working with Valve's text and binary KeyValue format
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
