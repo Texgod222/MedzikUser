@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/archlinux-pkg/packages/pull/3) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-2. 💪 Opened PR [#3](https://github.com/archlinux-pkg/packages/pull/3) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-3. 🎉 Merged PR [#2](https://github.com/archlinux-pkg/packages/pull/2) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+1. 🗣 Commented on [#816](https://github.com/KhronosGroup/Vulkan-Loader/issues/816) in [KhronosGroup/Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader)
+2. 🎉 Merged PR [#3](https://github.com/archlinux-pkg/packages/pull/3) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+3. 💪 Opened PR [#3](https://github.com/archlinux-pkg/packages/pull/3) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 4. 💪 Opened PR [#2](https://github.com/archlinux-pkg/packages/pull/2) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
 <!--END_SECTION:activity-->
