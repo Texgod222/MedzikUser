@@ -651,6 +651,7 @@
 
 ## Shell 
 
+- [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
 - [changs/slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [clearlinux-pkgs/linux](https://github.com/clearlinux-pkgs/linux) - 
