@@ -706,6 +706,7 @@
 
 ## TypeScript 
 
+- [gbaranski/quizizz-cheat](https://github.com/gbaranski/quizizz-cheat) - Cheat for https://quizizz.com to get all correct answers
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [LeonardSSH/vscord](https://github.com/LeonardSSH/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
