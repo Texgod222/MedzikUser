@@ -29,6 +29,7 @@
   - [Perl](#perl)
   - [Python](#python)
   - [QML](#qml)
+  - [Rascal](#rascal)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -561,6 +562,10 @@
 ## QML 
 
 - [MalditoBarbudo/solarized_sddm_theme](https://github.com/MalditoBarbudo/solarized_sddm_theme) - Solarized theme for sddm
+
+## Rascal 
+
+- [MajkiIT/polish-ads-filter](https://github.com/MajkiIT/polish-ads-filter) - CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard
 
 ## Ruby 
 
