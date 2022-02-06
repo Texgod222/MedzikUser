@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [shahidcodes/firebog-ticked-list](https://github.com/shahidcodes/firebog-ticked-list) - Merges firebog.net ticked host list to one giant file
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [gin-contrib/static](https://github.com/gin-contrib/static) - Static middleware
@@ -656,6 +657,7 @@
 
 ## Shell 
 
+- [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
 - [changs/slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
