@@ -579,6 +579,7 @@
 
 ## Rust 
 
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [quodlibetor/git-fixup](https://github.com/quodlibetor/git-fixup) - Amend old git commits with a simple UI.
 - [sjb3d/caldera](https://github.com/sjb3d/caldera) - Vulkan and rust experiments, including a spectral path tracer using Vulkan ray tracing extensions
