@@ -579,6 +579,7 @@
 
 ## Rust 
 
+- [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [quodlibetor/git-fixup](https://github.com/quodlibetor/git-fixup) - Amend old git commits with a simple UI.
