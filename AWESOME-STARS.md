@@ -660,6 +660,7 @@
 
 ## Shell 
 
+- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
