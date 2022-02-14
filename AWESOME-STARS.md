@@ -519,6 +519,7 @@
 
 ## Python 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [FichteFoll/discordrp-mpris](https://github.com/FichteFoll/discordrp-mpris) - Discord Rich Presence through media players providing the mpris2 dbus interface
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [ValvePython/vdf](https://github.com/ValvePython/vdf) - 📜 Package for working with Valve's text and binary KeyValue format
