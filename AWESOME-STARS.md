@@ -384,6 +384,7 @@
 
 ## JavaScript 
 
+- [DecentralisedTech/mineflayer-reflection-proxy](https://github.com/DecentralisedTech/mineflayer-reflection-proxy) - Allows a Minecraft client and a mineflayer bot to control the same connection by mirroring the game state between clients
 - [cheton/github-release-cli](https://github.com/cheton/github-release-cli) - A command-line tool for managing release assets on a GitHub repository.
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) - Strips and runs upx on binaries
 - [F-i-f/soft-brightness](https://github.com/F-i-f/soft-brightness) - Gnome-shell extension to manage your display brightness via an alpha overlay (instead of the backlight).
