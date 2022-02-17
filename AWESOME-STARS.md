@@ -589,6 +589,7 @@
 
 ## Rust 
 
+- [makovich/kdbx4](https://github.com/makovich/kdbx4) - KeePass KDBX4 file reader
 - [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) - Cross platform Rust library to read a password in the terminal (Linux, BSD, OSX, Windows, WASM).
 - [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff) - A CLI-tool to diff Keepass (.kdbx) files. Useful, if syncing with Dropbox or NextCloud and getting multiple files due to conflicts.
 - [catleeball/WebScreenShot](https://github.com/catleeball/WebScreenShot) - Screenshot a webpage rendered in headless Chrome.
