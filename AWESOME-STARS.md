@@ -40,6 +40,7 @@
 
 ## C 
 
+- [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
@@ -206,6 +207,8 @@
 
 ## Go 
 
+- [SommerEngineering/SSHTunnel](https://github.com/SommerEngineering/SSHTunnel) - A tiny program to tunnel something through SSH without any external dependencies.
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur) - Imgur API for Golang
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
@@ -585,6 +588,7 @@
 
 ## Rust 
 
+- [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff) - A CLI-tool to diff Keepass (.kdbx) files. Useful, if syncing with Dropbox or NextCloud and getting multiple files due to conflicts.
 - [catleeball/WebScreenShot](https://github.com/catleeball/WebScreenShot) - Screenshot a webpage rendered in headless Chrome.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc) - Fast Discord RPC Client written in Rust
