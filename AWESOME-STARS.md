@@ -55,7 +55,7 @@
 - [sioodmy/dwm](https://github.com/sioodmy/dwm) - 
 - [intel/media-driver](https://github.com/intel/media-driver) - 
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
-- [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [sass/sassc](https://github.com/sass/sassc) - libsass command line driver
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
