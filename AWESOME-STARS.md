@@ -207,6 +207,7 @@
 
 ## Go 
 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [SommerEngineering/SSHTunnel](https://github.com/SommerEngineering/SSHTunnel) - A tiny program to tunnel something through SSH without any external dependencies.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
