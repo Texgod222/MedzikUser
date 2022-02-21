@@ -484,6 +484,7 @@
 
 ## Others 
 
+- [MedzikUser/android-gitpod](https://github.com/MedzikUser/android-gitpod) - 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
 - [kgoettler/ursamajor-rEFInd](https://github.com/kgoettler/ursamajor-rEFInd) - Ursa Major theme for rEFInd Bootloader
@@ -495,7 +496,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [sonyxperiadev/local_manifests](https://github.com/sonyxperiadev/local_manifests) - 
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
-- [MedzikUser/android-gitpod](https://github.com/MedzikUser/android-gitpod) - 
 - [MedzikUser/android-satsuki](https://github.com/MedzikUser/android-satsuki) - 
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [minimal-manifest-twrp/platform_manifest_twrp_omni](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni) - Minimal manifest for building TWRP for devices shipped with Android 5.1 through Android 9.0
