@@ -102,7 +102,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MedzikUser/chrome-keepass/pull/1) in [MedzikUser/chrome-keepass](https://github.com/MedzikUser/chrome-keepass)
+1. 💪 Opened PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 2. ❗️ Opened issue [#19](https://github.com/em1lyz/emily/issues/19) in [em1lyz/emily](https://github.com/em1lyz/emily)
 3. 💪 Opened PR [#9042](https://github.com/termux/termux-packages/pull/9042) in [termux/termux-packages](https://github.com/termux/termux-packages)
 4. 💪 Opened PR [#9041](https://github.com/termux/termux-packages/pull/9041) in [termux/termux-packages](https://github.com/termux/termux-packages)
