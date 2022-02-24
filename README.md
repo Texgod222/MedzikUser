@@ -102,10 +102,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/MedzikUser/wrangler-cdn/issues/73) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-2. 💪 Opened PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-3. 💪 Opened PR [#9042](https://github.com/termux/termux-packages/pull/9042) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 💪 Opened PR [#9041](https://github.com/termux/termux-packages/pull/9041) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🎉 Merged PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+2. 🎉 Merged PR [#49](https://github.com/MedzikUser/nextjs-portfolio/pull/49) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+3. 🗣 Commented on [#73](https://github.com/MedzikUser/wrangler-cdn/issues/73) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+4. 💪 Opened PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
 <!--END_SECTION:activity-->
 
