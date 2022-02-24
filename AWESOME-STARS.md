@@ -485,6 +485,7 @@
 
 ## Others 
 
+- [archlinux-pkg/medzikuser.db](https://github.com/archlinux-pkg/medzikuser.db) - Medzik Arch Repo Database
 - [MedzikUser/android-gitpod](https://github.com/MedzikUser/android-gitpod) - 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
