@@ -114,15 +114,6 @@
 ## ⭐ Awesome Stars
 Click [here](AWESOME-STARS.md) to view my awesome stars
 
-## 💻 My workspace
-
-<p align="center">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img alt="RAM" src="https://img.shields.io/badge/RAM-2GB-0071C5?style=for-the-badge" />
-  <img alt="AMD CPU" src="https://img.shields.io/badge/AMD-C--70_APU-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img alt="AMD GPU" src="https://img.shields.io/badge/AMD-ATI_Radeon_HD_7290-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-</p>
-
 ## 💡 Contact
 
 Email: nivua1fn@duck.com
