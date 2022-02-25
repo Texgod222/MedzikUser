@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-2. 🎉 Merged PR [#49](https://github.com/MedzikUser/nextjs-portfolio/pull/49) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
-3. 🗣 Commented on [#73](https://github.com/MedzikUser/wrangler-cdn/issues/73) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-4. 💪 Opened PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-5. 🎉 Merged PR [#1](https://github.com/MedzikUser/nextjs-portfolio/pull/1) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+1. 🎉 Merged PR [#178](https://github.com/MedzikUser/gatsby-pingbot/pull/178) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+2. 🎉 Merged PR [#188](https://github.com/MedzikUser/gatsby-pingbot/pull/188) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+3. 🎉 Merged PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+4. 🎉 Merged PR [#49](https://github.com/MedzikUser/nextjs-portfolio/pull/49) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
+5. 🗣 Commented on [#73](https://github.com/MedzikUser/wrangler-cdn/issues/73) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
 <!--END_SECTION:activity-->
 
 ---
