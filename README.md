@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#178](https://github.com/MedzikUser/gatsby-pingbot/pull/178) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-2. 🎉 Merged PR [#188](https://github.com/MedzikUser/gatsby-pingbot/pull/188) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-3. 🎉 Merged PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-4. 🎉 Merged PR [#49](https://github.com/MedzikUser/nextjs-portfolio/pull/49) in [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio)
-5. 🗣 Commented on [#73](https://github.com/MedzikUser/wrangler-cdn/issues/73) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+1. 🎉 Merged PR [#32](https://github.com/MedzikUser/go-pingbot/pull/32) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+2. 🎉 Merged PR [#34](https://github.com/MedzikUser/go-pingbot/pull/34) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+3. 🎉 Merged PR [#178](https://github.com/MedzikUser/gatsby-pingbot/pull/178) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+4. 🎉 Merged PR [#188](https://github.com/MedzikUser/gatsby-pingbot/pull/188) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+5. 🎉 Merged PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 <!--END_SECTION:activity-->
 
 ---
