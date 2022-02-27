@@ -435,7 +435,6 @@
 - [itgalaxy/generate-robotstxt](https://github.com/itgalaxy/generate-robotstxt) - Generator robots.txt for node js
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [kaimallea/node-imgur](https://github.com/kaimallea/node-imgur) - Upload images to imgur.com
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -767,6 +766,7 @@
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the :electron:.
+- [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
