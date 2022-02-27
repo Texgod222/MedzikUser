@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/MedzikUser/go-pingbot/pull/32) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-2. 🎉 Merged PR [#34](https://github.com/MedzikUser/go-pingbot/pull/34) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-3. 🎉 Merged PR [#178](https://github.com/MedzikUser/gatsby-pingbot/pull/178) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-4. 🎉 Merged PR [#188](https://github.com/MedzikUser/gatsby-pingbot/pull/188) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
-5. 🎉 Merged PR [#4](https://github.com/archlinux-pkg/packages/pull/4) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+1. 🎉 Merged PR [#9](https://github.com/MedzikUser/imgurs/pull/9) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+2. 🎉 Merged PR [#32](https://github.com/MedzikUser/go-pingbot/pull/32) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+3. 🎉 Merged PR [#34](https://github.com/MedzikUser/go-pingbot/pull/34) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+4. 🎉 Merged PR [#178](https://github.com/MedzikUser/gatsby-pingbot/pull/178) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+5. 🎉 Merged PR [#188](https://github.com/MedzikUser/gatsby-pingbot/pull/188) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
 <!--END_SECTION:activity-->
 
 ---
