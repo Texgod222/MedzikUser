@@ -635,7 +635,7 @@
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - CLI and Library for Imgur API
+- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - CLI and Library for Imgur API written in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
