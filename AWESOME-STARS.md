@@ -592,6 +592,7 @@
 
 ## Rust 
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [MedzikUser/chrome-keepass](https://github.com/MedzikUser/chrome-keepass) - KeePass Browser Extension
 - [makovich/kdbx4](https://github.com/makovich/kdbx4) - KeePass KDBX4 file reader
 - [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) - Cross platform Rust library to read a password in the terminal (Linux, BSD, OSX, Windows, WASM).
