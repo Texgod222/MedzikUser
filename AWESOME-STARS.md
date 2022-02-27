@@ -528,6 +528,7 @@
 
 ## Python 
 
+- [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 36 Methods
 - [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [FichteFoll/discordrp-mpris](https://github.com/FichteFoll/discordrp-mpris) - Discord Rich Presence through media players providing the mpris2 dbus interface
