@@ -592,6 +592,7 @@
 
 ## Rust 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [MedzikUser/chrome-keepass](https://github.com/MedzikUser/chrome-keepass) - KeePass Browser Extension
 - [makovich/kdbx4](https://github.com/makovich/kdbx4) - KeePass KDBX4 file reader
@@ -739,6 +740,7 @@
 
 ## TypeScript 
 
+- [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) - Rust extension for Visual Studio Code
 - [gbaranski/quizizz-cheat](https://github.com/gbaranski/quizizz-cheat) - Cheat for https://quizizz.com to get all correct answers
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
