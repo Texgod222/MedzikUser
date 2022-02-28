@@ -592,6 +592,7 @@
 
 ## Rust 
 
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [MedzikUser/chrome-keepass](https://github.com/MedzikUser/chrome-keepass) - KeePass Browser Extension
