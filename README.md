@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/MedzikUser/imgurs/pull/13) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-2. 🎉 Merged PR [#11](https://github.com/MedzikUser/imgurs/pull/11) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-3. 🎉 Merged PR [#9](https://github.com/MedzikUser/imgurs/pull/9) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+1. 🎉 Merged PR [#14](https://github.com/MedzikUser/imgurs/pull/14) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+2. 🎉 Merged PR [#13](https://github.com/MedzikUser/imgurs/pull/13) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+3. 🎉 Merged PR [#11](https://github.com/MedzikUser/imgurs/pull/11) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
 4. 🎉 Merged PR [#32](https://github.com/MedzikUser/go-pingbot/pull/32) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
 5. 🎉 Merged PR [#34](https://github.com/MedzikUser/go-pingbot/pull/34) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
 <!--END_SECTION:activity-->
