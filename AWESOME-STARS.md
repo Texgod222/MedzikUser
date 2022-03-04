@@ -595,6 +595,7 @@
 
 ## Rust 
 
+- [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -686,6 +687,7 @@
 
 ## Shell 
 
+- [messense/rust-musl-cross](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
