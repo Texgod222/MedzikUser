@@ -394,6 +394,7 @@
 
 ## JavaScript 
 
+- [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [DecentralisedTech/mineflayer-reflection-proxy](https://github.com/DecentralisedTech/mineflayer-reflection-proxy) - Allows a Minecraft client and a mineflayer bot to control the same connection by mirroring the game state between clients
