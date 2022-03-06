@@ -209,6 +209,7 @@
 
 ## Go 
 
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [SommerEngineering/SSHTunnel](https://github.com/SommerEngineering/SSHTunnel) - A tiny program to tunnel something through SSH without any external dependencies.
