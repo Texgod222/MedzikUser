@@ -309,7 +309,7 @@
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
-- [mongodb/mongocli](https://github.com/mongodb/mongocli) - MongoDB CLI enables you to manage your MongoDB in the Cloud
+- [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli) - MongoDB Atlas CLI and MongoDB CLI enable you to manage your MongoDB in the Cloud
 - [go-semantic-release/commit-analyzer-cz](https://github.com/go-semantic-release/commit-analyzer-cz) - :bulb: Conventional Commits Analyzer
 - [go-semantic-release/condition-github](https://github.com/go-semantic-release/condition-github) - ✅ GitHub Actions Condition
 - [go-semantic-release/condition-gitlab](https://github.com/go-semantic-release/condition-gitlab) - ✅ GitLab CI Condition
@@ -492,6 +492,7 @@
 
 ## Others 
 
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [archlinux-pkg/medzikuser.db](https://github.com/archlinux-pkg/medzikuser.db) - Medzik Arch Repo Database
 - [MedzikUser/android-gitpod](https://github.com/MedzikUser/android-gitpod) - 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
