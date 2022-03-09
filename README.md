@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#656](https://github.com/killercup/cargo-edit/issues/656) in [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
-2. 🎉 Merged PR [#14](https://github.com/MedzikUser/imgurs/pull/14) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-3. 🎉 Merged PR [#13](https://github.com/MedzikUser/imgurs/pull/13) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+1. 🎉 Merged PR [#9](https://github.com/MedzikUser/discordrpc/pull/9) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
+2. 🎉 Merged PR [#6](https://github.com/MedzikUser/discordrpc/pull/6) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
+3. 🎉 Merged PR [#3](https://github.com/MedzikUser/discordrpc/pull/3) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
 4. 🎉 Merged PR [#11](https://github.com/MedzikUser/imgurs/pull/11) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
 5. 🎉 Merged PR [#34](https://github.com/MedzikUser/go-pingbot/pull/34) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
 <!--END_SECTION:activity-->
