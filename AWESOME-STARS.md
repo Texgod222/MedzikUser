@@ -542,6 +542,7 @@
 
 ## Python 
 
+- [facebookresearch/StyleNeRF](https://github.com/facebookresearch/StyleNeRF) - This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"
 - [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [FichteFoll/discordrp-mpris](https://github.com/FichteFoll/discordrp-mpris) - Discord Rich Presence through media players providing the mpris2 dbus interface
