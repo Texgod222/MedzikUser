@@ -370,7 +370,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - Discord Android app mod inspired by desktop Discord client mods.
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [mervick/aes-everywhere](https://github.com/mervick/aes-everywhere) - Aes Everywhere - Cross Language AES 256 Encryption Library (Bash, Powershell, C#, GoLang, Java, JavaScript, Lua, PHP, Python, Ruby, Swift)
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) - ATLauncher is a Launcher for Minecraft which integrates multiple different ModPacks to allow you to download and install ModPacks easily and quickly.
