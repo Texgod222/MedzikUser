@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/MedzikUser/imgurs/issues/18) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-2. ❗️ Closed issue [#19](https://github.com/MedzikUser/imgurs/issues/19) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-3. ❌ Closed PR [#17](https://github.com/MedzikUser/imgurs/pull/17) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-4. 🎉 Merged PR [#9](https://github.com/MedzikUser/discordrpc/pull/9) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
-5. 🎉 Merged PR [#6](https://github.com/MedzikUser/discordrpc/pull/6) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
+1. 🎉 Merged PR [#6](https://github.com/MedzikUser/go-imgur/pull/6) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
+2. 🎉 Merged PR [#7](https://github.com/MedzikUser/go-imgur/pull/7) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
+3. ❗️ Closed issue [#18](https://github.com/MedzikUser/imgurs/issues/18) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+4. ❗️ Closed issue [#19](https://github.com/MedzikUser/imgurs/issues/19) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+5. ❌ Closed PR [#17](https://github.com/MedzikUser/imgurs/pull/17) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
 <!--END_SECTION:activity-->
 
 ---
