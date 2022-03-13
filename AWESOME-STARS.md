@@ -367,7 +367,7 @@
 - [games647/LambdaAttack](https://github.com/games647/LambdaAttack) - Minecraft bot for servers. Currently supports stress testing.
 - [ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - Allows the connection of older clients to newer server versions for Minecraft servers.
 - [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
-- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The essential plugin suite for Minecraft servers.
+- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [PryPurity/WorldBorder](https://github.com/PryPurity/WorldBorder) - Bukkit plugin for maintaining borders for your worlds to limit their sizes, as well as generating missing chunks or trimming excess chunks.
 - [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers.
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
