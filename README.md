@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MedzikUser/go-imgur/pull/6) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
-2. 🎉 Merged PR [#7](https://github.com/MedzikUser/go-imgur/pull/7) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
-3. ❗️ Closed issue [#18](https://github.com/MedzikUser/imgurs/issues/18) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-4. ❗️ Closed issue [#19](https://github.com/MedzikUser/imgurs/issues/19) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
-5. ❌ Closed PR [#17](https://github.com/MedzikUser/imgurs/pull/17) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+1. 🎉 Merged PR [#3](https://github.com/MedzikUser/docker-fdroidserver/pull/3) in [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver)
+2. 🎉 Merged PR [#4](https://github.com/MedzikUser/go-imgur/pull/4) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
+3. 💪 Opened PR [#9396](https://github.com/termux/termux-packages/pull/9396) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🎉 Merged PR [#6](https://github.com/MedzikUser/go-imgur/pull/6) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
+5. 🎉 Merged PR [#7](https://github.com/MedzikUser/go-imgur/pull/7) in [MedzikUser/go-imgur](https://github.com/MedzikUser/go-imgur)
 <!--END_SECTION:activity-->
 
 ---
