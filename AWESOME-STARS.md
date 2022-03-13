@@ -16,6 +16,7 @@
   - [Fortran](#fortran)
   - [Go](#go)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
@@ -352,6 +353,10 @@
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [fireship-io/wavy-curvey-blobby-website](https://github.com/fireship-io/wavy-curvey-blobby-website) - A website design with lots of waves, curves, a blobs
 - [fireship-io/230-animated-form-password-meter](https://github.com/fireship-io/230-animated-form-password-meter) - Animated Form w/ Password Strength Meter
+
+## Haskell 
+
+- [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 
 ## Java 
 
