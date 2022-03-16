@@ -547,6 +547,7 @@
 
 ## Python 
 
+- [GuillaumeFalourd/formulas-github](https://github.com/GuillaumeFalourd/formulas-github) - Ritchie CLI formulas interacting with Github APIs :octocat:
 - [facebookresearch/StyleNeRF](https://github.com/facebookresearch/StyleNeRF) - This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"
 - [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -611,6 +612,7 @@
 
 ## Rust 
 
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [ockam-network/ockam](https://github.com/ockam-network/ockam) - End-to-end encryption and mutual authentication for distributed applications.
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -707,6 +709,7 @@
 
 ## Shell 
 
+- [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
 - [messense/rust-musl-cross](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
