@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [mvdan/fdroidcl](https://github.com/mvdan/fdroidcl) - F-Droid desktop client
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
@@ -613,6 +614,7 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
