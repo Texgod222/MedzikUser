@@ -772,6 +772,7 @@
 
 ## TypeScript 
 
+- [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [actions-rs/audit-check](https://github.com/actions-rs/audit-check) - 🛡️ GitHub Action for security audits
