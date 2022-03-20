@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/xeffyr/.github/issues/1) in [xeffyr/.github](https://github.com/xeffyr/.github)
-2. 💪 Opened PR [#9453](https://github.com/termux/termux-packages/pull/9453) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 🗣 Commented on [#9428](https://github.com/termux/termux-packages/issues/9428) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🗣 Commented on [#9380](https://github.com/termux/termux-packages/issues/9380) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 🗣 Commented on [#1](https://github.com/xeffyr/.github/issues/1) in [xeffyr/.github](https://github.com/xeffyr/.github)
+3. 💪 Opened PR [#9453](https://github.com/termux/termux-packages/pull/9453) in [termux/termux-packages](https://github.com/termux/termux-packages)
 4. 💪 Opened PR [#9445](https://github.com/termux/termux-packages/pull/9445) in [termux/termux-packages](https://github.com/termux/termux-packages)
 5. 💪 Opened PR [#9444](https://github.com/termux/termux-packages/pull/9444) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
