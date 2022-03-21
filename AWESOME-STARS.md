@@ -616,6 +616,7 @@
 
 ## Rust 
 
+- [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
