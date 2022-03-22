@@ -253,7 +253,7 @@
 - [hegedustibor/htgo-tts](https://github.com/hegedustibor/htgo-tts) - Text to speech package for Golang.
 - [gtuk/discordwebhook](https://github.com/gtuk/discordwebhook) - Super simple interface to send discord messages through webhooks in golang
 - [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur) - Take screenshot and upload to Imgur
-- [DisgoOrg/disgo](https://github.com/DisgoOrg/disgo) - Golang Discord API Wrapper
+- [DisGoOrg/DisGo](https://github.com/DisGoOrg/DisGo) - Golang Discord API Wrapper
 - [derekpedersen/imgur-go](https://github.com/derekpedersen/imgur-go) - The imgur api consumed via golang
 - [89z/googleplay](https://github.com/89z/googleplay) - Download APK from Google Play or send API requests
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -616,6 +616,7 @@
 
 ## Rust 
 
+- [HomeDisk/server](https://github.com/HomeDisk/server) - [WIP] HomeDisk server, secure data in the local cloud
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
