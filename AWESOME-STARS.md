@@ -616,6 +616,8 @@
 
 ## Rust 
 
+- [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [HomeDisk/server](https://github.com/HomeDisk/server) - [WIP] HomeDisk server, secure data in the local cloud
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
