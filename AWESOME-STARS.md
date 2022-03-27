@@ -616,6 +616,7 @@
 
 ## Rust 
 
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 - [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
