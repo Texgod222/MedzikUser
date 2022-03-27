@@ -616,6 +616,7 @@
 
 ## Rust 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 - [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust
