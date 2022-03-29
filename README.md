@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/archlinux-pkg/packages/pull/7) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-2. 🎉 Merged PR [#10](https://github.com/archlinux-pkg/packages/pull/10) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-3. 🎉 Merged PR [#12](https://github.com/archlinux-pkg/packages/pull/12) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-4. 🎉 Merged PR [#13](https://github.com/archlinux-pkg/packages/pull/13) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-5. 🎉 Merged PR [#14](https://github.com/archlinux-pkg/packages/pull/14) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+1. 🗣 Commented on [#5](https://github.com/rafal06/nodefetch/issues/5) in [rafal06/nodefetch](https://github.com/rafal06/nodefetch)
+2. 🗣 Commented on [#5](https://github.com/rafal06/nodefetch/issues/5) in [rafal06/nodefetch](https://github.com/rafal06/nodefetch)
+3. 🗣 Commented on [#5](https://github.com/rafal06/nodefetch/issues/5) in [rafal06/nodefetch](https://github.com/rafal06/nodefetch)
+4. 🎉 Merged PR [#7](https://github.com/archlinux-pkg/packages/pull/7) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+5. 🎉 Merged PR [#10](https://github.com/archlinux-pkg/packages/pull/10) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 <!--END_SECTION:activity-->
 
 ---
