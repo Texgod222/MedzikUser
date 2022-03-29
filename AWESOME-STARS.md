@@ -507,6 +507,7 @@
 
 ## Others 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [archlinux-pkg/medzikuser.db](https://github.com/archlinux-pkg/medzikuser.db) - Medzik Arch Repo Database
 - [MedzikUser/android-gitpod](https://github.com/MedzikUser/android-gitpod) - 
