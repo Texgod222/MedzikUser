@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/MedzikUser/gatsby-portfolio/pull/94) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
-2. 🎉 Merged PR [#72](https://github.com/MedzikUser/gatsby-portfolio/pull/72) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
-3. 🎉 Merged PR [#60](https://github.com/MedzikUser/gatsby-portfolio/pull/60) in [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio)
-4. 💪 Opened PR [#9445](https://github.com/termux/termux-packages/pull/9445) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 💪 Opened PR [#9444](https://github.com/termux/termux-packages/pull/9444) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🎉 Merged PR [#7](https://github.com/archlinux-pkg/packages/pull/7) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+2. 🎉 Merged PR [#10](https://github.com/archlinux-pkg/packages/pull/10) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+3. 🎉 Merged PR [#12](https://github.com/archlinux-pkg/packages/pull/12) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+4. 🎉 Merged PR [#13](https://github.com/archlinux-pkg/packages/pull/13) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+5. 🎉 Merged PR [#14](https://github.com/archlinux-pkg/packages/pull/14) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 <!--END_SECTION:activity-->
 
 ---
