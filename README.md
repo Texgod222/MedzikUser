@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/HomeDisk/web/pull/3) in [HomeDisk/web](https://github.com/HomeDisk/web)
-2. 🎉 Merged PR [#2](https://github.com/HomeDisk/web/pull/2) in [HomeDisk/web](https://github.com/HomeDisk/web)
-3. 🗣 Commented on [#5](https://github.com/rafal06/nodefetch/issues/5) in [rafal06/nodefetch](https://github.com/rafal06/nodefetch)
+1. 🎉 Merged PR [#6](https://github.com/HomeDisk/web/pull/6) in [HomeDisk/web](https://github.com/HomeDisk/web)
+2. 🎉 Merged PR [#3](https://github.com/HomeDisk/web/pull/3) in [HomeDisk/web](https://github.com/HomeDisk/web)
+3. 🎉 Merged PR [#2](https://github.com/HomeDisk/web/pull/2) in [HomeDisk/web](https://github.com/HomeDisk/web)
 4. 🗣 Commented on [#5](https://github.com/rafal06/nodefetch/issues/5) in [rafal06/nodefetch](https://github.com/rafal06/nodefetch)
 5. 🗣 Commented on [#5](https://github.com/rafal06/nodefetch/issues/5) in [rafal06/nodefetch](https://github.com/rafal06/nodefetch)
 <!--END_SECTION:activity-->
