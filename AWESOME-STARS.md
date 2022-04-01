@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Crystal](#crystal)
+  - [Cuda](#cuda)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Fortran](#fortran)
@@ -186,6 +187,10 @@
 
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
+
+## Cuda 
+
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 
 ## Dart 
 
