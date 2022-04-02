@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/archlinux-pkg/packages/pull/16) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-2. 🎉 Merged PR [#6](https://github.com/HomeDisk/web/pull/6) in [HomeDisk/web](https://github.com/HomeDisk/web)
-3. 🎉 Merged PR [#3](https://github.com/HomeDisk/web/pull/3) in [HomeDisk/web](https://github.com/HomeDisk/web)
-4. 🎉 Merged PR [#2](https://github.com/HomeDisk/web/pull/2) in [HomeDisk/web](https://github.com/HomeDisk/web)
-5. 🗣 Commented on [#5](https://github.com/rafal06/nodefetch/issues/5) in [rafal06/nodefetch](https://github.com/rafal06/nodefetch)
+1. 🎉 Merged PR [#17](https://github.com/archlinux-pkg/packages/pull/17) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+2. 💪 Opened PR [#17](https://github.com/archlinux-pkg/packages/pull/17) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+3. 🎉 Merged PR [#16](https://github.com/archlinux-pkg/packages/pull/16) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+4. 🎉 Merged PR [#6](https://github.com/HomeDisk/web/pull/6) in [HomeDisk/web](https://github.com/HomeDisk/web)
+5. 🎉 Merged PR [#3](https://github.com/HomeDisk/web/pull/3) in [HomeDisk/web](https://github.com/HomeDisk/web)
 <!--END_SECTION:activity-->
 
 ---
