@@ -369,6 +369,7 @@
 
 ## Java 
 
+- [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 - [SpigotMC/BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
 - [Puremin0rez/WorldBorder](https://github.com/Puremin0rez/WorldBorder) - Efficient, feature-rich plugin for limiting and generating your worlds. Continuation of the original plugin.
