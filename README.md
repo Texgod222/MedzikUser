@@ -102,7 +102,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/HomeDisk/server/pull/3) in [HomeDisk/server](https://github.com/HomeDisk/server)
+1. 🎉 Merged PR [#18](https://github.com/archlinux-pkg/packages/pull/18) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 2. 🎉 Merged PR [#17](https://github.com/archlinux-pkg/packages/pull/17) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 3. 💪 Opened PR [#17](https://github.com/archlinux-pkg/packages/pull/17) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 4. 🎉 Merged PR [#16](https://github.com/archlinux-pkg/packages/pull/16) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
