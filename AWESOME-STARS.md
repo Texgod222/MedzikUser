@@ -795,6 +795,7 @@
 
 ## TypeScript 
 
+- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [HomeDisk/web](https://github.com/HomeDisk/web) - 
 - [mintme-com/wallet](https://github.com/mintme-com/wallet) - New MintMe.com Coin Wallet
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
