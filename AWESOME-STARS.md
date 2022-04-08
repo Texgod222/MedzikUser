@@ -795,6 +795,7 @@
 
 ## TypeScript 
 
+- [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [HomeDisk/web](https://github.com/HomeDisk/web) - 
 - [mintme-com/wallet](https://github.com/mintme-com/wallet) - New MintMe.com Coin Wallet
