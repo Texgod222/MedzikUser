@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/HomeDisk/website/pull/2) in [HomeDisk/website](https://github.com/HomeDisk/website)
-2. 🎉 Merged PR [#18](https://github.com/archlinux-pkg/packages/pull/18) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-3. 💪 Opened PR [#17](https://github.com/archlinux-pkg/packages/pull/17) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+1. 🎉 Merged PR [#6](https://github.com/HomeDisk/website/pull/6) in [HomeDisk/website](https://github.com/HomeDisk/website)
+2. 🎉 Merged PR [#2](https://github.com/HomeDisk/website/pull/2) in [HomeDisk/website](https://github.com/HomeDisk/website)
+3. 🎉 Merged PR [#18](https://github.com/archlinux-pkg/packages/pull/18) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 4. 🎉 Merged PR [#16](https://github.com/archlinux-pkg/packages/pull/16) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 5. 🎉 Merged PR [#3](https://github.com/HomeDisk/web/pull/3) in [HomeDisk/web](https://github.com/HomeDisk/web)
 <!--END_SECTION:activity-->
