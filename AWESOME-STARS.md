@@ -507,6 +507,7 @@
 
 ## Nim 
 
+- [RSDuck/hocuspocube](https://github.com/RSDuck/hocuspocube) - A terrible GameCube emulator. Written in Nim!
 - [froehlichA/pax](https://github.com/froehlichA/pax) - 📦 The MC modpack manager for professionals.
 
 ## Objective-C 
