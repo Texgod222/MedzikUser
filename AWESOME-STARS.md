@@ -563,6 +563,7 @@
 
 ## Python 
 
+- [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
 - [GuillaumeFalourd/formulas-github](https://github.com/GuillaumeFalourd/formulas-github) - Ritchie CLI formulas interacting with Github APIs :octocat:
 - [facebookresearch/StyleNeRF](https://github.com/facebookresearch/StyleNeRF) - This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"
 - [osrf/rocker](https://github.com/osrf/rocker) - A tool to run docker containers with overlays and convenient options for things like GUIs etc.
