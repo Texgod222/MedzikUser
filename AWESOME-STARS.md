@@ -413,6 +413,7 @@
 
 ## JavaScript 
 
+- [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -694,7 +695,7 @@
 - [borntyping/rust-simple_logger](https://github.com/borntyping/rust-simple_logger) - A rust logger that prints all messages with a readable output format.
 - [dirs-dev/dirs-rs](https://github.com/dirs-dev/dirs-rs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
-- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - CLI and Library for Imgur API written in Rust
