@@ -260,7 +260,7 @@
 - [hegedustibor/htgo-tts](https://github.com/hegedustibor/htgo-tts) - Text to speech package for Golang.
 - [gtuk/discordwebhook](https://github.com/gtuk/discordwebhook) - Super simple interface to send discord messages through webhooks in golang
 - [MedzikUser/go-screenshot-imgur](https://github.com/MedzikUser/go-screenshot-imgur) - Take screenshot and upload to Imgur
-- [disgoorg/disgo](https://github.com/disgoorg/disgo) - GoLang Discord API Wrapper
+- [disgoorg/disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper
 - [derekpedersen/imgur-go](https://github.com/derekpedersen/imgur-go) - The imgur api consumed via golang
 - [89z/googleplay](https://github.com/89z/googleplay) - Download APK from Google Play or send API requests
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -413,6 +413,7 @@
 
 ## JavaScript 
 
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -565,6 +566,7 @@
 
 ## Python 
 
+- [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Python library for the DeepL language translation API.
 - [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
 - [GuillaumeFalourd/formulas-github](https://github.com/GuillaumeFalourd/formulas-github) - Ritchie CLI formulas interacting with Github APIs :octocat:
 - [facebookresearch/StyleNeRF](https://github.com/facebookresearch/StyleNeRF) - This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis"
