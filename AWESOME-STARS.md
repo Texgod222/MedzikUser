@@ -633,6 +633,7 @@
 
 ## Rust 
 
+- [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
