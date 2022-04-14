@@ -102,10 +102,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/HomeDisk/website/pull/10) in [HomeDisk/website](https://github.com/HomeDisk/website)
-2. 🎉 Merged PR [#9](https://github.com/HomeDisk/website/pull/9) in [HomeDisk/website](https://github.com/HomeDisk/website)
-3. 🎉 Merged PR [#7](https://github.com/HomeDisk/website/pull/7) in [HomeDisk/website](https://github.com/HomeDisk/website)
-4. 🎉 Merged PR [#8](https://github.com/HomeDisk/website/pull/8) in [HomeDisk/website](https://github.com/HomeDisk/website)
+1. ❗️ Opened issue [#12163](https://github.com/signalapp/Signal-Android/issues/12163) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+2. 🎉 Merged PR [#10](https://github.com/HomeDisk/website/pull/10) in [HomeDisk/website](https://github.com/HomeDisk/website)
+3. 🎉 Merged PR [#9](https://github.com/HomeDisk/website/pull/9) in [HomeDisk/website](https://github.com/HomeDisk/website)
+4. 🎉 Merged PR [#7](https://github.com/HomeDisk/website/pull/7) in [HomeDisk/website](https://github.com/HomeDisk/website)
 5. 🎉 Merged PR [#6](https://github.com/HomeDisk/website/pull/6) in [HomeDisk/website](https://github.com/HomeDisk/website)
 <!--END_SECTION:activity-->
 
