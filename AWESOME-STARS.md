@@ -566,6 +566,7 @@
 
 ## Python 
 
+- [googleapis/python-storage](https://github.com/googleapis/python-storage) - 
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Python library for the DeepL language translation API.
 - [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
 - [GuillaumeFalourd/formulas-github](https://github.com/GuillaumeFalourd/formulas-github) - Ritchie CLI formulas interacting with Github APIs :octocat:
