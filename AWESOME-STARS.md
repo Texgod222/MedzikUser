@@ -413,6 +413,7 @@
 
 ## JavaScript 
 
+- [mmarchini-oss/npm-otp-publish](https://github.com/mmarchini-oss/npm-otp-publish) - Action to publish npm pacakges using One-Time Passwords
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
