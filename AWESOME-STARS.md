@@ -265,6 +265,7 @@
 - [89z/googleplay](https://github.com/89z/googleplay) - Download APK from Google Play or send API requests
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - [DEPRECATED] Download Go binaries as fast and easily as possible.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [i582/cfmt](https://github.com/i582/cfmt) - Small library for simple and convenient formatted stylized output to the console.
@@ -443,7 +444,6 @@
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
