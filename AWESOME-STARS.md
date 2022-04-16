@@ -636,6 +636,9 @@
 
 ## Rust 
 
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core
