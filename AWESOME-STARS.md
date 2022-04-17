@@ -636,6 +636,7 @@
 
 ## Rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
