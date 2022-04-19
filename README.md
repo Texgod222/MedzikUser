@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/HomeDisk/website/pull/16) in [HomeDisk/website](https://github.com/HomeDisk/website)
-2. 🎉 Merged PR [#25](https://github.com/HomeDisk/website/pull/25) in [HomeDisk/website](https://github.com/HomeDisk/website)
-3. ❗️ Closed issue [#5](https://github.com/archlinux-pkg/packages/issues/5) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-4. 🎉 Merged PR [#19](https://github.com/archlinux-pkg/packages/pull/19) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
-5. 🗣 Commented on [#12163](https://github.com/signalapp/Signal-Android/issues/12163) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+1. 🎉 Merged PR [#2](https://github.com/HomeDisk/cloud/pull/2) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+2. 🎉 Merged PR [#3](https://github.com/HomeDisk/cloud/pull/3) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+3. 🎉 Merged PR [#16](https://github.com/HomeDisk/website/pull/16) in [HomeDisk/website](https://github.com/HomeDisk/website)
+4. 🎉 Merged PR [#25](https://github.com/HomeDisk/website/pull/25) in [HomeDisk/website](https://github.com/HomeDisk/website)
+5. ❗️ Closed issue [#5](https://github.com/archlinux-pkg/packages/issues/5) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
 <!--END_SECTION:activity-->
 
 ---
