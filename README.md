@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/HomeDisk/cloud/pull/2) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
-2. 🎉 Merged PR [#3](https://github.com/HomeDisk/cloud/pull/3) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
-3. 🎉 Merged PR [#16](https://github.com/HomeDisk/website/pull/16) in [HomeDisk/website](https://github.com/HomeDisk/website)
-4. 🎉 Merged PR [#25](https://github.com/HomeDisk/website/pull/25) in [HomeDisk/website](https://github.com/HomeDisk/website)
-5. ❗️ Closed issue [#5](https://github.com/archlinux-pkg/packages/issues/5) in [archlinux-pkg/packages](https://github.com/archlinux-pkg/packages)
+1. 🎉 Merged PR [#33](https://github.com/MedzikUser/imgurs/pull/33) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+2. 🎉 Merged PR [#2](https://github.com/HomeDisk/cloud/pull/2) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+3. 🎉 Merged PR [#3](https://github.com/HomeDisk/cloud/pull/3) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+4. 🎉 Merged PR [#16](https://github.com/HomeDisk/website/pull/16) in [HomeDisk/website](https://github.com/HomeDisk/website)
+5. 🎉 Merged PR [#25](https://github.com/HomeDisk/website/pull/25) in [HomeDisk/website](https://github.com/HomeDisk/website)
 <!--END_SECTION:activity-->
 
 ---
