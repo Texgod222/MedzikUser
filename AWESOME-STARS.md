@@ -571,6 +571,7 @@
 
 ## Python 
 
+- [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
 - [googleapis/python-storage](https://github.com/googleapis/python-storage) - 
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Python library for the DeepL language translation API.
 - [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
