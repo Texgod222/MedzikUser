@@ -43,6 +43,7 @@
 
 ## C 
 
+- [martinwhitaker/pcmemtest](https://github.com/martinwhitaker/pcmemtest) - A memory tester for x86 and x86-64 computers (rewrite of memtest86+)
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [MedzikUser/Windows](https://github.com/MedzikUser/Windows) - 100% Legit Windows Source Code, No Scam, 100% Compiled, 100% Working this 100% legit code
 - [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
@@ -125,6 +126,7 @@
 
 ## C++ 
 
+- [ComputationalRadiationPhysics/cuda_memtest](https://github.com/ComputationalRadiationPhysics/cuda_memtest) - Fork of CUDA GPU memtest :eyeglasses:
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
