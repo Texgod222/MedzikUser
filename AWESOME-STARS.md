@@ -562,7 +562,7 @@
 
 ## Pascal 
 
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
+- [benjamimgois-zz/goverlay](https://github.com/benjamimgois-zz/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 
 ## Perl 
 
