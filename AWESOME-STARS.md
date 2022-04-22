@@ -224,6 +224,7 @@
 
 ## Go 
 
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [mvdan/fdroidcl](https://github.com/mvdan/fdroidcl) - F-Droid desktop client
