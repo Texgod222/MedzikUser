@@ -40,6 +40,7 @@
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
 ## C 
 
@@ -643,7 +644,8 @@
 
 ## Rust 
 
-- [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - 
+- [MedzikUser/rust-utilities](https://github.com/MedzikUser/rust-utilities) - Utilities for Rust
+- [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - [WIP] Fast local data cloud written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
@@ -659,7 +661,6 @@
 - [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
-- [HomeDisk/server](https://github.com/HomeDisk/server) - [WIP] HomeDisk server, secure data in the local cloud
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -898,6 +899,10 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+
+## WebAssembly 
+
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 
 
 ## License
