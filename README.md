@@ -102,9 +102,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/MedzikUser/discordrpc/pull/12) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
-2. 🎉 Merged PR [#4](https://github.com/HomeDisk/cloud/pull/4) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
-3. 🎉 Merged PR [#33](https://github.com/MedzikUser/imgurs/pull/33) in [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs)
+1. 🗣 Commented on [#6](https://github.com/HomeDisk/cloud/issues/6) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+2. ❌ Closed PR [#6](https://github.com/HomeDisk/cloud/pull/6) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+3. 🎉 Merged PR [#12](https://github.com/MedzikUser/discordrpc/pull/12) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
 4. 🎉 Merged PR [#3](https://github.com/HomeDisk/cloud/pull/3) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
 5. 🎉 Merged PR [#16](https://github.com/HomeDisk/website/pull/16) in [HomeDisk/website](https://github.com/HomeDisk/website)
 <!--END_SECTION:activity-->
