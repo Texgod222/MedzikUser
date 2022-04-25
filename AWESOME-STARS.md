@@ -644,6 +644,7 @@
 
 ## Rust 
 
+- [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
 - [MedzikUser/rust-utilities](https://github.com/MedzikUser/rust-utilities) - Utilities for Rust
 - [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - [WIP] Fast local data cloud written in Rust
