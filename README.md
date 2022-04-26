@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/HomeDisk/cloud/issues/6) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
-2. ❌ Closed PR [#6](https://github.com/HomeDisk/cloud/pull/6) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
-3. 🎉 Merged PR [#12](https://github.com/MedzikUser/discordrpc/pull/12) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
-4. 🎉 Merged PR [#3](https://github.com/HomeDisk/cloud/pull/3) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
-5. 🎉 Merged PR [#16](https://github.com/HomeDisk/website/pull/16) in [HomeDisk/website](https://github.com/HomeDisk/website)
+1. 🎉 Merged PR [#30](https://github.com/HomeDisk/website/pull/30) in [HomeDisk/website](https://github.com/HomeDisk/website)
+2. 🎉 Merged PR [#33](https://github.com/HomeDisk/website/pull/33) in [HomeDisk/website](https://github.com/HomeDisk/website)
+3. 🗣 Commented on [#6](https://github.com/HomeDisk/cloud/issues/6) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+4. ❌ Closed PR [#6](https://github.com/HomeDisk/cloud/pull/6) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+5. 🎉 Merged PR [#12](https://github.com/MedzikUser/discordrpc/pull/12) in [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc)
 <!--END_SECTION:activity-->
 
 ---
