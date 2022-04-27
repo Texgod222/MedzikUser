@@ -225,6 +225,7 @@
 
 ## Go 
 
+- [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -647,7 +648,7 @@
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
 - [MedzikUser/rust-utilities](https://github.com/MedzikUser/rust-utilities) - Utilities for Rust
-- [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - [WIP] Fast local data cloud written in Rust
+- [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - [WIP] Fast and lightweight local cloud for your data written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
@@ -824,12 +825,12 @@
 
 ## TypeScript 
 
+- [HomeDisk/website](https://github.com/HomeDisk/website) - Fast and lightweight local cloud for your data written in Rust
 - [actions-rs/tarpaulin](https://github.com/actions-rs/tarpaulin) - 📈 GitHub Action for code coverage reporting with tarpaulin
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [HomeDisk/website](https://github.com/HomeDisk/website) - 
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [HomeDisk/web](https://github.com/HomeDisk/web) - 
