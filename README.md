@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/HomeDisk/web/pull/10) in [HomeDisk/web](https://github.com/HomeDisk/web)
-2. 🎉 Merged PR [#8](https://github.com/HomeDisk/web/pull/8) in [HomeDisk/web](https://github.com/HomeDisk/web)
-3. 🎉 Merged PR [#6](https://github.com/HomeDisk/web/pull/6) in [HomeDisk/web](https://github.com/HomeDisk/web)
-4. 🎉 Merged PR [#7](https://github.com/HomeDisk/web/pull/7) in [HomeDisk/web](https://github.com/HomeDisk/web)
-5. 🎉 Merged PR [#3](https://github.com/HomeDisk/web/pull/3) in [HomeDisk/web](https://github.com/HomeDisk/web)
+1. 🎉 Merged PR [#2](https://github.com/HomeDisk/web/pull/2) in [HomeDisk/web](https://github.com/HomeDisk/web)
+2. 🎉 Merged PR [#9](https://github.com/HomeDisk/web/pull/9) in [HomeDisk/web](https://github.com/HomeDisk/web)
+3. 🎉 Merged PR [#11](https://github.com/HomeDisk/web/pull/11) in [HomeDisk/web](https://github.com/HomeDisk/web)
+4. 🎉 Merged PR [#14](https://github.com/HomeDisk/web/pull/14) in [HomeDisk/web](https://github.com/HomeDisk/web)
+5. 🎉 Merged PR [#16](https://github.com/HomeDisk/web/pull/16) in [HomeDisk/web](https://github.com/HomeDisk/web)
 <!--END_SECTION:activity-->
 
 ---
