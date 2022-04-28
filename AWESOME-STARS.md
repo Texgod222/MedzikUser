@@ -183,7 +183,6 @@
 - [L4ki/Vortex-Plasma-Themes](https://github.com/L4ki/Vortex-Plasma-Themes) - Vortex Themes For Plasma Desktop
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
-- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 
 ## Clojure 
 
@@ -479,6 +478,7 @@
 - [kaimallea/node-imgur](https://github.com/kaimallea/node-imgur) - Upload images to imgur.com
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [SimCoderYoutube/InstagramClone](https://github.com/SimCoderYoutube/InstagramClone) - Instagram Clone React Native Tutorial 2021 👨‍💻  I'll show you how you can do this in the simplest way and terms possible.  By the end of this series you'll have learned how the big companies do it and will be able to do the same, you not only will be able to do this app, but you'll be able to put what you learn into your very own projects!  In this series, we use React Native with Expo to quickly deploy the project. We use firebase for all our microservice needs like the auth system, database, storage, amongst others.   firebase, redux, react native, javascript, expo. In this series, we'll use all of them and you'll learn them by doing an iconic app.  Welcome to this Simcoder project and make an Instagram Clone!
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
