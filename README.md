@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
-2. 🗣 Commented on [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
-3. 🗣 Commented on [#1](https://github.com/ZMASLO/x220-coreboot-build/issues/1) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
-4. ❗️ Opened issue [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
-5. 🎉 Merged PR [#2](https://github.com/HomeDisk/web/pull/2) in [HomeDisk/web](https://github.com/HomeDisk/web)
+1. 🎉 Merged PR [#41](https://github.com/MedzikUser/go-pingbot/pull/41) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+2. 🎉 Merged PR [#38](https://github.com/MedzikUser/go-pingbot/pull/38) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+3. 🎉 Merged PR [#36](https://github.com/MedzikUser/go-pingbot/pull/36) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+4. 🎉 Merged PR [#35](https://github.com/MedzikUser/go-pingbot/pull/35) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+5. ❗️ Closed issue [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
 <!--END_SECTION:activity-->
 
 ---
