@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ZMASLO/x220-coreboot-build/issues/1) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
-2. ❗️ Opened issue [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
-3. 🎉 Merged PR [#2](https://github.com/HomeDisk/web/pull/2) in [HomeDisk/web](https://github.com/HomeDisk/web)
-4. 🎉 Merged PR [#9](https://github.com/HomeDisk/web/pull/9) in [HomeDisk/web](https://github.com/HomeDisk/web)
-5. 🎉 Merged PR [#11](https://github.com/HomeDisk/web/pull/11) in [HomeDisk/web](https://github.com/HomeDisk/web)
+1. ❗️ Closed issue [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
+2. 🗣 Commented on [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
+3. 🗣 Commented on [#1](https://github.com/ZMASLO/x220-coreboot-build/issues/1) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
+4. ❗️ Opened issue [#2](https://github.com/ZMASLO/x220-coreboot-build/issues/2) in [ZMASLO/x220-coreboot-build](https://github.com/ZMASLO/x220-coreboot-build)
+5. 🎉 Merged PR [#2](https://github.com/HomeDisk/web/pull/2) in [HomeDisk/web](https://github.com/HomeDisk/web)
 <!--END_SECTION:activity-->
 
 ---
