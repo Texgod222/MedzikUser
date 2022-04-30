@@ -345,7 +345,7 @@
 - [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [struCoder/pidusage](https://github.com/struCoder/pidusage) - Cross-platform process cpu % and memory usage of a PID for golang
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
