@@ -528,6 +528,7 @@
 
 ## Others 
 
+- [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
 - [AgainstTheWest/NginxDay](https://github.com/AgainstTheWest/NginxDay) - Nginx 18.1 04/09/22 zero-day repo
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -645,11 +646,11 @@
 
 ## Rust 
 
+- [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - [WIP] Fast and lightweight local cloud for your data written in Rust
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
 - [MedzikUser/rust-utilities](https://github.com/MedzikUser/rust-utilities) - Utilities for Rust
-- [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - [WIP] Fast and lightweight local cloud for your data written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
