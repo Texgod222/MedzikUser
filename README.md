@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/HomeDisk/website/pull/20) in [HomeDisk/website](https://github.com/HomeDisk/website)
-2. 🎉 Merged PR [#41](https://github.com/MedzikUser/go-pingbot/pull/41) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-3. 🎉 Merged PR [#38](https://github.com/MedzikUser/go-pingbot/pull/38) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-4. 🎉 Merged PR [#36](https://github.com/MedzikUser/go-pingbot/pull/36) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-5. 🎉 Merged PR [#35](https://github.com/MedzikUser/go-pingbot/pull/35) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+1. 🎉 Merged PR [#14](https://github.com/HomeDisk/cloud/pull/14) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+2. 🎉 Merged PR [#23](https://github.com/HomeDisk/website/pull/23) in [HomeDisk/website](https://github.com/HomeDisk/website)
+3. 🎉 Merged PR [#20](https://github.com/HomeDisk/website/pull/20) in [HomeDisk/website](https://github.com/HomeDisk/website)
+4. 🎉 Merged PR [#41](https://github.com/MedzikUser/go-pingbot/pull/41) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+5. 🎉 Merged PR [#38](https://github.com/MedzikUser/go-pingbot/pull/38) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
 <!--END_SECTION:activity-->
 
 ---
