@@ -102,11 +102,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/zapomnij/0lang/issues/1) in [zapomnij/0lang](https://github.com/zapomnij/0lang)
-2. 🎉 Merged PR [#14](https://github.com/HomeDisk/cloud/pull/14) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
-3. 🎉 Merged PR [#23](https://github.com/HomeDisk/website/pull/23) in [HomeDisk/website](https://github.com/HomeDisk/website)
-4. 🎉 Merged PR [#20](https://github.com/HomeDisk/website/pull/20) in [HomeDisk/website](https://github.com/HomeDisk/website)
-5. 🎉 Merged PR [#41](https://github.com/MedzikUser/go-pingbot/pull/41) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+1. 💪 Opened PR [#1124](https://github.com/archlinux/archinstall/pull/1124) in [archlinux/archinstall](https://github.com/archlinux/archinstall)
+2. ❗️ Opened issue [#1](https://github.com/zapomnij/0lang/issues/1) in [zapomnij/0lang](https://github.com/zapomnij/0lang)
+3. 🎉 Merged PR [#14](https://github.com/HomeDisk/cloud/pull/14) in [HomeDisk/cloud](https://github.com/HomeDisk/cloud)
+4. 🎉 Merged PR [#23](https://github.com/HomeDisk/website/pull/23) in [HomeDisk/website](https://github.com/HomeDisk/website)
+5. 🎉 Merged PR [#20](https://github.com/HomeDisk/website/pull/20) in [HomeDisk/website](https://github.com/HomeDisk/website)
 <!--END_SECTION:activity-->
 
 ---
