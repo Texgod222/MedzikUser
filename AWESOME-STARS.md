@@ -575,6 +575,7 @@
 
 ## Python 
 
+- [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
 - [googleapis/python-storage](https://github.com/googleapis/python-storage) - 
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Python library for the DeepL language translation API.
@@ -848,7 +849,6 @@
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key
 - [actions-rs/cargo](https://github.com/actions-rs/cargo) - 📦 GitHub Action for Rust `cargo` command
 - [leonardssh/vscord](https://github.com/leonardssh/vscord) - 😎 Fully customizable VS Code extension to get Discord Rich Presence integration.
-- [MedzikUser/nextjs-portfolio](https://github.com/MedzikUser/nextjs-portfolio) - My portfolio page created in Next.js hosted on vercel.app
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [ScerIO/phar.scer.io](https://github.com/ScerIO/phar.scer.io) - 🗜️ Online PHAR converter based on JS
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
