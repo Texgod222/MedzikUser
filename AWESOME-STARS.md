@@ -578,7 +578,7 @@
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
 - [googleapis/python-storage](https://github.com/googleapis/python-storage) - 
-- [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Python library for the DeepL language translation API.
+- [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
 - [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [GuillaumeFalourd/formulas-github](https://github.com/GuillaumeFalourd/formulas-github) - Ritchie CLI formulas interacting with Github APIs :octocat:
