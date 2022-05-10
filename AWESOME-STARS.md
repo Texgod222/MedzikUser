@@ -527,6 +527,7 @@
 
 ## Others 
 
+- [Built-AUR/toolbox](https://github.com/Built-AUR/toolbox) - 
 - [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
 - [AgainstTheWest/NginxDay](https://github.com/AgainstTheWest/NginxDay) - Nginx 18.1 04/09/22 zero-day repo
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
