@@ -14,6 +14,7 @@
 - [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Fortran](#fortran)
 - [Go](#go)
 - [HTML](#html)
@@ -215,6 +216,10 @@
 - [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk) - Android SDK in docker, can be used to build applications
 - [cirruslabs/docker-images-android](https://github.com/cirruslabs/docker-images-android) - Android SDK Docker Images
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
+
+## Elixir 
+
+- [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
 
 ## Fortran 
 
