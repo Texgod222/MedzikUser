@@ -45,6 +45,7 @@
 
 ## C 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [martinwhitaker/pcmemtest](https://github.com/martinwhitaker/pcmemtest) - A memory tester for x86 and x86-64 computers (rewrite of memtest86+)
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [linugz/Windows](https://github.com/linugz/Windows) - 100% Legit Windows Source Code, No Scam, 100% Compiled, 100% Working this 100% legit code
