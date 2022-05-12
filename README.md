@@ -44,11 +44,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
-2. 🎉 Merged PR [#132](https://github.com/MedzikUser/wrangler-cdn/pull/132) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-3. 🎉 Merged PR [#159](https://github.com/MedzikUser/wrangler-cdn/pull/159) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-4. 🎉 Merged PR [#169](https://github.com/MedzikUser/wrangler-cdn/pull/169) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-5. 🗣 Commented on [#149168](https://github.com/microsoft/vscode/issues/149168) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#66](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/66) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+2. 🗣 Commented on [#1](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+3. 🎉 Merged PR [#132](https://github.com/MedzikUser/wrangler-cdn/pull/132) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+4. 🎉 Merged PR [#159](https://github.com/MedzikUser/wrangler-cdn/pull/159) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+5. 🎉 Merged PR [#169](https://github.com/MedzikUser/wrangler-cdn/pull/169) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
 <!--END_SECTION:activity-->
 
 ---
