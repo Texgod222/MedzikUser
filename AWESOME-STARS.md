@@ -25,6 +25,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -426,6 +427,7 @@
 
 ## JavaScript 
 
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [mmarchini-oss/npm-otp-publish](https://github.com/mmarchini-oss/npm-otp-publish) - Action to publish npm pacakges using One-Time Passwords
 - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance.
@@ -527,12 +529,17 @@
 - [RSDuck/hocuspocube](https://github.com/RSDuck/hocuspocube) - A terrible GameCube emulator. Written in Nim!
 - [froehlichA/pax](https://github.com/froehlichA/pax) - 📦 The MC modpack manager for professionals.
 
+## Nix 
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
 ## Objective-C 
 
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## Others 
 
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [Built-AUR/toolbox](https://github.com/Built-AUR/toolbox) - 
 - [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
 - [AgainstTheWest/NginxDay](https://github.com/AgainstTheWest/NginxDay) - Nginx 18.1 04/09/22 zero-day repo
@@ -653,6 +660,7 @@
 
 ## Rust 
 
+- [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - [WIP] Fast and lightweight local cloud for your data written in Rust
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
