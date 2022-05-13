@@ -653,7 +653,7 @@
 
 ## Rust 
 
-- [HomeDisk/cloud](https://github.com/HomeDisk/cloud) - [WIP] Fast and lightweight local cloud for your data written in Rust
+- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - [WIP] Fast and lightweight local cloud for your data written in Rust
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
