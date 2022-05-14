@@ -230,6 +230,8 @@
 
 ## Go 
 
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
@@ -372,6 +374,7 @@
 
 ## HTML 
 
+- [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [PhilippC/kp2a_accservice_autofill](https://github.com/PhilippC/kp2a_accservice_autofill) - Accessibility service based AutoFill plugin for Keepass2Android
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
@@ -541,7 +544,6 @@
 
 - [Built-AUR/packages](https://github.com/Built-AUR/packages) - 
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
 - [AgainstTheWest/NginxDay](https://github.com/AgainstTheWest/NginxDay) - Nginx 18.1 04/09/22 zero-day repo
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -591,7 +593,6 @@
 
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
-- [googleapis/python-storage](https://github.com/googleapis/python-storage) - 
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
 - [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
@@ -660,6 +661,13 @@
 
 ## Rust 
 
+- [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
+- [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
+- [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
+- [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Built-AUR/toolbox](https://github.com/Built-AUR/toolbox) - Toolbox for Build-AUR
@@ -784,6 +792,7 @@
 
 ## Shell 
 
+- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
 - [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
