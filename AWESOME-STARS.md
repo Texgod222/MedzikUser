@@ -212,7 +212,6 @@
 ## Dockerfile 
 
 - [cirruslabs/docker-images-flutter](https://github.com/cirruslabs/docker-images-flutter) - Docker Images for Flutter
-- [MedzikUser/docker-gitpod](https://github.com/MedzikUser/docker-gitpod) - Gitpod Workspace Image
 - [react-native-community/docker-android](https://github.com/react-native-community/docker-android) - Android Docker Image for React Native and common android development.
 - [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver) - F-Droid Server which can be used in CI/CD to create a repository and publish it
 - [MedzikUser/docker-android-sdk](https://github.com/MedzikUser/docker-android-sdk) - Android SDK in docker, can be used to build applications
