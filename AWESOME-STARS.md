@@ -175,6 +175,7 @@
 
 ## CSS 
 
+- [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [redve123/dotfiles](https://github.com/redve123/dotfiles) - 
 - [daniruiz/flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk) - Flat Remix is a GTK application theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
@@ -373,7 +374,6 @@
 
 ## HTML 
 
-- [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [PhilippC/kp2a_accservice_autofill](https://github.com/PhilippC/kp2a_accservice_autofill) - Accessibility service based AutoFill plugin for Keepass2Android
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
