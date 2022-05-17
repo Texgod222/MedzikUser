@@ -541,7 +541,6 @@
 
 ## Others 
 
-- [built-aur/built-packages](https://github.com/built-aur/built-packages) - 
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [AgainstTheWest/NginxDay](https://github.com/AgainstTheWest/NginxDay) - Nginx 18.1 04/09/22 zero-day repo
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -792,8 +791,8 @@
 
 ## Shell 
 
+- [built-aur/packages](https://github.com/built-aur/packages) - Build system and package files for Built AUR
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
-- [built-aur/packages](https://github.com/built-aur/packages) - 
 - [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
