@@ -27,21 +27,14 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <a href="https://git.io/JJmN9">
     <img alt="MedzikUser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MedzikUser&show_icons=true&theme=radical&line_height=27&include_all_commits=true&count_private=true" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MedzikUser/github-stats">
-    <img alt="MedzikUser's GitHub Stats 2" src="https://raw.githubusercontent.com/MedzikUser/github-stats/master/generated/overview.svg" />
-  </a>
-</p>
-
-## ⚡ Recent Activity
+<details>
+<summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#25](https://github.com/MedzikUser/HomeDisk/pull/25) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
@@ -51,7 +44,7 @@
 5. 🎉 Merged PR [#197](https://github.com/MedzikUser/gatsby-pingbot/pull/197) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
 <!--END_SECTION:activity-->
 
----
+</details>
 
 ## ⭐ Awesome Stars
 Click [here](AWESOME-STARS.md) to view my awesome stars
