@@ -73,7 +73,7 @@
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [sass/sassc](https://github.com/sass/sassc) - libsass command line driver
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
-- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [freedesktop/mesa-demos](https://github.com/freedesktop/mesa-demos) - A collection of OpenGL / Mesa demos and test programs.
 - [xanmod/linux](https://github.com/xanmod/linux) - XanMod: Linux kernel source code tree
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
