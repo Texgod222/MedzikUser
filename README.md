@@ -37,11 +37,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/MedzikUser/HomeDisk/pull/25) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
-2. 🎉 Merged PR [#4](https://github.com/MedzikUser/docker-fdroidserver/pull/4) in [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver)
-3. 🎉 Merged PR [#5](https://github.com/MedzikUser/docker-fdroidserver/pull/5) in [MedzikUser/docker-fdroidserver](https://github.com/MedzikUser/docker-fdroidserver)
-4. 🗣 Commented on [#669](https://github.com/docker/docker-ce/issues/669) in [docker/docker-ce](https://github.com/docker/docker-ce)
-5. 🎉 Merged PR [#197](https://github.com/MedzikUser/gatsby-pingbot/pull/197) in [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot)
+1. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
+2. 💪 Opened PR [#20](https://github.com/playit-cloud/playit-agent/pull/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+3. 💪 Opened PR [#4](https://github.com/TheKozax/playit-agent/pull/4) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
+4. 💪 Opened PR [#2](https://github.com/TheKozax/playit-agent/pull/2) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
+5. ❗️ Opened issue [#19](https://github.com/playit-cloud/playit-agent/issues/19) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
 <!--END_SECTION:activity-->
 
 </details>
