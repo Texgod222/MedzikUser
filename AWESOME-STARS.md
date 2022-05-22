@@ -676,7 +676,7 @@
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - [WIP] Fast and lightweight local cloud for your data written in Rust
+- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast and lightweight local cloud for your data written in Rust
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
