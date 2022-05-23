@@ -37,11 +37,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
-2. 💪 Opened PR [#20](https://github.com/playit-cloud/playit-agent/pull/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
-3. 💪 Opened PR [#4](https://github.com/TheKozax/playit-agent/pull/4) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
-4. 💪 Opened PR [#2](https://github.com/TheKozax/playit-agent/pull/2) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
-5. ❗️ Opened issue [#19](https://github.com/playit-cloud/playit-agent/issues/19) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+1. 🎉 Merged PR [#28](https://github.com/MedzikUser/HomeDisk/pull/28) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+2. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
+3. 💪 Opened PR [#20](https://github.com/playit-cloud/playit-agent/pull/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+4. 💪 Opened PR [#4](https://github.com/TheKozax/playit-agent/pull/4) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
+5. 💪 Opened PR [#2](https://github.com/TheKozax/playit-agent/pull/2) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
 <!--END_SECTION:activity-->
 
 </details>
