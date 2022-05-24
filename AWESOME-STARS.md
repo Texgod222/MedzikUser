@@ -592,6 +592,7 @@
 
 ## Python 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
