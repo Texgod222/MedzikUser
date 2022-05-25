@@ -37,11 +37,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/FirefoxGraphics/qcms/issues/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
-2. 💪 Opened PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
-3. 🎉 Merged PR [#28](https://github.com/MedzikUser/HomeDisk/pull/28) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
-4. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
-5. 💪 Opened PR [#20](https://github.com/playit-cloud/playit-agent/pull/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+1. 🗣 Commented on [#20](https://github.com/playit-cloud/playit-agent/issues/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+2. 🗣 Commented on [#27](https://github.com/FirefoxGraphics/qcms/issues/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
+3. 💪 Opened PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
+4. 🎉 Merged PR [#28](https://github.com/MedzikUser/HomeDisk/pull/28) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+5. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
 <!--END_SECTION:activity-->
 
 </details>
