@@ -798,6 +798,7 @@
 
 ## Shell 
 
+- [esp-rs/xtensa-toolchain](https://github.com/esp-rs/xtensa-toolchain) - A GitHub Action to install the Rust compiler fork targeting Xtensa devices
 - [built-aur/packages](https://github.com/built-aur/packages) - Build system and package files for Built AUR
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
 - [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - 
