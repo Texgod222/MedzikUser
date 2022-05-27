@@ -37,10 +37,10 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/playit-cloud/playit-agent/issues/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
-2. 🗣 Commented on [#27](https://github.com/FirefoxGraphics/qcms/issues/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
-3. 💪 Opened PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
-4. 🎉 Merged PR [#28](https://github.com/MedzikUser/HomeDisk/pull/28) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+1. ❗️ Opened issue [#8904](https://github.com/rust-lang/rust-clippy/issues/8904) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+2. 🗣 Commented on [#20](https://github.com/playit-cloud/playit-agent/issues/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+3. 🗣 Commented on [#27](https://github.com/FirefoxGraphics/qcms/issues/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
+4. 💪 Opened PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
 5. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
 <!--END_SECTION:activity-->
 
