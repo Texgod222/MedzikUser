@@ -37,10 +37,10 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8904](https://github.com/rust-lang/rust-clippy/issues/8904) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-2. 🗣 Commented on [#20](https://github.com/playit-cloud/playit-agent/issues/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
-3. 🗣 Commented on [#27](https://github.com/FirefoxGraphics/qcms/issues/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
-4. 💪 Opened PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
+1. 💪 Opened PR [#2](https://github.com/rafi612/imgcomp/pull/2) in [rafi612/imgcomp](https://github.com/rafi612/imgcomp)
+2. 💪 Opened PR [#1](https://github.com/rafi612/imgcomp/pull/1) in [rafi612/imgcomp](https://github.com/rafi612/imgcomp)
+3. ❗️ Opened issue [#8904](https://github.com/rust-lang/rust-clippy/issues/8904) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+4. 🗣 Commented on [#20](https://github.com/playit-cloud/playit-agent/issues/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
 5. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
 <!--END_SECTION:activity-->
 
