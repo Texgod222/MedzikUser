@@ -648,6 +648,7 @@
 
 ## Rust 
 
+- [AndrewGaspar/rust-plugin-example](https://github.com/AndrewGaspar/rust-plugin-example) - An example of implementing a plugin model in Rust
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
