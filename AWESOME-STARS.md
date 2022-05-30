@@ -417,6 +417,7 @@
 
 ## JavaScript 
 
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [mmarchini-oss/npm-otp-publish](https://github.com/mmarchini-oss/npm-otp-publish) - Action to publish npm pacakges using One-Time Passwords
