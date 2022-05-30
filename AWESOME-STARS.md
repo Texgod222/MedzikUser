@@ -649,6 +649,7 @@
 
 ## Rust 
 
+- [MedzikUser/servers](https://github.com/MedzikUser/servers) - TCP server and client written in Rust
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
 - [AndrewGaspar/rust-plugin-example](https://github.com/AndrewGaspar/rust-plugin-example) - An example of implementing a plugin model in Rust
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
