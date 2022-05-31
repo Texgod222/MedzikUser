@@ -216,6 +216,7 @@
 
 ## Go 
 
+- [MedzikUser/go-server](https://github.com/MedzikUser/go-server) - TCP server written in Go
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
