@@ -33,6 +33,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/JJmN9">
+    <img alt="MedzikUser's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Medzik&theme=radical" />
+  </a>
+</p>
+
 <details>
 <summary><b>⚡ Recent Activity</b></summary>
 
