@@ -37,9 +37,9 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4236](https://github.com/tauri-apps/tauri/issues/4236) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. 💪 Opened PR [#2](https://github.com/rafi612/imgcomp/pull/2) in [rafi612/imgcomp](https://github.com/rafi612/imgcomp)
-3. 💪 Opened PR [#1](https://github.com/rafi612/imgcomp/pull/1) in [rafi612/imgcomp](https://github.com/rafi612/imgcomp)
+1. 🗣 Commented on [#4236](https://github.com/tauri-apps/tauri/issues/4236) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. ❗️ Opened issue [#4236](https://github.com/tauri-apps/tauri/issues/4236) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. 💪 Opened PR [#2](https://github.com/rafi612/imgcomp/pull/2) in [rafi612/imgcomp](https://github.com/rafi612/imgcomp)
 4. ❗️ Opened issue [#8904](https://github.com/rust-lang/rust-clippy/issues/8904) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 5. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
 <!--END_SECTION:activity-->
