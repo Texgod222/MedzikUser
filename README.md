@@ -45,7 +45,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4236](https://github.com/tauri-apps/tauri/issues/4236) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 2. 🗣 Commented on [#4236](https://github.com/tauri-apps/tauri/issues/4236) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-3. ❗️ Opened issue [#4236](https://github.com/tauri-apps/tauri/issues/4236) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. 🗣 Commented on [#4236](https://github.com/tauri-apps/tauri/issues/4236) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 4. ❗️ Opened issue [#8904](https://github.com/rust-lang/rust-clippy/issues/8904) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 5. 💪 Opened PR [#5](https://github.com/TheKozax/playit-agent/pull/5) in [TheKozax/playit-agent](https://github.com/TheKozax/playit-agent)
 <!--END_SECTION:activity-->
