@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -43,6 +44,10 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+
+## Assembly 
+
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## C 
 
@@ -650,6 +655,7 @@
 
 ## Rust 
 
+- [MedzikUser/rust-plugins-loader-example](https://github.com/MedzikUser/rust-plugins-loader-example) - An example of dynamic plugin loading in Rust.
 - [MedzikUser/servers](https://github.com/MedzikUser/servers) - TCP server and client written in Rust
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
 - [AndrewGaspar/rust-plugin-example](https://github.com/AndrewGaspar/rust-plugin-example) - An example of implementing a plugin model in Rust
