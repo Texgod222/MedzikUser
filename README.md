@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/playit-cloud/playit-agent/issues/19) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
-2. ❌ Closed PR [#20](https://github.com/playit-cloud/playit-agent/pull/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
-3. 🎉 Merged PR [#43](https://github.com/MedzikUser/go-pingbot/pull/43) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-4. 🎉 Merged PR [#44](https://github.com/MedzikUser/go-pingbot/pull/44) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
-5. ❗️ Closed issue [#8904](https://github.com/rust-lang/rust-clippy/issues/8904) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+1. ❌ Closed PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
+2. ❗️ Closed issue [#19](https://github.com/playit-cloud/playit-agent/issues/19) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+3. ❌ Closed PR [#20](https://github.com/playit-cloud/playit-agent/pull/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+4. 🎉 Merged PR [#43](https://github.com/MedzikUser/go-pingbot/pull/43) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
+5. 🎉 Merged PR [#44](https://github.com/MedzikUser/go-pingbot/pull/44) in [MedzikUser/go-pingbot](https://github.com/MedzikUser/go-pingbot)
 <!--END_SECTION:activity-->
 
 </details>
