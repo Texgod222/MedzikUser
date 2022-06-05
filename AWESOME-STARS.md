@@ -798,6 +798,7 @@
 
 ## Shell 
 
+- [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [esp-rs/xtensa-toolchain](https://github.com/esp-rs/xtensa-toolchain) - A GitHub Action to install the Rust compiler fork targeting Xtensa devices
 - [built-aur/packages](https://github.com/built-aur/packages) - Build system and packages files for Built AUR
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
