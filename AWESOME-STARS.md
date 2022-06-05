@@ -536,6 +536,7 @@
 
 ## Others 
 
+- [built-aur/built.db](https://github.com/built-aur/built.db) - 
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [AgainstTheWest/NginxDay](https://github.com/AgainstTheWest/NginxDay) - Nginx 18.1 04/09/22 zero-day repo
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -798,7 +799,7 @@
 ## Shell 
 
 - [esp-rs/xtensa-toolchain](https://github.com/esp-rs/xtensa-toolchain) - A GitHub Action to install the Rust compiler fork targeting Xtensa devices
-- [built-aur/packages](https://github.com/built-aur/packages) - Build system and package files for Built AUR
+- [built-aur/packages](https://github.com/built-aur/packages) - Build system and packages files for Built AUR
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
 - [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
