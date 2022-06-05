@@ -655,6 +655,7 @@
 
 ## Rust 
 
+- [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [MedzikUser/rust-plugins-loader-example](https://github.com/MedzikUser/rust-plugins-loader-example) - An example of dynamic plugin loading in Rust.
 - [MedzikUser/servers](https://github.com/MedzikUser/servers) - TCP server and client written in Rust
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
