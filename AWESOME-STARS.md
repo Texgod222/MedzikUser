@@ -657,6 +657,8 @@
 
 ## Rust 
 
+- [lapce/lapce-plugin-rust](https://github.com/lapce/lapce-plugin-rust) - 
+- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [MedzikUser/rust-plugins-loader-example](https://github.com/MedzikUser/rust-plugins-loader-example) - An example of dynamic plugin loading in Rust.
 - [MedzikUser/servers](https://github.com/MedzikUser/servers) - TCP server and client written in Rust
