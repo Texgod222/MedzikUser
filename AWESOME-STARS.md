@@ -681,7 +681,7 @@
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast and lightweight local cloud for your data written in Rust
+- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast and lightweight local cloud for your data written in Rust and WebUI in React
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
@@ -740,6 +740,7 @@
 - [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 - [thoo0224/webhook-rs](https://github.com/thoo0224/webhook-rs) - Discord Webhook API Wrapper for Rust.
 - [aweinstock314/rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
@@ -813,7 +814,6 @@
 - [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) - The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 - [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google) - Completely block Google and its services
 - [archlinux/arch-install-scripts](https://github.com/archlinux/arch-install-scripts) - Useful scripts for installing Arch Linux
-- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [changs/slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [clearlinux-pkgs/linux](https://github.com/clearlinux-pkgs/linux) - 
