@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/MedzikUser/wrangler-cdn/pull/172) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-2. 💪 Opened PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
-3. ❌ Closed PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
-4. ❗️ Closed issue [#19](https://github.com/playit-cloud/playit-agent/issues/19) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
-5. ❌ Closed PR [#20](https://github.com/playit-cloud/playit-agent/pull/20) in [playit-cloud/playit-agent](https://github.com/playit-cloud/playit-agent)
+1. ❌ Closed PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
+2. 🗣 Commented on [#1](https://github.com/built-aur/packages/issues/1) in [built-aur/packages](https://github.com/built-aur/packages)
+3. 🎉 Merged PR [#172](https://github.com/MedzikUser/wrangler-cdn/pull/172) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+4. 💪 Opened PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
+5. ❌ Closed PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
 <!--END_SECTION:activity-->
 
 </details>
