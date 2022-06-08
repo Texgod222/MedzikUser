@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
-2. 🗣 Commented on [#1](https://github.com/built-aur/packages/issues/1) in [built-aur/packages](https://github.com/built-aur/packages)
-3. 🎉 Merged PR [#172](https://github.com/MedzikUser/wrangler-cdn/pull/172) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-4. 💪 Opened PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
-5. ❌ Closed PR [#27](https://github.com/FirefoxGraphics/qcms/pull/27) in [FirefoxGraphics/qcms](https://github.com/FirefoxGraphics/qcms)
+1. 🎉 Merged PR [#48](https://github.com/MedzikUser/HomeDisk/pull/48) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+2. ❌ Closed PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
+3. 🗣 Commented on [#1](https://github.com/built-aur/packages/issues/1) in [built-aur/packages](https://github.com/built-aur/packages)
+4. 🎉 Merged PR [#172](https://github.com/MedzikUser/wrangler-cdn/pull/172) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+5. 💪 Opened PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
 <!--END_SECTION:activity-->
 
 </details>
