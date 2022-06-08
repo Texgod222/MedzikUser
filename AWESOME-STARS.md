@@ -304,7 +304,7 @@
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [goplus/gox](https://github.com/goplus/gox) - Code generator for the Go language
-- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [diamondburned/discordlogin](https://github.com/diamondburned/discordlogin) - An automated Discord token grabber, for use with gtkcord3
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
 - [ayntgl/discordo](https://github.com/ayntgl/discordo) - A lightweight, secure, and feature-rich Discord terminal client
