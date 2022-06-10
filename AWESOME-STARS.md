@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [tobischo/gokeepasslib](https://github.com/tobischo/gokeepasslib) - A library to read and write keepass 2 files written in go
 - [MedzikUser/go-server](https://github.com/MedzikUser/go-server) - TCP server written in Go
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
