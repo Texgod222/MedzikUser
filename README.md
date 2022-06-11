@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/MedzikUser/HomeDisk/pull/49) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
-2. 🎉 Merged PR [#2](https://github.com/MedzikUser/go-github-selfupdate/pull/2) in [MedzikUser/go-github-selfupdate](https://github.com/MedzikUser/go-github-selfupdate)
-3. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-github-selfupdate/pull/1) in [MedzikUser/go-github-selfupdate](https://github.com/MedzikUser/go-github-selfupdate)
-4. 🎉 Merged PR [#48](https://github.com/MedzikUser/HomeDisk/pull/48) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
-5. ❌ Closed PR [#1](https://github.com/built-aur/packages/pull/1) in [built-aur/packages](https://github.com/built-aur/packages)
+1. 💪 Opened PR [#242](https://github.com/dtolnay/anyhow/pull/242) in [dtolnay/anyhow](https://github.com/dtolnay/anyhow)
+2. 🎉 Merged PR [#49](https://github.com/MedzikUser/HomeDisk/pull/49) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+3. 🎉 Merged PR [#2](https://github.com/MedzikUser/go-github-selfupdate/pull/2) in [MedzikUser/go-github-selfupdate](https://github.com/MedzikUser/go-github-selfupdate)
+4. 🎉 Merged PR [#1](https://github.com/MedzikUser/go-github-selfupdate/pull/1) in [MedzikUser/go-github-selfupdate](https://github.com/MedzikUser/go-github-selfupdate)
+5. 🎉 Merged PR [#48](https://github.com/MedzikUser/HomeDisk/pull/48) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
 <!--END_SECTION:activity-->
 
 </details>
