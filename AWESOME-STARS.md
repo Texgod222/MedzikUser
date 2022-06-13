@@ -503,6 +503,7 @@
 
 ## Kotlin 
 
+- [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches maintained by ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. [WIP]
 - [mozilla-mobile/focus-android](https://github.com/mozilla-mobile/focus-android) - Firefox Focus: The privacy browser - Browse like no one’s watching.
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
