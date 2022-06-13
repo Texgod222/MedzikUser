@@ -659,6 +659,7 @@
 
 ## Rust 
 
+- [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [MedzikUser/rust-crypto-utils](https://github.com/MedzikUser/rust-crypto-utils) - Cryptography Utils for Rust
 - [oxidecomputer/third-party-api-clients](https://github.com/oxidecomputer/third-party-api-clients) - A place for keeping all our generated third party API clients.
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
