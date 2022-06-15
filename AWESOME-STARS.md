@@ -494,7 +494,6 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [MedzikUser/gatsby-portfolio](https://github.com/MedzikUser/gatsby-portfolio) - Frontend for https://www.magicuser.cf
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [MedzikUser/gatsby-pingbot](https://github.com/MedzikUser/gatsby-pingbot) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot powered by Vercel :heart:
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -878,6 +877,7 @@
 
 ## TypeScript 
 
+- [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
