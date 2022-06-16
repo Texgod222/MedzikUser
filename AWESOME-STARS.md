@@ -672,7 +672,7 @@
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [MedzikUser/rust-plugins-loader-example](https://github.com/MedzikUser/rust-plugins-loader-example) - An example of dynamic plugin loading in Rust.
-- [MedzikUser/servers](https://github.com/MedzikUser/servers) - TCP server and client written in Rust
+- [MedzikUser/servers](https://github.com/MedzikUser/servers) - Simple TCP server for clients written in Rust  🦀
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
 - [AndrewGaspar/rust-plugin-example](https://github.com/AndrewGaspar/rust-plugin-example) - An example of implementing a plugin model in Rust
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -692,7 +692,7 @@
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast and lightweight local cloud for your data written in Rust and WebUI in React
+- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast, lightweight and Open Source local cloud for your data made in Rust :crab:
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
