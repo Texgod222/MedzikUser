@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12163](https://github.com/signalapp/Signal-Android/issues/12163) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-2. 🎉 Merged PR [#2](https://github.com/MedzikUser/portfolio/pull/2) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
-3. 🎉 Merged PR [#3](https://github.com/MedzikUser/portfolio/pull/3) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
-4. 🎉 Merged PR [#4](https://github.com/MedzikUser/portfolio/pull/4) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
-5. 🎉 Merged PR [#52](https://github.com/MedzikUser/HomeDisk/pull/52) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+1. 🎉 Merged PR [#2](https://github.com/MedzikUser/HomeDisk-Website/pull/2) in [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website)
+2. ❌ Closed PR [#54](https://github.com/MedzikUser/HomeDisk/pull/54) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+3. 🗣 Commented on [#12163](https://github.com/signalapp/Signal-Android/issues/12163) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+4. 🎉 Merged PR [#2](https://github.com/MedzikUser/portfolio/pull/2) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
+5. 🎉 Merged PR [#3](https://github.com/MedzikUser/portfolio/pull/3) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
