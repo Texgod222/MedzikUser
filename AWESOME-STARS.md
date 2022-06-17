@@ -383,6 +383,8 @@
 
 ## Java 
 
+- [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations) - 🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
@@ -814,7 +816,7 @@
 
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [esp-rs/xtensa-toolchain](https://github.com/esp-rs/xtensa-toolchain) - A GitHub Action to install the Rust compiler fork targeting Xtensa devices
-- [built-aur/packages](https://github.com/built-aur/packages) - Build system and packages files for Built AUR
+- [built-aur/packages](https://github.com/built-aur/packages) - Built AUR is an unofficial repository for archlinux with compiled some packages from AUR on x86-64 and x86-64-v3 arches.
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
 - [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -877,6 +879,7 @@
 
 ## TypeScript 
 
+- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - Fast and lightweight local cloud for your data written in Rust and WebUI in React
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
