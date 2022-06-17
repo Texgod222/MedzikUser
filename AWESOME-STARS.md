@@ -672,7 +672,7 @@
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [MedzikUser/rust-plugins-loader-example](https://github.com/MedzikUser/rust-plugins-loader-example) - An example of dynamic plugin loading in Rust.
-- [MedzikUser/servers](https://github.com/MedzikUser/servers) - Simple TCP server for clients written in Rust  🦀
+- [MedzikUser/servers](https://github.com/MedzikUser/servers) - Simple TCP server for clients written in Rust 🦀 with plugins support.
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
 - [AndrewGaspar/rust-plugin-example](https://github.com/AndrewGaspar/rust-plugin-example) - An example of implementing a plugin model in Rust
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
