@@ -545,7 +545,7 @@
 
 - [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
 - [lapce/atom-one](https://github.com/lapce/atom-one) - Atom One Theme
-- [built-aur/built.db](https://github.com/built-aur/built.db) - 
+- [built-aur/built.db](https://github.com/built-aur/built.db) - Unpacked packages database
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [AgainstTheWest/NginxDay](https://github.com/AgainstTheWest/NginxDay) - Nginx 18.1 04/09/22 zero-day repo
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
