@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MedzikUser/servers/pull/4) in [MedzikUser/servers](https://github.com/MedzikUser/servers)
-2. 🗣 Commented on [#1271](https://github.com/botlabs-gg/yagpdb/issues/1271) in [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb)
-3. 💪 Opened PR [#3](https://github.com/rafi612/imgcomp/pull/3) in [rafi612/imgcomp](https://github.com/rafi612/imgcomp)
-4. 🎉 Merged PR [#2](https://github.com/MedzikUser/HomeDisk-Website/pull/2) in [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website)
-5. ❌ Closed PR [#54](https://github.com/MedzikUser/HomeDisk/pull/54) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
+1. 🎉 Merged PR [#1](https://github.com/MedzikUser/rust-crypto-utils/pull/1) in [MedzikUser/rust-crypto-utils](https://github.com/MedzikUser/rust-crypto-utils)
+2. 🎉 Merged PR [#4](https://github.com/MedzikUser/servers/pull/4) in [MedzikUser/servers](https://github.com/MedzikUser/servers)
+3. 🗣 Commented on [#1271](https://github.com/botlabs-gg/yagpdb/issues/1271) in [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb)
+4. 💪 Opened PR [#3](https://github.com/rafi612/imgcomp/pull/3) in [rafi612/imgcomp](https://github.com/rafi612/imgcomp)
+5. 🎉 Merged PR [#2](https://github.com/MedzikUser/HomeDisk-Website/pull/2) in [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website)
 <!--END_SECTION:activity-->
 
 </details>
