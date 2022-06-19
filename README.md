@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/revanced/revanced-patcher/pull/46) in [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher)
-2. 💪 Opened PR [#31](https://github.com/revanced/revanced-patches/pull/31) in [revanced/revanced-patches](https://github.com/revanced/revanced-patches)
-3. 💪 Opened PR [#36](https://github.com/revanced/revanced-cli/pull/36) in [revanced/revanced-cli](https://github.com/revanced/revanced-cli)
-4. 🎉 Merged PR [#57](https://github.com/MedzikUser/HomeDisk/pull/57) in [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk)
-5. 🎉 Merged PR [#1](https://github.com/MedzikUser/rust-crypto-utils/pull/1) in [MedzikUser/rust-crypto-utils](https://github.com/MedzikUser/rust-crypto-utils)
+1. 💪 Opened PR [#15](https://github.com/revanced/revanced-integrations/pull/15) in [revanced/revanced-integrations](https://github.com/revanced/revanced-integrations)
+2. 💪 Opened PR [#1](https://github.com/revanced/.github/pull/1) in [revanced/.github](https://github.com/revanced/.github)
+3. 💪 Opened PR [#46](https://github.com/revanced/revanced-patcher/pull/46) in [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher)
+4. 💪 Opened PR [#31](https://github.com/revanced/revanced-patches/pull/31) in [revanced/revanced-patches](https://github.com/revanced/revanced-patches)
+5. 💪 Opened PR [#36](https://github.com/revanced/revanced-cli/pull/36) in [revanced/revanced-cli](https://github.com/revanced/revanced-cli)
 <!--END_SECTION:activity-->
 
 </details>
