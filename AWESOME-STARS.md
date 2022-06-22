@@ -702,7 +702,7 @@
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast, lightweight and Open Source local cloud for your data made in Rust :crab:
+- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast, lightweight and Open Source local cloud for your data made in Rust 🦀
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
@@ -740,7 +740,7 @@
 - [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff) - A CLI-tool to diff Keepass (.kdbx) files. Useful, if syncing with Dropbox or NextCloud and getting multiple files due to conflicts.
 - [catleeball/WebScreenShot](https://github.com/catleeball/WebScreenShot) - Screenshot a webpage rendered in headless Chrome.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-- [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc) - Fast Discord RPC Client written in Rust
+- [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc) - Fast Discord RPC Client written in Rust 🦀
 - [nickofolas/discord-rich-presence](https://github.com/nickofolas/discord-rich-presence) - A cross-platform Discord Rich Presence library written in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
@@ -777,7 +777,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - CLI and Library for Imgur API written in Rust :crab:
+- [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - CLI and Library for Imgur API written in Rust 🦀
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
