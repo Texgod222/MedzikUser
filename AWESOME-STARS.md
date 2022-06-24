@@ -51,6 +51,7 @@
 
 ## C 
 
+- [rfc1036/whois](https://github.com/rfc1036/whois) - Intelligent WHOIS client
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -223,6 +224,7 @@
 
 ## Go 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [MedzikUser/wserver](https://github.com/MedzikUser/wserver) - A simple WebSocket server written in Go which can be extended with plugins.
 - [MedzikUser/go-plugins-loader-example](https://github.com/MedzikUser/go-plugins-loader-example) - An example of dynamic plugin loading in Golang
 - [tobischo/gokeepasslib](https://github.com/tobischo/gokeepasslib) - A library to read and write keepass 2 files written in go
