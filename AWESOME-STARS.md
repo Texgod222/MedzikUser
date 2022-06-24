@@ -670,6 +670,8 @@
 
 ## Rust 
 
+- [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
+- [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
 - [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
