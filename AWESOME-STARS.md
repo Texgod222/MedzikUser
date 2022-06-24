@@ -372,7 +372,6 @@
 ## HTML 
 
 - [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
-- [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [PhilippC/kp2a_accservice_autofill](https://github.com/PhilippC/kp2a_accservice_autofill) - Accessibility service based AutoFill plugin for Keepass2Android
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [fireship-io/wavy-curvey-blobby-website](https://github.com/fireship-io/wavy-curvey-blobby-website) - A website design with lots of waves, curves, a blobs
@@ -668,6 +667,7 @@
 
 ## Rust 
 
+- [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [MedzikUser/rust-crypto-utils](https://github.com/MedzikUser/rust-crypto-utils) - Cryptography Utils for Rust
@@ -891,7 +891,6 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
-- [HomeDisk/website](https://github.com/HomeDisk/website) - Fast and lightweight local cloud for your data written in Rust
 - [actions-rs/tarpaulin](https://github.com/actions-rs/tarpaulin) - 📈 GitHub Action for code coverage reporting with tarpaulin
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
