@@ -670,6 +670,7 @@
 
 ## Rust 
 
+- [myfreax/websocket2tcp](https://github.com/myfreax/websocket2tcp) - one rust example. It forward websocket data to tcp server
 - [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
 - [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
 - [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
