@@ -671,6 +671,7 @@
 
 ## Rust 
 
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [myfreax/websocket2tcp](https://github.com/myfreax/websocket2tcp) - one rust example. It forward websocket data to tcp server
 - [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
 - [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
