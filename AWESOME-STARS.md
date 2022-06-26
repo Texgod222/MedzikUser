@@ -939,7 +939,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the :electron:.
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord :electron:-based client implemented without Discord API.
 - [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights) - Google lighthouse stats of your website that you can put in readme
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
