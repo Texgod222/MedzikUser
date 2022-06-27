@@ -375,6 +375,7 @@
 ## HTML 
 
 - [sioodmy/sioodmy](https://github.com/sioodmy/sioodmy) - 
+- [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [PhilippC/kp2a_accservice_autofill](https://github.com/PhilippC/kp2a_accservice_autofill) - Accessibility service based AutoFill plugin for Keepass2Android
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [fireship-io/wavy-curvey-blobby-website](https://github.com/fireship-io/wavy-curvey-blobby-website) - A website design with lots of waves, curves, a blobs
