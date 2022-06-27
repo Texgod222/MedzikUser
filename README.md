@@ -43,7 +43,7 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/revanced/revanced-cli/issues/39) in [revanced/revanced-cli](https://github.com/revanced/revanced-cli)
+1. 🎉 Merged PR [#195](https://github.com/MedzikUser/wrangler-cdn/pull/195) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
 2. 🗣 Commented on [#246](https://github.com/revanced/revanced-suggestions/issues/246) in [revanced/revanced-suggestions](https://github.com/revanced/revanced-suggestions)
 3. 🗣 Commented on [#246](https://github.com/revanced/revanced-suggestions/issues/246) in [revanced/revanced-suggestions](https://github.com/revanced/revanced-suggestions)
 4. 🎉 Merged PR [#180](https://github.com/MedzikUser/wrangler-cdn/pull/180) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
