@@ -674,6 +674,7 @@
 
 ## Rust 
 
+- [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [myfreax/websocket2tcp](https://github.com/myfreax/websocket2tcp) - one rust example. It forward websocket data to tcp server
 - [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
@@ -893,7 +894,7 @@
 
 ## TypeScript 
 
-- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
+- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - Fast and lightweight local cloud for your data written in Rust and WebUI in React
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
