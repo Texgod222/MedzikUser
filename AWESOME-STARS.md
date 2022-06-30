@@ -39,6 +39,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim script](#vim-script)
@@ -894,12 +895,15 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 
+## Svelte 
+
+- [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
+
 ## TypeScript 
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - Fast and lightweight local cloud for your data written in Rust and WebUI in React
-- [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
