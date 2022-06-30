@@ -436,6 +436,7 @@
 
 ## JavaScript 
 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -674,6 +675,7 @@
 
 ## Rust 
 
+- [MedzikUser/webhook-rs](https://github.com/MedzikUser/webhook-rs) - Discord Webhook API Wrapper for Rust.
 - [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [myfreax/websocket2tcp](https://github.com/myfreax/websocket2tcp) - one rust example. It forward websocket data to tcp server
@@ -894,6 +896,7 @@
 
 ## TypeScript 
 
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - Fast and lightweight local cloud for your data written in Rust and WebUI in React
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
