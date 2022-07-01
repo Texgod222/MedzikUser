@@ -897,6 +897,7 @@
 
 ## Svelte 
 
+- [MedzikUser/pingbot-website](https://github.com/MedzikUser/pingbot-website) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 
 ## TypeScript 
