@@ -226,6 +226,7 @@
 
 ## Go 
 
+- [Rosettea/bunnyfetch](https://github.com/Rosettea/bunnyfetch) - 🐰 Tiny system info fetch utility.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [MedzikUser/wserver](https://github.com/MedzikUser/wserver) - A simple WebSocket server written in Go which can be extended with plugins.
 - [MedzikUser/go-plugins-loader-example](https://github.com/MedzikUser/go-plugins-loader-example) - An example of dynamic plugin loading in Golang
