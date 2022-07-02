@@ -898,6 +898,7 @@
 ## Svelte 
 
 - [MedzikUser/pingbot-website](https://github.com/MedzikUser/pingbot-website) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
+- [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - Fast, lightweight and Open Source local cloud for your data made in Rust 🦀 and WebUI written in Svelte
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 
 ## TypeScript 
@@ -905,7 +906,6 @@
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
-- [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - Fast and lightweight local cloud for your data written in Rust and WebUI in React
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
