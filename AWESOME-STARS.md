@@ -557,6 +557,7 @@
 
 ## Others 
 
+- [HomeDisk/.github](https://github.com/HomeDisk/.github) - Config for the organization's profile.
 - [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
 - [lapce/atom-one](https://github.com/lapce/atom-one) - Atom One Theme
 - [built-aur/built.db](https://github.com/built-aur/built.db) - Unpacked packages database
