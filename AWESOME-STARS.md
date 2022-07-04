@@ -677,6 +677,7 @@
 
 ## Rust 
 
+- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [MedzikUser/webhook-rs](https://github.com/MedzikUser/webhook-rs) - Discord Webhook API Wrapper for Rust.
 - [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
