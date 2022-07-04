@@ -713,7 +713,7 @@
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) - Celebrate Rust contributors.
 - [signalapp/ringrtc](https://github.com/signalapp/ringrtc) - 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - Fast, lightweight and Open Source local cloud for your data made in Rust 🦀
+- [MedzikUser/HomeDisk](https://github.com/MedzikUser/HomeDisk) - ☁️ Fast, lightweight and Open Source local cloud for your data made in Rust 🦀
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [Owez/axum-auth](https://github.com/Owez/axum-auth) - High-level http auth extractors for axum
@@ -899,7 +899,7 @@
 ## Svelte 
 
 - [MedzikUser/pingbot-website](https://github.com/MedzikUser/pingbot-website) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
-- [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - Fast, lightweight and Open Source local cloud for your data made in Rust 🦀 and WebUI written in Svelte
+- [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - ☁️ Fast, lightweight and Open Source local cloud for your data made in Rust 🦀 and WebUI written in Svelte
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 
 ## TypeScript 
