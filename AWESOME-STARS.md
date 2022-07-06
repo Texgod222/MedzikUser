@@ -48,6 +48,7 @@
 
 ## Assembly 
 
+- [RustCrypto/asm-hashes](https://github.com/RustCrypto/asm-hashes) - Assembly implementations of cryptographic hash functions
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## C 
@@ -679,6 +680,10 @@
 
 ## Rust 
 
+- [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519
+- [RustCrypto/MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust
+- [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust
+- [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 - [MedzikUser/initrs](https://github.com/MedzikUser/initrs) - Linux init written in Rust 🦀
 - [mackwic/colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
