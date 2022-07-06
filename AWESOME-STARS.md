@@ -679,6 +679,7 @@
 
 ## Rust 
 
+- [mackwic/colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [MedzikUser/webhook-rs](https://github.com/MedzikUser/webhook-rs) - Discord Webhook API Wrapper for Rust.
