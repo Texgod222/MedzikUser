@@ -53,6 +53,7 @@
 
 ## C 
 
+- [elogind/elogind](https://github.com/elogind/elogind) - The systemd project's "logind", extracted to a standalone package
 - [rfc1036/whois](https://github.com/rfc1036/whois) - Intelligent WHOIS client
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
