@@ -43,7 +43,7 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/MedzikUser/HomeDisk-Website/pull/13) in [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website)
+1. 💪 Opened PR [#1](https://github.com/revanced/revanced-discord-bot/pull/1) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
 2. 🎉 Merged PR [#3](https://github.com/MedzikUser/pingbot-website/pull/3) in [MedzikUser/pingbot-website](https://github.com/MedzikUser/pingbot-website)
 3. 🎉 Merged PR [#15](https://github.com/MedzikUser/portfolio/pull/15) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
 4. 🎉 Merged PR [#180](https://github.com/MedzikUser/wrangler-cdn/pull/180) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
