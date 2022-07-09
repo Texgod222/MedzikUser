@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/revanced/revanced-discord-bot/pull/1) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
-2. 🎉 Merged PR [#3](https://github.com/MedzikUser/pingbot-website/pull/3) in [MedzikUser/pingbot-website](https://github.com/MedzikUser/pingbot-website)
-3. 🎉 Merged PR [#15](https://github.com/MedzikUser/portfolio/pull/15) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
-4. 🎉 Merged PR [#180](https://github.com/MedzikUser/wrangler-cdn/pull/180) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
-5. 🎉 Merged PR [#192](https://github.com/MedzikUser/wrangler-cdn/pull/192) in [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn)
+1. 🗣 Commented on [#3](https://github.com/revanced/revanced-discord-bot/issues/3) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+2. 🗣 Commented on [#3](https://github.com/revanced/revanced-discord-bot/issues/3) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+3. 🗣 Commented on [#3](https://github.com/revanced/revanced-discord-bot/issues/3) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+4. 💪 Opened PR [#3](https://github.com/revanced/revanced-discord-bot/pull/3) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+5. 🗣 Commented on [#1](https://github.com/revanced/revanced-discord-bot/issues/1) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
