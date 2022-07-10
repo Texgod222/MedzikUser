@@ -681,6 +681,7 @@
 
 ## Rust 
 
+- [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot) - 🤖 The official Discord bot assisting the ReVanced Discord server
 - [RustCrypto/signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519
 - [RustCrypto/MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust
 - [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust
