@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/revanced/revanced-discord-bot/issues/11) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
-2. 💪 Opened PR [#12](https://github.com/revanced/revanced-discord-bot/pull/12) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
-3. ❌ Closed PR [#11](https://github.com/revanced/revanced-discord-bot/pull/11) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
-4. 💪 Opened PR [#11](https://github.com/revanced/revanced-discord-bot/pull/11) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
-5. 🗣 Commented on [#10](https://github.com/revanced/revanced-discord-bot/issues/10) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+1. ❗️ Opened issue [#12736](https://github.com/rust-lang/rust-analyzer/issues/12736) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+2. 🗣 Commented on [#11](https://github.com/revanced/revanced-discord-bot/issues/11) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+3. 💪 Opened PR [#12](https://github.com/revanced/revanced-discord-bot/pull/12) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+4. ❌ Closed PR [#11](https://github.com/revanced/revanced-discord-bot/pull/11) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
+5. 💪 Opened PR [#11](https://github.com/revanced/revanced-discord-bot/pull/11) in [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
