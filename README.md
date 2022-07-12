@@ -43,11 +43,11 @@
 <summary><b>⚡ Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1963](https://github.com/launchbadge/sqlx/issues/1963) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-2. 💪 Opened PR [#1156](https://github.com/tokio-rs/axum/pull/1156) in [tokio-rs/axum](https://github.com/tokio-rs/axum)
-3. 🗣 Commented on [#154716](https://github.com/microsoft/vscode/issues/154716) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#154716](https://github.com/microsoft/vscode/issues/154716) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#12736](https://github.com/rust-lang/rust-analyzer/issues/12736) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+1. 🎉 Merged PR [#17](https://github.com/MedzikUser/portfolio/pull/17) in [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio)
+2. ❗️ Opened issue [#1963](https://github.com/launchbadge/sqlx/issues/1963) in [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
+3. 💪 Opened PR [#1156](https://github.com/tokio-rs/axum/pull/1156) in [tokio-rs/axum](https://github.com/tokio-rs/axum)
+4. 🗣 Commented on [#154716](https://github.com/microsoft/vscode/issues/154716) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Opened issue [#154716](https://github.com/microsoft/vscode/issues/154716) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 </details>
