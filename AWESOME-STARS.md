@@ -34,7 +34,7 @@
 - [Perl](#perl)
 - [Python](#python)
 - [QML](#qml)
-- [Rascal](#rascal)
+- [RouterOS Script](#routeros-script)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -666,7 +666,7 @@
 
 - [MalditoBarbudo/solarized_sddm_theme](https://github.com/MalditoBarbudo/solarized_sddm_theme) - Solarized theme for sddm
 
-## Rascal 
+## RouterOS Script 
 
 - [MajkiIT/polish-ads-filter](https://github.com/MajkiIT/polish-ads-filter) - CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard
 
