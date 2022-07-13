@@ -916,6 +916,7 @@
 
 ## TypeScript 
 
+- [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
