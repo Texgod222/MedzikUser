@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/JJmN9">
-    <img alt="MedzikUser's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Medzik&theme=radical" />
-  </a>
+  <!--START_SECTION:waka-->
+
+  <!--END_SECTION:waka-->
 </p>
 
 <details>
