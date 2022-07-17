@@ -3,6 +3,13 @@
   <img src="https://cdn.medzik.xyz/Zw2ELB8.gif" width="28">
 </h1>
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D4F1F4?style=flat-square&logo=Gmail&logoColor=050a30)](mailto:medzik@duck.com)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white)](https://medzik.xyz)
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-D4F1F4?style=flat-square&logo=Reddit&logoColor=050a30)](https://www.reddit.com/user/MedzikUser)
+[![Discord Badge](https://img.shields.io/badge/-Discord-050a30?style=flat-square&logo=Discord&logoColor=white)](https://dsc.bio/medzik)
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-D4F1F4?style=flat-square&logo=GitLab&logoColor=050a30)](https://gitlab.com/Medzik)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-050a30?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19309268/medzik)
+
 ## 👨‍💻 Languages and Tool
 
 <p align="center">
