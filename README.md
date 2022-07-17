@@ -7,31 +7,35 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="MedzikUser Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedzikUser&theme=radical&count_private=true&layout=compact" />
-  </a>
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="MedzikUser Top Langs" src="https://github-readme-streak-stats.herokuapp.com/?user=MedzikUser&theme=dracula" />
+    <img alt="MedzikUser Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedzikUser&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" />
   </a>
 </p>
 
 ## 📊 Stats
 
+### 🔥 Streak Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="MedzikUser Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MedzikUser&theme=dracula&background=0D1117&ring=5ce1e6&fire=5ce1e6" />
+  </a>
+</p>
+
+### ⚡ Commits graph from last 30 days
+
 <p align="center">
   <a href="https://git.io/JEwT2">
-    <img alt="MedzikUser Top Langs" src="https://activity-graph.herokuapp.com/graph?username=MedzikUser&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="MedzikUser Top Langs" src="https://activity-graph.herokuapp.com/graph?username=MedzikUser&bg_color=0D1117&color=5ce1e6&line=F85D7F&point=5ce1e6&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/JJmN9">
-    <img alt="MedzikUser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MedzikUser&show_icons=true&theme=radical&line_height=27&include_all_commits=true&count_private=true" />
+    <img alt="MedzikUser's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=MedzikUser&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" />
   </a>
 </p>
+
+### 🌟 Wakatime
 
 <p align="center">
   <!--START_SECTION:waka-->
@@ -47,7 +51,10 @@ Other   1 min           ▒░░░░░░░░░░░░░░░░░�
 </p>
 
 <details>
-<summary><b>⚡ Recent Activity</b></summary>
+
+<summary>
+  <h3>⚡ Recent Activity</h3>
+</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#350](https://github.com/melix99/telegrand/issues/350) in [melix99/telegrand](https://github.com/melix99/telegrand)
@@ -60,7 +67,7 @@ Other   1 min           ▒░░░░░░░░░░░░░░░░░�
 </details>
 
 ## ⭐ Awesome Stars
-Click [here](AWESOME-STARS.md) to view my awesome stars
+Click [here](AWESOME-STARS.md) to view my starred repositories
 
 ---
 
