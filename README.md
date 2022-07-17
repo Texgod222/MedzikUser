@@ -3,12 +3,26 @@
   <img src="https://cdn.medzik.xyz/Zw2ELB8.gif" width="28">
 </h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D4F1F4?style=flat-square&logo=Gmail&logoColor=050a30)](mailto:medzik@duck.com)
-[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white)](https://medzik.xyz)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-D4F1F4?style=flat-square&logo=Reddit&logoColor=050a30)](https://www.reddit.com/user/MedzikUser)
-[![Discord Badge](https://img.shields.io/badge/-Discord-050a30?style=flat-square&logo=Discord&logoColor=white)](https://dsc.bio/medzik)
-[![GitLab Badge](https://img.shields.io/badge/-GitLab-D4F1F4?style=flat-square&logo=GitLab&logoColor=050a30)](https://gitlab.com/Medzik)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-050a30?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19309268/medzik)
+<p align="center">
+  <a href="mailto:medzik@duck.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-5CE1E6?style=flat-square&logo=Gmail&logoColor=050A30" />
+  </a>
+  <a href="https://medzik.xyz">
+    <img alt="Website Badge" src="https://img.shields.io/badge/-Website-050A30?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/MedzikUser">
+    <img alt="Reddit Badge" src="https://img.shields.io/badge/-Reddit-5CE1E6?style=flat-square&logo=Reddit&logoColor=050A30" />
+  </a>
+  <a href="https://dsc.bio/medzik">
+    <img alt="Discord Badge" src="https://img.shields.io/badge/-Discord-050A30?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/MedzikUser">
+    <img alt="GitLab Badge" src="https://img.shields.io/badge/-GitLab-5CE1E6?style=flat-square&logo=gitlab&logoColor=050A30" />
+  </a>
+  <a href="https://stackoverflow.com/users/19309268/medzik">
+    <img alt="Stackoverflow Badge" src="https://img.shields.io/badge/-Stackoverflow-050A30?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
 
 ## 👨‍💻 Languages and Tool
 
@@ -24,7 +38,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="MedzikUser Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MedzikUser&theme=dracula&background=0D1117&ring=5ce1e6&fire=5ce1e6" />
+    <img alt="MedzikUser Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MedzikUser&theme=dracula&background=0D1117&ring=5ce1e6&fire=5ce1e6&hide_border=true" />
   </a>
 </p>
 
