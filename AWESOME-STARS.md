@@ -46,6 +46,7 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -1015,6 +1016,10 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
