@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, random stranger!
-  <img src="https://cdn.medzik.xyz/Zw2ELB8.gif" width="28">
+  <img src="https://i.imgur.com/Zw2ELB8.gif" width="28">
 </h1>
 
 <p align="center">
