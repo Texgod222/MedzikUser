@@ -598,7 +598,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser) - This is a special repository
+- [MedzikUser/MedzikUser](https://github.com/MedzikUser/MedzikUser) - MedzikUser's profile
 - [addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
 
 ## PHP 
