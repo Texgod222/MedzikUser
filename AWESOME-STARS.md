@@ -17,6 +17,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Fortran](#fortran)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -232,6 +233,10 @@
 
 - [fortran-lang/fpm](https://github.com/fortran-lang/fpm) - Fortran Package Manager (fpm)
 - [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) - Fortran Standard Library
+
+## GDScript 
+
+- [levigilbert/godot-LDtk-import](https://github.com/levigilbert/godot-LDtk-import) - Basic GDscript for importing LDtk files into the Godot game engine.
 
 ## Go 
 
