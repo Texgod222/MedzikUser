@@ -694,6 +694,7 @@
 
 ## Rust 
 
+- [lapce/lapce-rust](https://github.com/lapce/lapce-rust) - 
 - [hanabi1224/bevy_assets_bundler](https://github.com/hanabi1224/bevy_assets_bundler) - Assets Bundler for bevy, with encryption support
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
 - [revanced/revanced-discord-bot](https://github.com/revanced/revanced-discord-bot) - 🤖 The official Discord bot assisting the ReVanced Discord server
