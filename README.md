@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, random stranger!
-  <img src="https://i.imgur.com/Zw2ELB8.gif" width="28">
+  <img src="https://i.imgur.com/Zw2ELB8.gif" width="28" />
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="#">
     <img alt="MedzikUser Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedzikUser&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" />
   </a>
 </p>
@@ -43,7 +43,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="#">
     <img alt="MedzikUser Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MedzikUser&theme=dracula&background=0D1117&ring=5ce1e6&fire=5ce1e6&hide_border=true" />
   </a>
 </p>
@@ -53,7 +53,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/JEwT2">
+  <a href="#">
     <img alt="MedzikUser Top Langs" src="https://activity-graph.herokuapp.com/graph?username=MedzikUser&bg_color=0D1117&color=5ce1e6&line=F85D7F&point=5ce1e6&hide_border=true" />
   </a>
 </p>
@@ -63,7 +63,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/JJmN9">
+  <a href="#">
     <img alt="MedzikUser's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=MedzikUser&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" />
   </a>
 </p>
@@ -73,7 +73,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/JJmN9">
+  <a href="#">
     <img alt="MedzikUser's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Medzik&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" />
   </a>
 </p>
