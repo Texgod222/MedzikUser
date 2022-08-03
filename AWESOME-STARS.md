@@ -531,6 +531,7 @@
 
 ## Kotlin 
 
+- [vector-im/element-android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
 - [revanced/revanced-cli](https://github.com/revanced/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Official patches by ReVanced
@@ -574,6 +575,7 @@
 
 ## Others 
 
+- [dtolnay/foreach](https://github.com/dtolnay/foreach) - 
 - [HomeDisk/.github](https://github.com/HomeDisk/.github) - Config for the organization's profile.
 - [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
 - [lapce/atom-one](https://github.com/lapce/atom-one) - Atom One Theme
@@ -695,6 +697,10 @@
 
 ## Rust 
 
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
+- [dtolnay/rustversion](https://github.com/dtolnay/rustversion) - Conditional compilation according to rustc compiler version
+- [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
+- [dtolnay/serde-yaml](https://github.com/dtolnay/serde-yaml) - Strongly typed YAML library for Rust
 - [z3oxs/rough](https://github.com/z3oxs/rough) - A GTK based app launcher written in Rust
 - [lapce/lapce-rust](https://github.com/lapce/lapce-rust) - 
 - [hanabi1224/bevy_assets_bundler](https://github.com/hanabi1224/bevy_assets_bundler) - Assets Bundler for bevy, with encryption support
