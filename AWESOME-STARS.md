@@ -697,6 +697,7 @@
 
 ## Rust 
 
+- [arjsin/tokio-broadcast-example](https://github.com/arjsin/tokio-broadcast-example) - A simple broadcast server using tokio-core
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [dtolnay/rustversion](https://github.com/dtolnay/rustversion) - Conditional compilation according to rustc compiler version
 - [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
