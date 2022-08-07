@@ -942,6 +942,7 @@
 
 ## TypeScript 
 
+- [JoshGlazebrook/socks](https://github.com/JoshGlazebrook/socks) - Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [orf/cargo-bloat-action](https://github.com/orf/cargo-bloat-action) - Track rust binary sizes across builds using Github Actions
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
