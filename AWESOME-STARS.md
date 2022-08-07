@@ -696,6 +696,8 @@
 
 ## Rust 
 
+- [async-rs/async-tls](https://github.com/async-rs/async-tls) - A TLS implementation over AsyncRead and AsyncWrite
+- [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [arjsin/tokio-broadcast-example](https://github.com/arjsin/tokio-broadcast-example) - A simple broadcast server using tokio-core
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [dtolnay/rustversion](https://github.com/dtolnay/rustversion) - Conditional compilation according to rustc compiler version
