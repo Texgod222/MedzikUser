@@ -696,6 +696,7 @@
 
 ## Rust 
 
+- [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 - [async-rs/async-tls](https://github.com/async-rs/async-tls) - A TLS implementation over AsyncRead and AsyncWrite
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [arjsin/tokio-broadcast-example](https://github.com/arjsin/tokio-broadcast-example) - A simple broadcast server using tokio-core
