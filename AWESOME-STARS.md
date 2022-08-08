@@ -791,7 +791,7 @@
 - [catleeball/WebScreenShot](https://github.com/catleeball/WebScreenShot) - Screenshot a webpage rendered in headless Chrome.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [MedzikUser/discordrpc](https://github.com/MedzikUser/discordrpc) - Fast Discord RPC Client written in Rust 🦀
-- [nickofolas/discord-rich-presence](https://github.com/nickofolas/discord-rich-presence) - A cross-platform Discord Rich Presence library written in Rust
+- [sardonicism-04/discord-rich-presence](https://github.com/sardonicism-04/discord-rich-presence) - A cross-platform Discord Rich Presence library written in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
