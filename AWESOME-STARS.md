@@ -696,6 +696,7 @@
 
 ## Rust 
 
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 - [async-rs/async-tls](https://github.com/async-rs/async-tls) - A TLS implementation over AsyncRead and AsyncWrite
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
