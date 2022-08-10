@@ -834,7 +834,7 @@
 - [MedzikUser/imgurs](https://github.com/MedzikUser/imgurs) - CLI and Library for Imgur API written in Rust 🦀
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
-- [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Provides Rust bindings for GTK libraries
+- [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - Rust bindings for GTK 3
 - [Fierthraix/rmatrix](https://github.com/Fierthraix/rmatrix) - rust port of cmatrix
 - [pop-os/cosmic-settings](https://github.com/pop-os/cosmic-settings) - WIP - the Settings app for COSMIC
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
