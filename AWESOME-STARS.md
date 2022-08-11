@@ -627,6 +627,7 @@
 
 ## Python 
 
+- [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 - [rebane2001/txnor-server](https://github.com/rebane2001/txnor-server) - Server software running on txnor.com for the Discord s/e/x "hack".
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
