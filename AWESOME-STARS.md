@@ -576,6 +576,7 @@
 
 ## Others 
 
+- [OlyaB/DarkPurpleTheme](https://github.com/OlyaB/DarkPurpleTheme) - A dark theme in purple tones for JetBrains IDEs
 - [dtolnay/foreach](https://github.com/dtolnay/foreach) - 
 - [HomeDisk/.github](https://github.com/HomeDisk/.github) - Config for the organization's profile.
 - [revanced/revanced-documentation](https://github.com/revanced/revanced-documentation) - 🛠️ Documentation and build instructions for ReVanced
