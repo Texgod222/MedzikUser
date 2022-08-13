@@ -699,6 +699,7 @@
 
 ## Rust 
 
+- [lucaspoffo/renet](https://github.com/lucaspoffo/renet) - Server/Client network library for multiplayer games with authentication and connection management made with Rust
 - [licensebat/licensebat](https://github.com/licensebat/licensebat) - 🔐⛵ Effortless dependency compliance with your license policies
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
