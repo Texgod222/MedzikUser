@@ -701,6 +701,7 @@
 
 ## Rust 
 
+- [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [unrelentingtech/systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information
 - [lucaspoffo/renet](https://github.com/lucaspoffo/renet) - Server/Client network library for multiplayer games with authentication and connection management made with Rust
 - [licensebat/licensebat](https://github.com/licensebat/licensebat) - 🔐⛵ Effortless dependency compliance with your license policies
