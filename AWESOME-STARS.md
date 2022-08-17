@@ -51,6 +51,7 @@
 
 ## Assembly 
 
+- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
 - [RustCrypto/asm-hashes](https://github.com/RustCrypto/asm-hashes) - Assembly implementations of cryptographic hash functions
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
@@ -702,6 +703,7 @@
 
 ## Rust 
 
+- [briansmith/webpki](https://github.com/briansmith/webpki) - WebPKI X.509 Certificate Validation in Rust
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [unrelentingtech/systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information
 - [lucaspoffo/renet](https://github.com/lucaspoffo/renet) - Server/Client network library for multiplayer games with authentication and connection management made with Rust
