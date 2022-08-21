@@ -703,6 +703,7 @@
 
 ## Rust 
 
+- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [briansmith/webpki](https://github.com/briansmith/webpki) - WebPKI X.509 Certificate Validation in Rust
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [unrelentingtech/systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information
