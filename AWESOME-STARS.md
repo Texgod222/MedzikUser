@@ -893,7 +893,7 @@
 - [esp-rs/xtensa-toolchain](https://github.com/esp-rs/xtensa-toolchain) - A GitHub Action to install the Rust compiler fork targeting Xtensa devices
 - [built-aur/packages](https://github.com/built-aur/packages) - Built AUR is an unofficial repository for archlinux with compiled some packages from AUR on x86-64 and x86-64-v3 arches.
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
-- [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - 
+- [MedzikUser/dotfiles](https://github.com/MedzikUser/dotfiles) - My linux dotfiles
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
 - [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
