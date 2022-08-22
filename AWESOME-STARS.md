@@ -703,6 +703,7 @@
 
 ## Rust 
 
+- [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [briansmith/webpki](https://github.com/briansmith/webpki) - WebPKI X.509 Certificate Validation in Rust
