@@ -30,7 +30,6 @@
 - [Markdown](#markdown)
 - [Nim](#nim)
 - [Nix](#nix)
-- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -169,6 +168,7 @@
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client made with C++/gtkmm
 - [rakshasa/libtorrent](https://github.com/rakshasa/libtorrent) - libTorrent BitTorrent library
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [lutris/dxvk](https://github.com/lutris/dxvk) - Lutris' DXVK repository for providing custom DXVK versions
@@ -574,10 +574,6 @@
 ## Nix 
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
-
-## Objective-C 
-
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## Others 
 
