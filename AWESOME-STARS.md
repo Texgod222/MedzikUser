@@ -699,6 +699,7 @@
 
 ## Rust 
 
+- [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
 - [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
