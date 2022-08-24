@@ -44,7 +44,7 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
@@ -1038,7 +1038,7 @@
 
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 
-## Vim script 
+## Vim Script 
 
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
