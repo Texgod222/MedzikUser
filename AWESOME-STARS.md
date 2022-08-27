@@ -699,6 +699,9 @@
 
 ## Rust 
 
+- [tower-rs/tokio-tower](https://github.com/tower-rs/tokio-tower) - A implementation of convenience integrations between tokio and tower
+- [tower-rs/tower-http](https://github.com/tower-rs/tower-http) - HTTP specific Tower utilities.
+- [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
 - [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
