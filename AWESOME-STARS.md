@@ -84,7 +84,6 @@
 - [sass/sassc](https://github.com/sass/sassc) - libsass command line driver
 - [freedesktop/mesa-demos](https://github.com/freedesktop/mesa-demos) - A collection of OpenGL / Mesa demos and test programs.
 - [xanmod/linux](https://github.com/xanmod/linux) - XanMod: Linux kernel source code tree
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -156,6 +155,7 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [ebertolazzi/embedFiglet](https://github.com/ebertolazzi/embedFiglet) - C++ embeddable subset of Figlet
 - [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to youtube-dl
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
