@@ -700,6 +700,7 @@
 
 ## Rust 
 
+- [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [tower-rs/tokio-tower](https://github.com/tower-rs/tokio-tower) - A implementation of convenience integrations between tokio and tower
 - [tower-rs/tower-http](https://github.com/tower-rs/tower-http) - HTTP specific Tower utilities.
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
