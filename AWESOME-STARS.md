@@ -700,6 +700,7 @@
 
 ## Rust 
 
+- [iqlusioninc/yubikey.rs](https://github.com/iqlusioninc/yubikey.rs) - Pure Rust YubiKey host-side driver for PIV-based RSA/ECC key storage + signing/encryption support
 - [brendanzab/gl-rs](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader for Rust
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
