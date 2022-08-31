@@ -85,3 +85,10 @@
 <p align="center">
   Click <a href="AWESOME-STARS.md">here</a> to view my starred repositories
 </p>
+
+<p align="center">
+  <!-- Added 31 Aug 2022 -->
+  <a href="https://github.com/MedzikUser">
+    <img src="https://visitcount.itsvg.in/api?id=MedzikUser&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Profile views" />
+  </a>
+</p>
