@@ -537,6 +537,7 @@
 
 ## Kotlin 
 
+- [szkolny-eu/szkolny-android](https://github.com/szkolny-eu/szkolny-android) - Nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce.
 - [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs
 - [vector-im/element-android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
