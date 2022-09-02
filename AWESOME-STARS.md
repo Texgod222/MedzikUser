@@ -418,6 +418,7 @@
 
 ## Java 
 
+- [okanatas/NFCCardEmulator](https://github.com/okanatas/NFCCardEmulator) - Host-Based Card Emulator App
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
