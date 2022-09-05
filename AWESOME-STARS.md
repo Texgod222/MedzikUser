@@ -419,6 +419,7 @@
 
 ## Java 
 
+- [substratum/substratum](https://github.com/substratum/substratum) - An advanced theming manager designed to be used with RRO, OMS and Dynamic Overlays
 - [okanatas/NFCCardEmulator](https://github.com/okanatas/NFCCardEmulator) - Host-Based Card Emulator App
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
