@@ -704,6 +704,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [svenstaro/dummyhttp](https://github.com/svenstaro/dummyhttp) - Super simple HTTP server that replies a fixed body with a fixed response code
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [iqlusioninc/yubikey.rs](https://github.com/iqlusioninc/yubikey.rs) - Pure Rust YubiKey host-side driver for PIV-based RSA/ECC key storage + signing/encryption support
