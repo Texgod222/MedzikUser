@@ -705,6 +705,13 @@
 
 ## Rust 
 
+- [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
+- [dtolnay/automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module
+- [dtolnay/cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines) - Count lines of LLVM IR per generic function
+- [dtolnay/miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde
+- [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2) - 
+- [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
+- [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [svenstaro/dummyhttp](https://github.com/svenstaro/dummyhttp) - Super simple HTTP server that replies a fixed body with a fixed response code
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -902,6 +909,7 @@
 
 ## Shell 
 
+- [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [esp-rs/xtensa-toolchain](https://github.com/esp-rs/xtensa-toolchain) - A GitHub Action to install the Rust compiler fork targeting Xtensa devices
 - [built-aur/packages](https://github.com/built-aur/packages) - Built AUR is an unofficial repository for archlinux with compiled some packages from AUR on x86-64 and x86-64-v3 arches.
