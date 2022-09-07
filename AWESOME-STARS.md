@@ -541,6 +541,7 @@
 
 ## Kotlin 
 
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [szkolny-eu/szkolny-android](https://github.com/szkolny-eu/szkolny-android) - Nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce.
 - [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs
 - [vector-im/element-android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
