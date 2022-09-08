@@ -278,7 +278,7 @@
 - [shahidcodes/firebog-ticked-list](https://github.com/shahidcodes/firebog-ticked-list) - Merges firebog.net ticked host list to one giant file
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [gin-contrib/static](https://github.com/gin-contrib/static) - Static middleware
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
 - [0xAX/notificator](https://github.com/0xAX/notificator) - Desktop notifications with golang
 - [mkideal/cli](https://github.com/mkideal/cli) - CLI - A package for building command line app with go
@@ -467,6 +467,7 @@
 
 ## JavaScript 
 
+- [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
