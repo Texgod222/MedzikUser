@@ -707,6 +707,7 @@
 
 ## Rust 
 
+- [taiki-e/parse-changelog](https://github.com/taiki-e/parse-changelog) - Simple changelog parser, written in Rust.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [dtolnay/automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module
 - [dtolnay/cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines) - Count lines of LLVM IR per generic function
