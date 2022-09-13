@@ -56,6 +56,7 @@
 
 ## C 
 
+- [duckduckgo/netguard](https://github.com/duckduckgo/netguard) - 
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [elogind/elogind](https://github.com/elogind/elogind) - The systemd project's "logind", extracted to a standalone package
@@ -420,6 +421,7 @@
 
 ## Java 
 
+- [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [substratum/substratum](https://github.com/substratum/substratum) - An advanced theming manager designed to be used with RRO, OMS and Dynamic Overlays
 - [okanatas/NFCCardEmulator](https://github.com/okanatas/NFCCardEmulator) - Host-Based Card Emulator App
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
@@ -467,6 +469,7 @@
 
 ## JavaScript 
 
+- [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
