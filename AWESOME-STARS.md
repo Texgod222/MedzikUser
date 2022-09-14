@@ -983,7 +983,6 @@
 ## Svelte 
 
 - [MedzikUser/pingbot-website](https://github.com/MedzikUser/pingbot-website) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
-- [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - ☁️ Fast, lightweight and Open Source local cloud for your data made in Rust 🦀 and WebUI written in Svelte
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
 
 ## TypeScript 
