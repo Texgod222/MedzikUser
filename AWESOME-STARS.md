@@ -258,7 +258,7 @@
 - [MedzikUser/wserver](https://github.com/MedzikUser/wserver) - A simple WebSocket server written in Go which can be extended with plugins.
 - [MedzikUser/go-plugins-loader-example](https://github.com/MedzikUser/go-plugins-loader-example) - An example of dynamic plugin loading in Golang
 - [tobischo/gokeepasslib](https://github.com/tobischo/gokeepasslib) - A library to read and write keepass 2 files written in go
-- [MedzikUser/go-firenet](https://github.com/MedzikUser/go-firenet) - TCP server written in Go
+- [MedzikUser/firenet](https://github.com/MedzikUser/firenet) - TCP server written in Go
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
