@@ -607,7 +607,7 @@
 - [diamondburned/discord-emoji-dl](https://github.com/diamondburned/discord-emoji-dl) - Discord Emoji Downloader
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [0Zinc/easylists-for-pihole](https://github.com/0Zinc/easylists-for-pihole) - Easylists for your Pi-Hole
-- [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
+- [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
 - [eakhadov/eakhadov](https://github.com/eakhadov/eakhadov) - 🌲 Custom GitHub Readme file
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
