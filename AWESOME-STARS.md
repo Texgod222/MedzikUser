@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -547,7 +548,7 @@
 
 ## Jupyter Notebook 
 
-- [openai/whisper](https://github.com/openai/whisper) - 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 
 ## Kotlin 
 
