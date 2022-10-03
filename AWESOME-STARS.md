@@ -757,7 +757,7 @@
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [briansmith/webpki](https://github.com/briansmith/webpki) - WebPKI X.509 Certificate Validation in Rust
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [unrelentingtech/systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information
+- [unrelentingtech/systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information | also on https://codeberg.org/valpackett/systemstat
 - [lucaspoffo/renet](https://github.com/lucaspoffo/renet) - Server/Client network library for multiplayer games with authentication and connection management made with Rust
 - [licensebat/licensebat](https://github.com/licensebat/licensebat) - 🔐⛵ Effortless dependency compliance with your license policies
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
