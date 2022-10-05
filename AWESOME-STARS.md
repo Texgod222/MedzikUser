@@ -478,6 +478,7 @@
 
 ## JavaScript 
 
+- [duckduckgo/privacy-dashboard](https://github.com/duckduckgo/privacy-dashboard) - 
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
