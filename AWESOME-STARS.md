@@ -603,6 +603,7 @@
 
 ## Others 
 
+- [BytePass/server](https://github.com/BytePass/server) - The core server infrastructure
 - [OlyaB/DarkPurpleTheme](https://github.com/OlyaB/DarkPurpleTheme) - A dark theme in purple tones for JetBrains IDEs
 - [dtolnay/foreach](https://github.com/dtolnay/foreach) - 
 - [HomeDisk/.github](https://github.com/HomeDisk/.github) - Config for the organization's profile.
