@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [zakaria-chahboun/cute](https://github.com/zakaria-chahboun/cute) - a simple beautiful go print
 - [BytePass/server](https://github.com/BytePass/server) - The core server infrastructure
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1002,6 +1003,7 @@
 
 ## Svelte 
 
+- [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) - 🌀 What's really in your Discord Data package?
 - [MedzikUser/pingbot-website](https://github.com/MedzikUser/pingbot-website) - :star: Frontend and serverless api for https://github.com/MedzikUser/go-pingbot
 - [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website) - ☁️ Fast, lightweight and Open Source local cloud for your data made in Rust 🦀 and WebUI written in Svelte
 - [MedzikUser/portfolio](https://github.com/MedzikUser/portfolio) - Medzik's website
