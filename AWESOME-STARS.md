@@ -258,7 +258,7 @@
 
 ## Go 
 
-- [zakaria-chahboun/cute](https://github.com/zakaria-chahboun/cute) - a simple beautiful go print
+- [zakaria-chahboun/cute](https://github.com/zakaria-chahboun/cute) - a minimalist beautiful Go print (fmt alternative)
 - [BytePass/server](https://github.com/BytePass/server) - The core server infrastructure
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
