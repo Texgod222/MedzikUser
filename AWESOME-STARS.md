@@ -522,7 +522,7 @@
 - [discordjs/docgen](https://github.com/discordjs/docgen) - The docs.json generator for discord.js and its related projects
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [r0adkll/sign-android-release](https://github.com/r0adkll/sign-android-release) - A GitHub action to sign an APK or AAB
