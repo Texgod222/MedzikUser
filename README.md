@@ -16,7 +16,7 @@
   <a href="https://dsc.bio/medzik">
     <img alt="Discord Badge" src="https://img.shields.io/badge/-Discord-050A30?style=flat-square&logo=Discord&logoColor=white" />
   </a>
-  <a href="https://www.reddit.com/user/MedzikUser">
+  <a href="https://gitlab.com/Medzik">
     <img alt="GitLab Badge" src="https://img.shields.io/badge/-GitLab-5CE1E6?style=flat-square&logo=gitlab&logoColor=050A30" />
   </a>
   <a href="https://stackoverflow.com/users/19309268/medzik">
