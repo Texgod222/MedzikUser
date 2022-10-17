@@ -966,7 +966,7 @@
 - [lxqt/lxqt](https://github.com/lxqt/lxqt) - Checkout all LXQt components at once by using git submodule.
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
 - [ayamir/bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles) - My Arch+Bspwm dotfiles
-- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [stuarthayhurst/argon-grub-theme](https://github.com/stuarthayhurst/argon-grub-theme) - Configurable, modern theme for the grub bootloader, containing backgrounds, icons, fonts and styling
 - [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools
