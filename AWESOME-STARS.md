@@ -225,6 +225,7 @@
 
 ## Dart 
 
+- [BytePass/libcrypto-dart](https://github.com/BytePass/libcrypto-dart) - Cryptography utilities for dart-lang
 - [dint-dev/cryptography](https://github.com/dint-dev/cryptography) - Cryptography for Flutter developers: encryption, digital signatures, key agreement, etc.
 - [BytePass/mobile](https://github.com/BytePass/mobile) - The mobile app (Android, iOS)
 - [RivaanRanawat/instagram-flutter-clone](https://github.com/RivaanRanawat/instagram-flutter-clone) - Responsive Instagram Clone developed with Flutter & Firebase
