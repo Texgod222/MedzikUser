@@ -62,6 +62,7 @@
 
 ## C 
 
+- [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [duckduckgo/netguard](https://github.com/duckduckgo/netguard) - 
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
