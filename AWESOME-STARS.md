@@ -262,6 +262,7 @@
 
 ## Go 
 
+- [BytePass/libcrypto-go](https://github.com/BytePass/libcrypto-go) - Cryptography utilities for golang
 - [zakaria-chahboun/cute](https://github.com/zakaria-chahboun/cute) - a minimalist beautiful Go print (fmt alternative)
 - [BytePass/server](https://github.com/BytePass/server) - The core server infrastructure
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
