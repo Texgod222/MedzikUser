@@ -944,6 +944,7 @@
 
 ## Shell 
 
+- [dart-lang/setup-dart](https://github.com/dart-lang/setup-dart) - GitHub Action for install and setup of a Dart SDK
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
 - [esp-rs/xtensa-toolchain](https://github.com/esp-rs/xtensa-toolchain) - A GitHub Action to install the Rust compiler fork targeting Xtensa devices
