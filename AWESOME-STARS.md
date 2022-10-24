@@ -145,6 +145,7 @@
 
 ## C++ 
 
+- [fn2006/PollyMC](https://github.com/fn2006/PollyMC) - Fork of PolyMC that adds Ely.by support and allows you to use offline mode without an account.
 - [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development
 - [Zer0Mem0ry/RunPE](https://github.com/Zer0Mem0ry/RunPE) - Code that allows running another windows PE in the same address space as the host process.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
