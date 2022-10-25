@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [kirsle/configdir](https://github.com/kirsle/configdir) - A cross-platform Go library to get configuration and cache directories.
 - [shibukawa/configdir](https://github.com/shibukawa/configdir) - Multi platform library of configuration directories for Golang
 - [BytePass/libcrypto-go](https://github.com/BytePass/libcrypto-go) - Cryptography utilities for golang
 - [zakaria-chahboun/cute](https://github.com/zakaria-chahboun/cute) - a minimalist beautiful Go print (fmt alternative)
