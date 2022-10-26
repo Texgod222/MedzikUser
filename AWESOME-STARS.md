@@ -488,6 +488,7 @@
 
 ## JavaScript 
 
+- [material-foundation/material-dynamic-color-flutter](https://github.com/material-foundation/material-dynamic-color-flutter) - A Flutter package to create Material color schemes based on a platform's implementation of dynamic color
 - [duckduckgo/privacy-dashboard](https://github.com/duckduckgo/privacy-dashboard) - 
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
