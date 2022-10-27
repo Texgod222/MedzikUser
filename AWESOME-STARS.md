@@ -1074,7 +1074,7 @@
 - [MedzikUser/wrangler-cdn](https://github.com/MedzikUser/wrangler-cdn) - Cloudflare Worker to proxy Imgur :rocket:
 - [cloudflare/worker-typescript-template](https://github.com/cloudflare/worker-typescript-template) - ʕ •́؈•̀) TypeScript template for Cloudflare Workers
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
-- [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Spoof your location data and user agent
+- [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Browser Extension to spoof timezone, geolocation, locale and user agent
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
