@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [kirsle/configdir](https://github.com/kirsle/configdir) - A cross-platform Go library to get configuration and cache directories.
 - [shibukawa/configdir](https://github.com/shibukawa/configdir) - Multi platform library of configuration directories for Golang
 - [BytePass/libcrypto-go](https://github.com/BytePass/libcrypto-go) - Cryptography utilities for golang
