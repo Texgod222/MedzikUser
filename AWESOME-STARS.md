@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [ddosify/go-faker](https://github.com/ddosify/go-faker) - Faker for golang. Random data generator. Compatible with postman dynamic variables.
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [MedzikUser/libcrypto-go](https://github.com/MedzikUser/libcrypto-go) - Cryptography utilities for golang
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
