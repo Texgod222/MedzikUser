@@ -302,7 +302,7 @@
 - [shahidcodes/firebog-ticked-list](https://github.com/shahidcodes/firebog-ticked-list) - Merges firebog.net ticked host list to one giant file
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [gin-contrib/static](https://github.com/gin-contrib/static) - Static middleware
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test.
 - [0xAX/notificator](https://github.com/0xAX/notificator) - Desktop notifications with golang
 - [mkideal/cli](https://github.com/mkideal/cli) - CLI - A package for building command line app with go
