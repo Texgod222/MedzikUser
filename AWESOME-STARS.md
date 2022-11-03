@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [ddosify/go-faker](https://github.com/ddosify/go-faker) - Faker for golang. Random data generator. Compatible with postman dynamic variables.
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [MedzikUser/libcrypto-go](https://github.com/MedzikUser/libcrypto-go) - Cryptography utilities for golang
