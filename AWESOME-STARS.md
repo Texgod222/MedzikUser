@@ -227,7 +227,7 @@
 
 ## Dart 
 
-- [BytePass/libcrypto-dart](https://github.com/BytePass/libcrypto-dart) - Cryptography utilities for dart-lang
+- [MedzikUser/libcrypto-dart](https://github.com/MedzikUser/libcrypto-dart) - Cryptography utilities for dart-lang
 - [dint-dev/cryptography](https://github.com/dint-dev/cryptography) - Cryptography for Flutter developers: encryption, digital signatures, key agreement, etc.
 - [BytePass/mobile](https://github.com/BytePass/mobile) - The mobile app (Android, iOS)
 - [RivaanRanawat/instagram-flutter-clone](https://github.com/RivaanRanawat/instagram-flutter-clone) - Responsive Instagram Clone developed with Flutter & Firebase
@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [MedzikUser/go-avapi](https://github.com/MedzikUser/go-avapi) - AwesomeVault API Client for Go
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [ddosify/go-faker](https://github.com/ddosify/go-faker) - Faker for golang. Random data generator. Compatible with postman dynamic variables.
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
@@ -272,7 +273,7 @@
 - [shibukawa/configdir](https://github.com/shibukawa/configdir) - Multi platform library of configuration directories for Golang
 - [BytePass/libcrypto-go](https://github.com/BytePass/libcrypto-go) - Cryptography utilities for golang
 - [zakaria-chahboun/cute](https://github.com/zakaria-chahboun/cute) - a minimalist beautiful Go print (fmt alternative)
-- [BytePass/server](https://github.com/BytePass/server) - The core server infrastructure
+- [MedzikUser/AwesomeVault](https://github.com/MedzikUser/AwesomeVault) - The core AwesomeVault server infrastructure
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
