@@ -227,6 +227,7 @@
 
 ## Dart 
 
+- [MedzikUser/dart-avapi](https://github.com/MedzikUser/dart-avapi) - AwesomeVault API Client for Dart
 - [drager/faker](https://github.com/drager/faker) - A library for Dart that generates fake data.
 - [MedzikUser/libcrypto-dart](https://github.com/MedzikUser/libcrypto-dart) - Cryptography utilities for dart-lang
 - [dint-dev/cryptography](https://github.com/dint-dev/cryptography) - Cryptography for Flutter developers: encryption, digital signatures, key agreement, etc.
